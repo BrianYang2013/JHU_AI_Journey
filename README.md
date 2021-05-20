@@ -16,7 +16,7 @@ From June 1st 2021
 * Misc: US degree, finance, time. 
 
 ## Goals 
-* Math - Understand. Increase awareness, and build the foundation for the future. 
+* Math - Understand and awareness. Build the foundation for the future. 
 * Coding - Improve the technical expertise. Algorithms, packages, framework etc.
 * Academic training - Learn about how to discover better knowledge, understand where good taste and standards are, question my knowledge system to support my continuous learning and improvement in the future.
 
@@ -51,6 +51,7 @@ From June 1st 2021
 * May 2021: [Khan: Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus). In progress
 * May 2021: [Advanced Engineering Mathematics, 10th Edition](http://webpages.iust.ac.ir/jazbi/books/10Edition-ErwinKreyszig-AdvancedEngineeringMathematics.pdf), or you can find it on [Amazon](https://www.amazon.com/Advanced-Engineering-Mathematics-Erwin-Kreyszig/dp/0470458364/ref=sr_1_1?dchild=1&keywords=advanced+engineering+mathematics&qid=1621532850&s=books&sr=1-1), really expensive. In progress
 ## Pre-requisites courses
+Although I might exempt from some of them, I don't think I still remember most of them after 20 years. Let me just take as much pre-requisites courses as possible. 
 * Multivariable and Complex Analysis
 * Linear Algebra
 * Statistics and Probability
@@ -63,8 +64,8 @@ From June 1st 2021
   * Coursera, Khan (inspired by my classmate. Not sure I should provide his name to respect his idea or hide his name to repsect his privacy.)
   * Math - [Areas of mathematics](https://en.wikipedia.org/wiki/Areas_of_mathematics)
   * Math - [Graduate Texts in Mathematics](https://en.wikipedia.org/wiki/Graduate_Texts_in_Mathematics)
-  * Standford - [CS229: Machine Learning](http://cs229.stanford.edu/)
-  * Standford - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
-  * Berkeley - [EECS 208: Computational Principles for High-dimensional Data Analysis](https://book-wright-ma.github.io/Book-WM-20210422.pdf), 
-  * Berkeley - [CS 285: Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc), 
-  * NYU - [DS-GA 1008: Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)
+  * Course - Standford, [CS229: Machine Learning](http://cs229.stanford.edu/)
+  * Course - Standford, [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+  * Course - Berkeley, [EECS 208: Computational Principles for High-dimensional Data Analysis](https://book-wright-ma.github.io/Book-WM-20210422.pdf), 
+  * Course - Berkeley, [CS 285: Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc), 
+  * Course - NYU, [DS-GA 1008: Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)
