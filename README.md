@@ -31,18 +31,18 @@ From June 1st 2021
   * Nov 2020: xx/xx/23/27. Ok, maybe I do not belong to UCLA and UW. 
 * Application
   * Painful to get all documents verified, especially government and [WES, world education services](https://www.wes.org). WES issue me a wrong course-to-course evaluation report in the first place and then leave a major issue in the correction report. After the second report, they insist 72 < 71, and there is nothing they can do about it. Probably, that is life. 
-  * 3 applications, 3 offer. 
-  * School 1 is great, but focus on engineering perspective. This might not be the best area I am looking for. 
-  * School 2 is great, but one of my friends just enrolled. Maybe I can try something different and diversify the experience. 
+  * 3 applications, 3 offers. 
+  * School 1: more focus on the engineering perspective. This might not be the best area I am looking for. 
+  * School 2: one of my friends just enrolled. Maybe I can try something different and diversify the experience. 
   * JHU seems one of the most rigorous program I can find. I Choose You! (Quote from Pokémon)
 * JHU
   * Provisional admission in DS program @ Jan 2021
-  * Interesting to see the breakthrough in the mathematic, such as [Deep Networks from First Principles](https://cmsa.fas.harvard.edu/wp-content/uploads/2021/04/Deep_Networks_from_First_Principles.pdf), and [Geometric Deep Learning,  Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/abs/2104.13478), So I switch to the AI program @ May 2021
+  * Interesting to see the breakthrough in the mathematic, such as [Deep Networks from First Principles](https://cmsa.fas.harvard.edu/wp-content/uploads/2021/04/Deep_Networks_from_First_Principles.pdf), and [Geometric Deep Learning,  Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/abs/2104.13478). Considering I have worked 15 years in the data analytic, maybe I take one more step for my next 15 yeras. So I switch to the AI program @ May 2021
   * Start in June. 
 
 ## Before the semester start
 * Q1 2021: Stablize the current working envirnoment, and secure resource
-  * Full time work: 50% of work will focus on ML/AI projects, and no over-time work in the next 3 years. 
+  * Full time work: After Q2, 50% of work will focus on ML/AI projects, and no over-time work in the next 3 years. 
   * Personal Time: Secure 20:00-23:00 PM for study. One weekend (well...) 
   * Financial part. 
 * March 2021: [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming). Brush up my python skill. Finish in 4-5 weeks maybe. 
