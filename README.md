@@ -11,21 +11,13 @@ Artificial Intelligence, Master of Science @ JHU Whiting School of Engineering
   * If you want to start in DS/ML/AI area, go [Kaggle](https://www.kaggle.com/), [Coursera](https://www.coursera.org/) etc.
   * If you want to apply DS/ML/AI to your job, go for the packages such as [Scikit-learn](https://scikit-learn.org/stable/#), [Xgboost](https://xgboost.readthedocs.io/en/latest/), or search repo in Github. 
   * If you want to know more about SOTA, go to Github, conference such as ACL, ICML, NIPS, AAAI, IJCAI, ICCV, CVPR, KDD..., or Arxiv
-  * If you want to take one course, you can find a lot of open resources available online. Such as [CS229: Machine Learning](http://cs229.stanford.edu/), [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/), [EECS 208: Computational Principles for High-dimensional Data Analysis](https://book-wright-ma.github.io/Book-WM-20210422.pdf), [CS 285: Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc), [DS-GA 1008: Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)...
+  * If you want to take one course, you can find a lot of open resources available online. Some good courses can be found in the reference resource session. 
 * Misc: US degree, finance, time. 
 
 ## Goals 
-* Math - Understanding and awareness 
+* Math - Understand. Increase awareness, and build the foundation for the future. 
 * Coding - Improve the technical expertise. Algorithms, packages, framework etc.
 * Academic training - Learn about how to discover better knowledge, understand where good taste and standards are, question my knowledge system to support my continuous learning and improvement in the future.
-
-### Tips
-* Start early 
-* Secure Resource
-  * Full-time work: 50% of work will focus on ML/AI projects, and no over time work in the next 3 years. 
-  * Time: Secure 20:00-23:00 PM for study. One weekend (well...) 
-  * Finance
-* GPA
 
 ## Journey of applying the schools
 * 2018: Plan for my DS master application. It was interrupted by an international assignment. 
@@ -47,8 +39,11 @@ Artificial Intelligence, Master of Science @ JHU Whiting School of Engineering
   * Interesting to see the breakthrough in the mathematic, such as [Deep Networks from First Principles](https://cmsa.fas.harvard.edu/wp-content/uploads/2021/04/Deep_Networks_from_First_Principles.pdf), and [Geometric Deep Learning,  Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/abs/2104.13478), So I switch to the AI program @ May 2021
   * Start in June. 
 
-## Preparation
-* Q1 2021: Stablize the current working envirnoment. 
+## Before the course start
+* Q1 2021: Stablize the current working envirnoment, and secure resource
+  * Full time work: 50% of work will focus on ML/AI projects, and no over-time work in the next 3 years. 
+  * Personal Time: Secure 20:00-23:00 PM for study. One weekend (well...) 
+  * Financial part. 
 * March 2021: [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming). Brush up my python skill. 4-5 weeks maybe. 
 * March 2021: [Precalculus through Data and Modelling Specialization](https://www.coursera.org/specializations/precalculus-data-modelling). Familar with the math term in English, and refresh my high school math. 1 week
 * April 2021: [Calculus I with Precalculus: A One-Year Course](https://www.amazon.com/Calculus-I-Precalculus-One-Year-Course-dp-0618568069/dp/0618568069/ref=mt_other?_encoding=UTF8&me=&qid=1621531863). I just happens to have this book. The US text books organized in a logical way and easy to follow. Love it. 
@@ -63,9 +58,12 @@ Artificial Intelligence, Master of Science @ JHU Whiting School of Engineering
 
 
 
-### Will move to end of this document.
-Resource: 
-  * Coursera, Khan
+### Reference Resources: 
+  * Coursera, Khan (inspired by my classmate. Not sure I should provide his name to respect his idea or hide his name to repsect his privacy.)
   * Math - [Areas of mathematics](https://en.wikipedia.org/wiki/Areas_of_mathematics)
   * Math - [Graduate Texts in Mathematics](https://en.wikipedia.org/wiki/Graduate_Texts_in_Mathematics)
-  * Interesting courses - 
+  * Standford - [CS229: Machine Learning](http://cs229.stanford.edu/)
+  * Standford - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+  * Berkeley - [EECS 208: Computational Principles for High-dimensional Data Analysis](https://book-wright-ma.github.io/Book-WM-20210422.pdf), 
+  * Berkeley - [CS 285: Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc), 
+  * NYU - [DS-GA 1008: Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)
