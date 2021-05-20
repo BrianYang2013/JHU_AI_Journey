@@ -9,7 +9,7 @@ Artificial Intelligence, Master of Science @ JHU
 * TOEFL: 
   * Sept 2020: 29/29/23/25. UCLA requires 21/17/24/25, and UW requires all 25+. Focus on speaking
   * Oct 2020: xx/xx/25/21. Sad. Focus on writing. Last try
-  * Nov 2020: xx/xx/23/27. Ok, I am not belongs to UCLA and UW. 
+  * Nov 2020: xx/xx/23/27. Ok, maybe I am not belongs to UCLA and UW. 
 * Application
   * Painful to get all documents verified, especially government and [WES, world education services](https://www.wes.org). WES issue me a wrong course-to-course evaluation report in the first place, and then leave a major issue in the correction report. After the second report, they insist 72 < 71 and there is nothing they can do about it. Probably, that is life. 
   * 3 applications, 3 offer. 
