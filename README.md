@@ -1,5 +1,6 @@
 # AI journey in JHU
-Artificial Intelligence, Master of Science @ JHU Whiting School of Engineering
+Artificial Intelligence, Master of Science @ JHU Whiting School of Engineering.
+From June 1st 2021
 
 ## Why this repo
 * Record, reflection, improvement(iteration, epoch...)
