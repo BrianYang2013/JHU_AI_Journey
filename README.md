@@ -40,18 +40,18 @@ From June 1st 2021
   * Interesting to see the breakthrough in the mathematic, such as [Deep Networks from First Principles](https://cmsa.fas.harvard.edu/wp-content/uploads/2021/04/Deep_Networks_from_First_Principles.pdf), and [Geometric Deep Learning,  Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/abs/2104.13478), So I switch to the AI program @ May 2021
   * Start in June. 
 
-## Before the course start
+## Before the semester start
 * Q1 2021: Stablize the current working envirnoment, and secure resource
   * Full time work: 50% of work will focus on ML/AI projects, and no over-time work in the next 3 years. 
   * Personal Time: Secure 20:00-23:00 PM for study. One weekend (well...) 
   * Financial part. 
-* March 2021: [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming). Brush up my python skill. 4-5 weeks maybe. 
-* March 2021: [Precalculus through Data and Modelling Specialization](https://www.coursera.org/specializations/precalculus-data-modelling). Familar with the math term in English, and refresh my high school math. 1 week
-* April 2021: [Calculus I with Precalculus: A One-Year Course](https://www.amazon.com/Calculus-I-Precalculus-One-Year-Course-dp-0618568069/dp/0618568069/ref=mt_other?_encoding=UTF8&me=&qid=1621531863). I just happens to have this book. The US text books organized in a logical way and easy to follow. Love it. 
+* March 2021: [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming). Brush up my python skill. Finish in 4-5 weeks maybe. 
+* March 2021: [Precalculus through Data and Modelling Specialization](https://www.coursera.org/specializations/precalculus-data-modelling). Familar with the math term in English, and refresh my high school math. Finish in 1 week. 
+* April 2021: [Calculus I with Precalculus: A One-Year Course](https://www.amazon.com/Calculus-I-Precalculus-One-Year-Course-dp-0618568069/dp/0618568069/ref=mt_other?_encoding=UTF8&me=&qid=1621531863). I just happens to have this book. The US text books organized in a logical way and easy to follow. Love it. Finished. 
 * May 2021: [Khan: Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus). In progress
-* May 2021: [Advanced Engineering Mathematics, 10th Edition](http://webpages.iust.ac.ir/jazbi/books/10Edition-ErwinKreyszig-AdvancedEngineeringMathematics.pdf), or you can find it on [Amazon](https://www.amazon.com/Advanced-Engineering-Mathematics-Erwin-Kreyszig/dp/0470458364/ref=sr_1_1?dchild=1&keywords=advanced+engineering+mathematics&qid=1621532850&s=books&sr=1-1), really expensive. In progress
+* May 2021: [Advanced Engineering Mathematics, 10th Edition](http://webpages.iust.ac.ir/jazbi/books/10Edition-ErwinKreyszig-AdvancedEngineeringMathematics.pdf), or you can find it on [Amazon](https://www.amazon.com/Advanced-Engineering-Mathematics-Erwin-Kreyszig/dp/0470458364/ref=sr_1_1?dchild=1&keywords=advanced+engineering+mathematics&qid=1621532850&s=books&sr=1-1), pretty expensive. In progress
 ## Pre-requisites courses
-Although I might exempt from some of them, I don't think I still remember most of them after 20 years. Let me just take as much pre-requisites courses as possible. 
+Although I might exempt from some of them, I don't think I still remember them after 20 years. Plan to take as much pre-requisites courses as possible. 
 * Multivariable and Complex Analysis
 * Linear Algebra
 * Statistics and Probability
@@ -60,7 +60,7 @@ Although I might exempt from some of them, I don't think I still remember most o
 
 
 
-### Reference Resources: 
+## Reference Resources: 
   * Coursera, Khan (inspired by my classmate. Not sure I should provide his name to respect his idea or hide his name to repsect his privacy.)
   * Math - [Areas of mathematics](https://en.wikipedia.org/wiki/Areas_of_mathematics)
   * Math - [Graduate Texts in Mathematics](https://en.wikipedia.org/wiki/Graduate_Texts_in_Mathematics)
