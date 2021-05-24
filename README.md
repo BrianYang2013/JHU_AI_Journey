@@ -4,9 +4,9 @@ From 2021 summer
 
 ## Why this repo
 * Plan, do, check: record/analysis/reflection, improvement (or so called iteration)
-* Provide a reference for people who are interested.
+* Provide a reference, a checking point, or one date point to the community.
 
-## Think before action
+## Before you pick a program
 * Master or PhD, Engineering or MBA, Full-time or part-time
 * Which area to pick? DS: insights. ML: forecasts. AI: actions. Reference: [What's the difference between data science, machine learning, and artificial intelligence?](http://varianceexplained.org/r/ds-ml-ai/)
 * Alternative choice
@@ -15,26 +15,27 @@ From 2021 summer
   * If you are aiming to re-produce SOTA, go to Github, conferences such as ACL, ICML, NIPS, AAAI, IJCAI, ICCV, CVPR, KDD..., or Arxiv
   * If you want to take one course, you can find a lot of open resources available online. Some good courses examples can be found at the reference resource session.
 * Misc: US degree, finance, time, risk and opportunity cost.
-* Read this: [Why AI is Harder Than We Think](https://arxiv.org/pdf/2104.12871.pdf)
+* As-is : [Why AI is Harder Than We Think](https://arxiv.org/pdf/2104.12871.pdf)
 
 ## Goals
 * AGI(Artificial General Intelligence) is not likely to happen in my generation. But if something interesting comes up, I wish I can understand it.
 * Personal interests
   * Math
     * Awareness
-    * Lay the foundation. Meanwhile, I should be able to understand math in a reasonable timeframe (GTM level, 3 months?)
-  * Coding - Improve the technical expertise. Properly need to practice every day.
-    * You don't know what you don't know.
-    * Copy, applying, innovate.
-  * Engineering - I am not too worry about this part.
+    * Lay the foundation. After the training, I should be able to pick up a GTM level math course in 3 months.
+  * Coding - Properly need to practice every day.
   * Academic Training - I should be able to discover and pick up the knowledge, be aware of where good taste and standards are, and restructure my knowledge system to support my future improvement.
-* General Goals (keep collecting)
+* General Goals - Pick a few which suits you. Keep collecting
   * Program - Finish it
-  * Program - Finish with shortest possible timeframe (not for me)
-  * GPA - I heard there is something called straight A.
-  * Academy - Research project, or leave your name on a paper (cool!)
-  * Network - Join some interesting group
-  * Career - Find a job (I already got one), startup
+  * Program - Finish with the shortest possible timeframe
+  * Program - Finish with honor
+  * Academic - Join a research project,
+  * Academic - publish a paper
+  * Coding -
+  * Engineering -
+  * Softskills -
+  * Network -
+  * Career - Find a job, or join a startup
   * Community - Record my journey which might help others.  
 
 ## Journey of applying the schools
@@ -91,4 +92,7 @@ No matter what you scored 20 years ago, they won't leave too much trace on you. 
   * [GitHub Desktop](https://desktop.github.com/) - Maintain this repo
   * [Atom](https://atom.io/) - Markdown editor
   * [markdown-preview-enhanced](https://atom.io/packages/markdown-preview-enhanced) - Plugin, for markdown preview and Latex
-  *  iPad - Recommend for reading the textbooks. It is astonishing to know that a public textbook(in PDF) list \$900+ on Amazon as new, while \$600+ (acceptable) or \$200 (good) as second hand. Obviously there is something wrong in the US academic publication system.
+  *  iPad - for PDF textbooks. It is astonishing to know that the textbook offer publicly in PDF(Thanks Author!) but listed \$900+ on Amazon as new,  \$600+ (acceptable) or \$200 (good) as second hand. Obviously there is something wrong in the US academic publication system.
+
+### Tips
+* [Github Markdown](https://guides.github.com/features/mastering-markdown/)
