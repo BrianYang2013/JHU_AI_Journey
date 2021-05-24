@@ -127,7 +127,7 @@ $8.5w-11.1u+0.4v=\begin{bmatrix}
 27\\
 -9
 \end{bmatrix}$
-19. Metrics with entries $a_{ij}$, then follow the basic arithmetic rule.
+19. Expand metrics with entries $a_{ij}$, then follow the basic arithmetic rule.
 20. b-1: $\begin{bmatrix}
 -1 & 1 & 0 & -1 & -1\\
 1 & -1 & 0 & 0 & 0\\
@@ -141,4 +141,66 @@ b-2: $\begin{bmatrix}
 0 & 0 & 0 & 1 & 1 & 0 & 0\\
 \end{bmatrix}$
 
-c: ![Sketch three networks](Img/IMG_3268.jpg)
+c: ![Sketch three networks](Img/IMG_3404.jpg)
+## P270 - Problem set 7.2
+Example13. In the final stable situation(limit),
+$I+C+R=100$
+$0.7C+0.1I=C$
+$0.2C+0.9I+0.2R=I$
+$0.1C+0.8R=R$
+So we can get C=200/9, I=200/3, R=100/9.
+Will revisit it after Sec. 8.2
+
+1. Per definition, the number of the entries in the columns of the second matrix have to be same as the number of the entries in the rows of the first matrix. In short, if mxn matrix multiple pxq, then n=p. Or you won't be able to perform the dot product.
+2. All entries or components are 0
+3. No. All rows are proportional.
+4. Min is 1 which is 0, and max is $n(n-1)+1$
+Take 3x3 as example, $\begin{bmatrix}
+0 & a & b\\
+-a & 0 & c\\
+-b & -c & 0 \\
+\end{bmatrix}$
+5. Min is 1 which is 0, and max is $\frac {n(n+1)}{2}$
+Take 3x3 as example, $\begin{bmatrix}
+a & b & c\\
+b & d & e\\
+c & e & f\\
+\end{bmatrix}$
+6. $U_1+U_2, U_1U_2, U_1^2$ are upper triangular matrices.$L_1+L_2$ is lower triangular.
+7. $\begin{bmatrix}
+0 & 0\\
+0 & 0\\
+\end{bmatrix}$ $\begin{bmatrix}
+0 & 0\\
+0 & 1\\
+\end{bmatrix}$ $\begin{bmatrix}
+1 & 0\\
+0 & 0\\
+\end{bmatrix}$ $\begin{bmatrix}
+1 & 0\\
+0 & 1\\
+\end{bmatrix}$
+8. $\begin{bmatrix}
+0 & 0\\
+0 & 0\\
+\end{bmatrix}$ for any $m\ge1, m\in N$. $\begin{bmatrix}
+0 & 1\\
+0 & 0\\
+\end{bmatrix} $ and $\begin{bmatrix}
+0 & 0\\
+1 & 0\\
+\end{bmatrix}$ for any $m\ge2, m\in N$.
+9. Expand metrics with entries $a_{ij}$, then follow the basic arithmetic rule.
+10. Expand metrics with entries $a_{ij}$, then follow the basic arithmetic rule.
+11. $AB=AB^T=\begin{bmatrix}
+10 & -14 & -6\\
+-5 & 7 & -12\\
+-5 & -1 & -4\\
+\end{bmatrix}$
+$BA=B^TA=\begin{bmatrix}
+10 & -5 & -15\\
+-14 & 7 & -3\\
+-2 & -4 & -4\\
+\end{bmatrix}$
+
+20.
