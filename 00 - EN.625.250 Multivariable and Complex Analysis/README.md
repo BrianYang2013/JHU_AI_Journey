@@ -1,8 +1,8 @@
 # About this repo
 I plan to publish my solutions and exercise here. It will not include the quiz and exam since they belong to the school.
 
-Plan to do my best to reduce the sily mistakes, but you know, I am learning and restricted by time. May I can try:
-* Cross-check the result with my classmate,  
+Plan to do my best to reduce the silly mistakes:
+* Cross-check the result with my classmates,  
 * Check the odd-number answers in the textbook appendix,
 * Double-check if I get enough time to avoid silly mistakes,
 
