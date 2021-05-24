@@ -7,8 +7,8 @@
 E2: 3x7,
 E3: 2x2, 2x2, 2x2, 2x3, 2x3,
 E5:3x2
-4. 1A: 4, 0, 1.
-3A: $a_{11}, a_{22}$.
+4. 1A: 4, 0, 1
+3A: $a_{11}, a_{22}$
 3B: 4, -1
 5. $B = \frac {1}{5} A$,
 $B = \frac {1}{10} A$
@@ -141,4 +141,4 @@ b-2: $\begin{bmatrix}
 0 & 0 & 0 & 1 & 1 & 0 & 0\\
 \end{bmatrix}$
 
-c: ![Sketch three networks](https://imgur.com/a/nC4fcVb)
+c: ![Sketch three networks](https://github.com/BrianYang2013/JHU_AI_Journey/blob/main/00%20-%20EN.625.250%20Multivariable%20and%20Complex%20Analysis/Img/IMG_3268.jpg)
