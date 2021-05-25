@@ -6,7 +6,7 @@ Plan to reduce the mistakes by:
 * Check the odd-number answers in the textbook appendix,
 * Double-check if I get enough time to avoid silly mistakes,
 
-I will be very happy to receive any suggestions and feedback to reduce the mistakes. 
+I will be very happy to receive any suggestions and feedback to reduce the mistakes.
 
 # About this course
 This course mainly covers Linear algebra, multivariable calculus, and complex analysis.

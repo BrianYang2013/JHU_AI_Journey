@@ -180,6 +180,7 @@ c & e & f\\
 1 & 0\\
 0 & 1\\
 \end{bmatrix}$
+$~\\$
 8. $\begin{bmatrix}
 0 & 0\\
 0 & 0\\
@@ -216,6 +217,7 @@ $BA=B^TA=\begin{bmatrix}
 -6 & 10 & 0\\
 0 & 0 & 4\\
 \end{bmatrix}$
+$~\\$
 
 13. $CC^T=\begin{bmatrix}
 1 & 2 & 0\\
@@ -448,7 +450,7 @@ Three days after today = $\begin{bmatrix}
 \end{bmatrix} $
 The limit of N is ${5\over7}$
 
-27. Leave for future
+27. Reserve for future
 
 28. Present = $\begin{bmatrix}
 Subs. \\
@@ -581,3 +583,274 @@ $[x_1, x_2, x_3]\begin{bmatrix}
 $x_3$remain the same. counterclockwise rotation of the Cartesian coordinate system $x_1x_2$ in the plane about the origin by angle of $\psi$
 
 ## P280 - Problem set 7.3
+1. $\begin{bmatrix}
+1 & 0 & -2\\
+0 & 1& 1\over2\\
+\end{bmatrix}$
+$~\\$
+
+2. $\begin{bmatrix}
+1 & 0 & 2\over5\\
+0 & 1& 6\over5\\
+\end{bmatrix}$
+$~\\$
+
+3. $\begin{bmatrix}
+1 & 0 & 0 & 1\\
+0 & 1 & 0 & 3\\
+0 & 0 & 1 & -5\\
+\end{bmatrix}$
+$~\\$
+
+4. $\begin{bmatrix}
+1 & -4 & 1 & -2\\
+0 & 17 & -4 & 12\\
+0 & -34 & 8 & -13\\
+\end{bmatrix}$ = No solution
+$~\\$
+
+5. $\begin{bmatrix}
+1 & 33 & -225\\
+0 & 139 & -973\\
+0 & -376 & 2632\\
+\end{bmatrix}=\begin{bmatrix}
+1 & 0 & 6\\
+0 & 1 & -7\\
+0 & 1 & -7\\
+\end{bmatrix}$
+$~\\$
+
+6. $\begin{bmatrix}
+1 & -2 & 2 & 9\\
+0 & 0 & 1 & 4\\
+0 & 0 & -5 & -20\\
+\end{bmatrix}=\begin{bmatrix}
+2t+1\\
+t\\
+4\\
+\end{bmatrix}$
+$~\\$
+
+7. $\begin{bmatrix}
+1 & 5 & -1 & 0\\
+0 & 2 & -1 & 0\\
+0 & 2 & -1 & 0\\
+\end{bmatrix}=\begin{bmatrix}
+-3t\\
+t\\
+2t\\
+\end{bmatrix}$
+$~\\$
+
+8. $\begin{bmatrix}
+1 & 2 & 1 & 3\\
+0 & 4 & 3 & 8\\
+0 & 4 & 3 & 4\\
+\end{bmatrix}$ = No solution
+$~\\$
+
+9. $\begin{bmatrix}
+3 & 4 & -5 & 13\\
+0 & 1 & 1 & 4\\
+\end{bmatrix} = \begin{bmatrix}
+3t-1\\
+4-t\\
+t\\
+\end{bmatrix}$
+$~\\$
+
+10.  $\begin{bmatrix}
+5 & -7 & 3 & 17\\
+5 & -7 & 3 & -50/3\\
+\end{bmatrix}$ = No solution
+$~\\$
+
+11.  $\begin{bmatrix}
+2 & -3 & -3 & 6 & 2\\
+0 & 1 & 1 & -2 & 0\\
+0 & 0 & 0 & 0 & 0\\
+\end{bmatrix}$, so we can get $\begin{bmatrix}
+1\\
+2m-n\\
+n\\
+m\\
+\end{bmatrix}$
+$~\\$
+
+12.  $\begin{bmatrix}
+1 & -1 & 2 & 0 & 0\\
+1 & -1 & 2 & 0 & 0\\
+1 & -1 & 2 & -5/3 & -5\\
+\end{bmatrix}$, so we can get $\begin{bmatrix}
+n-2m\\
+n\\
+m\\
+3\\
+\end{bmatrix}$
+$~\\$
+
+13. $\begin{bmatrix}
+0 & 10 & 4 & -2 & -4\\
+-3 & -17 & 1 & 2 & 2\\
+1 & 1 & 1 & 0 & 6\\
+8 & -34 & 16 & -10 & 4\\
+\end{bmatrix}=\begin{bmatrix}
+1 & 1 & 1 & 0 & 6\\
+0 & 10 & 4 & -2 & -4\\
+0 & -14 & 4 & 2 & 20\\
+0 & 21 & -4 & 5 & 22\\
+\end{bmatrix}$
+$=\begin{bmatrix}
+1 & 1 & 1 & 0 & 6\\
+0 & 1 & -12 & 9 & 30\\
+0 & 0 & -41 & 32 & 110\\
+0 & 0 & -31 & 23 & 76\\
+\end{bmatrix}=\begin{bmatrix}
+1 & 0 & 0 & 0 & 4\\
+0 & 1 & 0 & 0 & 0\\
+0 & 0 & 1 & 0 & 2\\
+0 & 0 & 0 & 1 & 6\\
+\end{bmatrix}$
+$~\\$
+
+14. $\begin{bmatrix}
+1 & -1 & 3 & -3 & 3\\
+2 & 3 & 1 & -11 & 1\\
+5 & -2 & 5 & -4 & 5\\
+3 & 4 & -7 & 2 & -7\\
+\end{bmatrix} = \begin{bmatrix}
+1 & -1 & 3 & -3 & 3\\
+0 & 1 & -1 & -1 & -1\\
+0 & 3 & -10 & 11 & -10\\
+0 & 7 & -16 & 11 & -16\\
+\end{bmatrix} = \begin{bmatrix}
+1 & -1 & 3 & -3 & 3\\
+0 & 1 & -1 & -1 & -1\\
+0 & 0 & 1 & -2 & 1\\
+0 & 0 & 1 & -2 & 1\\
+\end{bmatrix}$
+so we can get $\begin{bmatrix}
+0\\
+3t\\
+1+2t\\
+t\\
+\end{bmatrix}$
+$~\\$
+
+15. Expand metrics with entries $a_{ij}$, then follow the basic arithmetic rule.
+
+16. Reserve for future
+
+17. $\begin{bmatrix}
+1 & 1 & -1 & 0\\
+4 & 0 & 1 & 16\\
+0 & 4 & 1 & 32\\
+\end{bmatrix} = \begin{bmatrix}
+1 & 1 & -1 & 0\\
+0 & 4 & 1 & 32\\
+0 & 0 & 6 & 48\\
+\end{bmatrix}$
+so we can get $\begin{bmatrix}
+2\\
+6\\
+8\\
+\end{bmatrix}$
+
+18. I am highly unsure about this one. Need a physical book
+$\begin{bmatrix}
+1 & -1 & -1 & 0\\
+0 & 4 & 1 & 9\\
+0 & 0 & 5 & -3\\
+\end{bmatrix}$
+so we can get $\begin{bmatrix}
+9/5\\
+12/5\\
+-3/5\\
+\end{bmatrix}$
+
+19. $\begin{bmatrix}
+{E_0 \over R_2}+{E_0 \over R_1}\\
+-{E_0 \over R_1}\\
+E_0 \over R_2\\
+\end{bmatrix}$
+
+20. $I_3=I_x, I_1=I_2$
+$I_1R_1=I_xR_x, I_3R_3=I_2R_2$, so we can get
+$R_x=R_3R_1/R_2$
+
+21. $\begin{bmatrix}
+1 & 1 & 0 & 0 & 1600\\
+1 & 0 & 0 & 1 & 1000\\
+0 & 1 & 1 & 0 & 2200\\
+0 & 0 & 1 & 1 & 1600\\
+\end{bmatrix} = \begin{bmatrix}
+1 & 1 & 0 & 0 & 1600\\
+0 & 1 & 0 & -1 & 600\\
+0 & 0 & 1 & 1 & 1600\\
+0 & 0 & 1 & 1 & 1600\\
+\end{bmatrix}$
+
+Rank(3) < N (4), So the solutin is not unique.
+
+22. $40-2P_1-P2=4P_1-P_2+4, 6P_1=36, P_1=6$
+$5P_1-2P_2+16=3P_2-4, P_1=P_2-4, P_2=2$
+
+23. $\begin{bmatrix}
+3 & 0 & -1 & 0 & 0\\
+8 & 0 & 0 & -2 & 0\\
+0 & 2 & -2 & -1 & 0\\
+\end{bmatrix} = \begin{bmatrix}
+1 & 0 & -3 & 2 & 0\\
+0 & 2 & -2 & -1 & 0\\
+0 & 0 & 4 & -3 & 0\\
+\end{bmatrix} $
+so we can get $\begin{bmatrix}
+t\\
+5t\\
+3t\\
+4t\\
+\end{bmatrix}$
+The smallest positive integers are 1, 5, 3, 4
+
+24. a) $\begin{bmatrix}
+1 & 0 & 0 & 0\\
+0 & 0 & 1 & 0\\
+0 & 1 & 0 & 0\\
+0 & 0 & 0 & 1\\
+\end{bmatrix} \begin{bmatrix}
+1 & 2 & 3\\
+4 & 5 & 6\\
+7 & 8 & 9\\
+10 & 11 & 12\\
+\end{bmatrix} = \begin{bmatrix}
+1 & 2 & 3\\
+7 & 8 & 9\\
+4 & 5 & 6\\
+10 & 11 & 12\\
+\end{bmatrix}$
+
+$A=\begin{bmatrix}
+a_{11} & a_{12}\\
+a_{21} & a_{22}\\
+a_{31} & a_{32}\\
+a_{41} & a_{42}\\
+\end{bmatrix}$
+$B=\begin{bmatrix}
+a_{11} & a_{12}\\
+a_{31} & a_{32}\\
+-5a_{11}+a_{21} & -5a_{12}+a_{22}\\
+8a_{41} & 8a_{42}\\
+\end{bmatrix}$
+$C=\begin{bmatrix}
+a_{11} & a_{12}\\
+-5a_{11}+a_{31} & -5a_{12}+a_{32}\\
+a_{21} & a_{22}\\
+8a_{41} & 8a_{42}\\
+\end{bmatrix}$
+So $B \ne C$
+
+b)Obvious. 
+Row switch: reference E1
+Row multiplication: reference E3
+Row addition and subtraction: reference E2.
+Expand metrics with entries $a_{ij}$, then follow the basic arithmetic rule.
