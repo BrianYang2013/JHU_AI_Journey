@@ -1,12 +1,12 @@
 # About this repo
 I plan to publish my solutions and exercise here. It will not include the quiz and exam since they belong to the school.
 
-Plan to do my best to reduce the silly mistakes:
+Plan to reduce the mistakes by:
 * Cross-check the result with my classmates,  
 * Check the odd-number answers in the textbook appendix,
 * Double-check if I get enough time to avoid silly mistakes,
 
-I will be glad to receive any suggestions and feedback to continually improve it.
+I will be very happy to receive any suggestions and feedback to reduce the mistakes. 
 
 # About this course
 This course mainly covers Linear algebra, multivariable calculus, and complex analysis.
