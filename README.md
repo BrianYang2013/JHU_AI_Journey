@@ -11,7 +11,7 @@ From 2021 summer
 * Which area to pick? DS: insights. ML: forecasts. AI: actions. Reference: [What's the difference between data science, machine learning, and artificial intelligence?](http://varianceexplained.org/r/ds-ml-ai/)
 * Alternative choice
   * If you want to start in DS/ML/AI area, go [Kaggle](https://www.kaggle.com/), [Coursera](https://www.coursera.org/) etc.
-  * If you are going to apply DS/ML/AI to your job, go for the packages such as [Scikit-learn](https://scikit-learn.org/stable/#), [Xgboost](https://xgboost.readthedocs.io/en/latest/), or search repo in Github.
+  * If you are going to apply DS/ML/AI to your job, go for the packages such as [Scikit-learn](https://scikit-learn.org/stable/#), [Xgboost](https://xgboost.readthedocs.io/en/latest/), or search a repo in Github.
   * If you are aiming to re-produce SOTA, go to Github, conferences such as ACL, ICML, NIPS, AAAI, IJCAI, ICCV, CVPR, KDD..., or Arxiv
   * If you want to take one course, you can find a lot of open resources available online. Some good courses examples can be found at the reference resource session.
 * Misc: US degree, finance, time, risk and opportunity cost.
@@ -20,12 +20,10 @@ From 2021 summer
 ## Goals
 * AGI(Artificial General Intelligence) is not likely to happen in my generation. But if something interesting comes up, I wish I can understand it.
 * Personal interests
-  * Math
-    * Awareness
-    * Lay the foundation. After the training, I should be able to pick up a GTM level math course in 3 months.
-  * Coding - Properly need to practice every day.
-  * Academic Training - I should be able to discover and pick up the knowledge, be aware of where good taste and standards are, and restructure my knowledge system to support my future improvement.
-* General Goals - Pick a few which suits you. Keep collecting
+  * Math - Awareness. Lay the foundation. Able to pick up new math topics at a reasonable timeframe.  
+  * Coding - Re-visit data structure and algorithms, leetcode, familiar with various packages
+  * Academic Training - Discover and pick up the knowledge, be aware of where good taste and standards are, and restructure my knowledge system to support my future improvement.
+* General goals for everyone - Pick a few which suits you. Keep collecting
   * Program - Finish it
   * Program - Finish with the shortest possible timeframe
   * Program - Finish with honor
@@ -33,10 +31,10 @@ From 2021 summer
   * Academic - publish a paper
   * Coding -
   * Engineering -
-  * Softskills -
   * Network -
   * Career - Find a job, or join a startup
   * Community - Record my journey which might help others.  
+  * Softskills -
 
 ## Journey of applying the schools
 * 2018: Plan for my DS master application. It was interrupted by 2018 APAC international assignment.
@@ -95,4 +93,5 @@ No matter what you scored 20 years ago, they won't leave too much trace on you. 
   *  iPad - for PDF textbooks. It is astonishing to know that the textbook offer publicly in PDF(Thanks Author!) but listed \$900+ on Amazon as new,  \$600+ (acceptable) or \$200 (good) as second hand. Obviously there is something wrong in the US academic publication system.
 
 ### Tips
-* [Github Markdown](https://guides.github.com/features/mastering-markdown/)
+* Markdown reference - [Github Markdown](https://guides.github.com/features/mastering-markdown/)
+* Shorten the URL in GitHub - [git.io](https://git.io/)
