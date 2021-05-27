@@ -89,9 +89,10 @@ No matter what you scored 20 years ago, they won't leave too much trace on you. 
 ### Tools:
   * [GitHub Desktop](https://desktop.github.com/) - Maintain this repo
   * [Atom](https://atom.io/) - Markdown editor
-  * [markdown-preview-enhanced](https://atom.io/packages/markdown-preview-enhanced) - Plugin, for markdown preview and Latex
-  *  iPad - for PDF textbooks. It is astonishing to know that the textbook offer publicly in PDF(Thanks Author!) but listed \$900+ on Amazon as new,  \$600+ (acceptable) or \$200 (good) as second hand. Obviously there is something wrong in the US academic publication system.
+  * [markdown-preview-enhanced](https://atom.io/packages/markdown-preview-enhanced) - Plugin, for markdown preview and Latex(KaTex)
+  *  iPad - for PDF textbooks. It is astonishing to know that the textbook available publicly in PDF(Thanks Author!) but listed \$900+ on Amazon as new,  \$600+ (acceptable) or \$200 (good) as second hand. If license is not a issue (assume), then obviously there is something wrong in the US academic publication system.
 
 ### Tips
 * Markdown reference - [Github Markdown](https://guides.github.com/features/mastering-markdown/)
+* [KaTeX](https://katex.org/docs/supported.html)
 * Shorten the URL in GitHub - [git.io](https://git.io/)
