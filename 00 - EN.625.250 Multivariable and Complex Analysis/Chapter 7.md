@@ -768,6 +768,7 @@ so we can get $\begin{bmatrix}
 12/5\\
 -3/5\\
 \end{bmatrix}$
+$\textcolor{red}{Mark}$
 
 19. $\begin{bmatrix}
 {E_0 \over R_2}+{E_0 \over R_1}\\
@@ -920,7 +921,6 @@ $~\\$
 0 & 1 & 0\\
 0 & 0 & 0\\
 \end{bmatrix}$, rank = 2, $\{[1,1,4], [0, 1, 0]\}$,
-
 $A^T=\begin{bmatrix}
 0 & -1 & 0\\
 1 & 0 & 4\\
@@ -1216,9 +1216,9 @@ $= a_{11}|a_{22}|-a_{21}|a_{12}| = a_{11}a_{22}-a_{12}a_{21}$
 $= a_{22}|a_{11}|-a_{12}|a_{21}| = a_{11}a_{22}-a_{12}a_{21}$
 $= a_{22}|a_{11}|-a_{21}|a_{12}| = a_{11}a_{22}-a_{12}a_{21}$
 
-3. My guess is Example 2 but not Theoream 2?
+3. My guess is Example 2 but not Theoream 2? $\textcolor{red}{Mark}$
 
-4. Not sure why we want to expand the high order determinant. Gauss elimination obviously a better option. It takes $n^3$ (I heard it can improve), which is way better than $n!$
+4. Gauss elimination obviously a better option. It takes $n^3$ (I heard it can improve), which is way better than $n!$
 
 5. $\begin{vmatrix}
 1 & 0\\
@@ -1228,7 +1228,7 @@ k & 0\\
 0 & k\\
 \end{vmatrix} = k^2-0=k^2$
 
-6. My guess is Example 2 but not Example 1?
+6. My guess is Example 2 but not Example 1? $\textcolor{red}{Mark}$
 
 7. $\cos\alpha \cos\beta - \sin\alpha \sin\beta = \cos(\alpha + \beta)$
 8. -7.87
@@ -1245,7 +1245,7 @@ $\begin{vmatrix}
 1 & 5\\
 -2 & 2\\
 \end{vmatrix} = (32-14)(2+10)=216$
-
+$\textcolor{red}{Mark}$
 P.S: it is called block matrices. for upper (lower) triangular block matrix, diagonal blocks $A_1, A_2.. A_n$, and we will get $det=det(A_1)det(A_2)..det(A_n)$.
 
 15. $\begin{vmatrix}
@@ -1288,9 +1288,8 @@ $\begin{vmatrix}
 
 So I would assume this special n order matrix have determinants $(-1)^{n-1}(n-1)$
 
-Try to prove it by induction - Placeholder
-
-Incidence Matrices ??
+Try to prove it by induction - $\textcolor{red}{Mark}$
+Incidence Matrices ?? $\textcolor{red}{Mark}$
 
 17. $\begin{vmatrix}
 4 & 9\\
@@ -1351,6 +1350,7 @@ ax_1+by_1+cz_1+d*1=0\\
 ax_2+by_2+cz_2+d*1=0\\
 ax_3+by_3+cz_3+d*1=0\\
 \end{cases}$
+$\textcolor{red}{Mark}$
 
 21. $D=\begin{vmatrix}
 3 & -5 \\
@@ -1436,6 +1436,6 @@ $\begin{bmatrix}
 0 & 0 & 1 & -1\\
 \end{bmatrix}$
 
-24.
+24. $\textcolor{red}{Mark}$
 
-25.
+25. $\textcolor{red}{Mark}$
