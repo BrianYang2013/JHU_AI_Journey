@@ -1,4 +1,4 @@
-# Chapter 7 Linear Algebra: Matrices, Vectors, Determinants. Linear Systems
+# Chapter 7 Linear Algebra: Matrices, Vectors, Determinant. Linear Systems
 
 ## P261 - Problem set 7.1
 1. 2x2: $a_{11} \ne b_{11}$, $b_{12} \ne c_{12}$, 2x3: $d_{11} \ne e_{11}$
@@ -1237,7 +1237,7 @@ k & 0\\
 11. 40
 12. $a^3+b^3+c^3-3abc$
 13. $0 \cdot (0+6+-6-0-0-0) - 4 \cdot (0+-15+2-0-0-4) + (-1) \cdot (0+0+-4--30-0--8) - 5\cdot (-12+0+6-45-0-0) = 0 - 4\cdot (-17) + (-1)\cdot (34) - 5 \cdot (-51) = 289$
-14. Question: I feel we can do it in the below way, with certain condition. Can not remember what exactly it is, and it does not apply for 13. The result is same while I expand the 4th order determinants.
+14. Question: I feel we can do it in the below way, with certain condition. Can not remember what exactly it is, and it does not apply for 13. The result is same while I expand the 4th order Determinant.
 $\begin{vmatrix}
 4 & 7\\
 2 & 8\\
@@ -1286,7 +1286,7 @@ $\begin{vmatrix}
 1 & 1 & 1 & 0\\
 \end{vmatrix} = -3$
 
-So I would assume this special n order matrix have determinants $(-1)^{n-1}(n-1)$
+So I would assume this special n order matrix have Determinant $(-1)^{n-1}(n-1)$
 
 Try to prove it by induction - $\textcolor{red}{Mark}$
 Incidence Matrices ?? $\textcolor{red}{Mark}$
@@ -1436,6 +1436,285 @@ $\begin{bmatrix}
 0 & 0 & 1 & -1\\
 \end{bmatrix}$
 
-24. $\textcolor{red}{Mark}$
+24. $\textcolor{red}{Mark}$ Leave for the future.
 
-25. $\textcolor{red}{Mark}$
+25. $\textcolor{red}{Mark}$ Leave for the future.
+
+## P308 - Problem set 7.8
+
+1. $[A \ I]=\begin{bmatrix}
+1.8 & -2.32 & 1 & 0\\
+-0.25 & 0.6 & 0 & 1\\
+\end{bmatrix} = \begin{bmatrix}
+1 & -58/45 & 15/9 & 0\\
+-0.25 & 0.6 & 0 & 1\\
+\end{bmatrix} = \begin{bmatrix}
+1 & -58/45 & 15/9 & 0\\
+0 & 10/9 & 5/9 & 4\\
+\end{bmatrix}= \begin{bmatrix}
+1 & -58/45 & 15/9 & 0\\
+0 & 1 & 1/2 & 18/5\\
+\end{bmatrix}= \begin{bmatrix}
+1 & 0 & 6/5 & 116/25\\
+0 & 1 & 1/2 & 18/5\\
+\end{bmatrix} = [I \ A^{-1}]$
+$\begin{bmatrix}
+1.8 & -2.32\\
+-0.25 & 0.6\\
+\end{bmatrix}\begin{bmatrix}
+6/5 & 116/25\\
+1/2 & 18/5\\
+\end{bmatrix} = \begin{bmatrix}
+6/5 & 116/25\\
+1/2 & 18/5\\
+\end{bmatrix}\begin{bmatrix}
+1.8 & -2.32\\
+-0.25 & 0.6\\
+\end{bmatrix}=\begin{bmatrix}
+1 & 0\\
+0 & 1\\
+\end{bmatrix}$
+$~\\$
+
+2. $\begin{bmatrix}
+\cos2\theta & \sin2\theta & 1 & 0\\
+-\sin2\theta & \cos2\theta & 0 & 1\\
+\end{bmatrix} = \begin{bmatrix}
+1 & s/c & 1/c & 0\\
+0 & 1/c & s/c & 1\\
+\end{bmatrix} = \begin{bmatrix}
+1 & s/c & 1/c & 0\\
+0 & 1 & s & c\\
+\end{bmatrix} = \begin{bmatrix}
+1 & 0 & c & -s\\
+0 & 1 & s & c\\
+\end{bmatrix} = \begin{bmatrix}
+1 & 0 & \cos2\theta & -\sin2\theta\\
+0 & 1 & \sin2\theta & \cos2\theta\\
+\end{bmatrix}$
+$~\\$
+
+3. $\begin{bmatrix}
+0.3 & -0.1 & 0.5 & 1 & 0 & 0\\
+2 & 6 & 4 & 0 & 1 & 0\\
+5 & 0 & 9 & 0 & 0 & 1\\
+\end{bmatrix} = \begin{bmatrix}
+1 & -1/3 & 5/3 & 10/3 & 0 & 0\\
+0 & 1 & 1/10 & -1 & 3/20 & 0\\
+0 & 0 & 1 & -30 & -1/2 & 2\\
+\end{bmatrix} = \begin{bmatrix}
+1 & -1/3 & 5/3 & 10/3 & 0 & 0\\
+0 & 1 & 0 & 2 & 1/5 & -1/5\\
+0 & 0 & 1 & -30 & -1/2 & 2\\
+\end{bmatrix} = \begin{bmatrix}
+1 & 0 & 0 & -54 & 9/10 & -17/5\\
+0 & 1 & 0 & 2 & 1/5 & -1/5\\
+0 & 0 & 1 & -30 & -1/2 & 2\\
+\end{bmatrix}$
+$~\\$
+
+4. $\begin{bmatrix}
+0 & 0 & 0.1 & 1 & 0 & 0\\
+0 & -0.4 & 0 & 0 & 1 & 0\\
+2.5 & 0 & 0 & 0 & 0 & 1\\
+\end{bmatrix} = \begin{bmatrix}
+2.5 & 0 & 0.1 & 1 & 0 & 1\\
+0 & 1 & 0 & 0 & -5/2 & 0\\
+2.5 & 0 & 0 & 0 & 0 & 1\\
+\end{bmatrix} = \begin{bmatrix}
+2.5 & 0 & 0.1 & 1 & 0 & 1\\
+0 & 1 & 0 & 0 & -5/2 & 0\\
+0 & 0 & 0.1 & 1 & 0 & 0\\
+\end{bmatrix} = \begin{bmatrix}
+1 & 0 & 0 & 0 & 0 & 2/5\\
+0 & 1 & 0 & 0 & -5/2 & 0\\
+0 & 0 & 1 & 10 & 0 & 0\\
+\end{bmatrix}$
+$~\\$
+
+5. $\begin{bmatrix}
+1 & 0 & 0 & 1 & 0 & 0\\
+2 & 1 & 0 & 0 & 1 & 0\\
+5 & 4 & 1 & 0 & 0 & 1\\
+\end{bmatrix} = \begin{bmatrix}
+1 & 0 & 0 & 1 & 0 & 0\\
+0 & 1 & 0 & -2 & 1 & 0\\
+0 & 4 & 1 & -5 & 0 & 1\\
+\end{bmatrix} = \begin{bmatrix}
+1 & 0 & 0 & 1 & 0 & 0\\
+0 & 1 & 0 & -2 & 1 & 0\\
+0 & 0 & 1 & 3 & -4 & 1\\
+\end{bmatrix}$
+$~\\$
+
+6. $\begin{bmatrix}
+-4 & 0 & 0 & 1 & 0 & 0\\
+0 & 8 & 13 & 0 & 1 & 0\\
+0 & 3 & 5 & 0 & 0 & 1\\
+\end{bmatrix} = \begin{bmatrix}
+1 & 0 & 0 & -1/4 & 0 & 0\\
+0 & 1 & 2 & 0 & -1 & 3\\
+0 & 0 & 1 & 0 & -3 & 8\\
+\end{bmatrix} = \begin{bmatrix}
+1 & 0 & 0 & -1/4 & 0 & 0\\
+0 & 1 & 0 & 0 & 5 & -13\\
+0 & 0 & 1 & 0 & -3 & 8\\
+\end{bmatrix}$
+$~\\$
+
+7.$\begin{bmatrix}
+0 & 1 & 0\\
+1 & 0 & 0\\
+0 & 0 & 1\\
+\end{bmatrix}$ We can exchange 2 lines in Matrix. Determinant will * -1.
+$~\\$
+
+8. $R_3-R_2=R_2-R_1$, Rank<3. Inverse matrix does not exist.
+
+9. $\begin{bmatrix}
+0 & 0 & 1/2\\
+1/8 & 0 & 0\\
+0 & 1/4 & 0\\
+\end{bmatrix}$
+
+10. $\begin{bmatrix}
+2 & 1 & 2 & 3 & 0 & 0\\
+-2 & 2 & 1 & 0 & 3 & 0\\
+1 & 2 & -2 & 0 & 0 & 3\\
+\end{bmatrix} = \begin{bmatrix}
+1 & 2 & -2 & 0 & 0 & 3\\
+0 & 1 & -2 & -10 & 0 & 2\\
+0 & 0 & 3 & 2 & 1 & -2\\
+\end{bmatrix} = \begin{bmatrix}
+1 & 0 & 0 & 2/3 & -2/3 & 1/3\\
+0 & 1 & 0 & 1/3 & 2/3 & 2/3\\
+0 & 0 & 1 & 2/3 & 1/3 & -2/3\\
+\end{bmatrix}$
+$~\\$
+
+11. $AA = \begin{bmatrix}
+1.8 & -2.32 \\
+-0.25 & 0.6 \\
+\end{bmatrix}\begin{bmatrix}
+1.8 & -2.32 \\
+-0.25 & 0.6 \\
+\end{bmatrix} = \begin{bmatrix}
+3.82 & -5.568 \\
+-0.6 & 0.94 \\
+\end{bmatrix}$
+$[(AA)^{-1} \ I]= \begin{bmatrix}
+3.82 & -5.568 & 1 & 0\\
+-0.6 & 0.94 & 0 & 1\\
+\end{bmatrix} = \begin{bmatrix}
+1 & 0 & 3.76 & 22.272\\
+0 & 1 & 2.4 & 15.28\\
+\end{bmatrix}$
+$(A^{-1})^2 = \begin{bmatrix}
+6/5 & 116/25\\
+1/2 & 18/5\\
+\end{bmatrix}\begin{bmatrix}
+6/5 & 116/25\\
+1/2 & 18/5\\
+\end{bmatrix} = \begin{bmatrix}
+94/25 & 2784/25\\
+12/5 & 382/25\\
+\end{bmatrix}$
+
+12. $A^{-1}=A^{-1}I=A^{-1}(AA)(AA)^{-1}=A(AA)^{-1}$ multiple $A^{-1}$ on both side
+$A^{-1}A^{-1}=A^{-1}A(AA)^{-1}$, so $(A^{-1})^2=(A^2)^{-1}$
+
+13. $A=\begin{bmatrix}
+1.8 & -2.32 \\
+-0.25 & 0.6 \\
+\end{bmatrix}$, $A^{-1}=\begin{bmatrix}
+1.2 & 4.64 \\
+0.5 & 3.6 \\
+\end{bmatrix}$,
+$A^T=\begin{bmatrix}
+1.8 & -0.25 \\
+-2.32 & 0.6 \\
+\end{bmatrix}$, $(A^T)^{-1}=\begin{bmatrix}
+1.2 & 4.64 \\
+0.5 & 3.6 \\
+\end{bmatrix}$
+
+14. $(A^T)^{-1}A^T=I=I^T=(AA^{-1})^T=(A^{-1})^TA^T$, multiply $(A^T)^{-1}$ on both side,
+$(A^T)^{-1}A^T(A^T)^{-1}=(A^{-1})^TA^T(A^T)^{-1}$
+$(A^T)^{-1}=(A^{-1})^T$
+
+15. $(A^{-1})^{-1}=(A^{-1})^{-1}I=(A^{-1})^{-1}(A^{-1}A)=A$
+16. $\begin{bmatrix}
+\cos \theta & -\sin \theta \\
+\sin \theta & \cos \theta \\
+\end{bmatrix}$ rotate the matrix $[x_1, x_2]^T$ by $\theta$
+so $\begin{bmatrix}
+\cos \theta & \sin \theta \\
+-\sin \theta & \cos \theta \\
+\end{bmatrix}$ rotate the matrix $[x_1, x_2]^T$ by $-\theta$
+So $\begin{bmatrix}
+\cos \theta & -\sin \theta \\
+\sin \theta & \cos \theta \\
+\end{bmatrix}\begin{bmatrix}
+\cos \theta & \sin \theta \\
+-\sin \theta & \cos \theta \\
+\end{bmatrix}I=I$ and $\begin{bmatrix}
+\cos \theta & \sin \theta \\
+-\sin \theta & \cos \theta \\
+\end{bmatrix}\begin{bmatrix}
+\cos \theta & -\sin \theta \\
+\sin \theta & \cos \theta \\
+\end{bmatrix}I=I$
+
+17. Take upper triangular as an example. We can use the back substution from the last row and move up, all the transation will not impact the 0 in the lower part in the Unix matrix. So the inverse matrix is also an upper triangular Matrix.
+
+18. ?? $\textcolor{red}{Mark}$
+
+19. $det(A)=\begin{vmatrix}
+0.3 & -0.1 & 0.5 \\
+2 & 6 & 4 \\
+5 & 0 & 9\\
+\end{vmatrix} = 16.2+(-2)+0-15-0-(-1.8)=1$
+$A^{-1}=\frac{1}{det(A)} [C_{jk}]^T$
+$C_{11}=\begin{vmatrix}
+6 & 4 \\
+0 & 9\\
+\end{vmatrix}=54$
+$C_{12}=-\begin{vmatrix}
+2 & 4 \\
+5 & 9\\
+\end{vmatrix}=-(18-20)=2$
+$C_{13}=\begin{vmatrix}
+2 & 6 \\
+5 & 0\\
+\end{vmatrix}=-30$
+$C_{21}=-\begin{vmatrix}
+-0.1 & 0.5 \\
+0 & 9\\
+\end{vmatrix}=0.9$
+$C_{22}=\begin{vmatrix}
+0.3 & 0.5 \\
+5 & 9\\
+\end{vmatrix}=2.7-2.5=0.2$
+$C_{23}=-\begin{vmatrix}
+0.3 & -0.1 \\
+5 & 0\\
+\end{vmatrix}=-0.5$
+$C_{31}=\begin{vmatrix}
+-0.1 & 0.5 \\
+6 & 4\\
+\end{vmatrix}=-0.4-3=-3.4$
+$C_{32}=-\begin{vmatrix}
+0.3 & 0.5 \\
+2 & 4\\
+\end{vmatrix}=-0.2$
+$C_{33}=\begin{vmatrix}
+0.3 & -0.1 \\
+2 & 6\\
+\end{vmatrix}=2$
+So $A^{-1}=\begin{bmatrix}
+-54 & 0.9 & -3.4\\
+2 & 0.2 & -0.2\\
+-30 & -0.5 & 2\\
+\end{bmatrix}$
+
+20. $\textcolor{red}{Mark}$ Same as 19. Leave for the future.

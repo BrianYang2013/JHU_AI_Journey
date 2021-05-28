@@ -1,20 +1,23 @@
+# About this course
+Textbook: [Advanced Engineering Mathematics, 10th Edition, by Erwin Kreyszig](http://webpages.iust.ac.ir/jazbi/books/10Edition-ErwinKreyszig-AdvancedEngineeringMathematics.pdf)
+
+This course mainly covers Linear algebra, multivariable calculus, and complex analysis.
+Better to warm up with calculus 1 and 2.
+
+This will be the most difficult course for me, due to language, terminology, education system, and lack of the mathematic training in the past 20 years. As long as I can conquer this one, I think I should be able to handle all of the rest. Never underestimate the top school.
+
 # About this repo
 I plan to publish my solutions and exercise here. It will not include the quiz and exam since they belong to the school.
 
 Plan to reduce the mistakes by:
-* Cross-check the result with my classmates,  
+* Cross-check with my classmates,  
 * Check the odd-number answers in the textbook appendix,
-* Double-check if I get enough time to avoid silly mistakes,
+* Double-check if I get enough time
 
-I will be very happy to receive suggestions and feedback to improve the solutions.
+I will be delighted to receive suggestions and feedback to improve them and eventually benefit others. If you have any suggestions, please do let me know. Thanks.
 
-# About this course
-This course mainly covers Linear algebra, multivariable calculus, and complex analysis.
-Better to warm up with calculus 1 and 2.
-
-Textbook: [Advanced Engineering Mathematics, 10th Edition, by Erwin Kreyszig](http://webpages.iust.ac.ir/jazbi/books/10Edition-ErwinKreyszig-AdvancedEngineeringMathematics.pdf)
-
-This will be the most difficult course for me, due to language, terminology, education system, and lack of the mathematic training in the past 20 years. As long as I can conquer this one, I think I should be able to handle all of the rest. Never underestimate the top school.
+## Notes
+It is good to practice LaTex but it is time consuming. From chapter 8, I will focus on understandidng and exercise. May turn them into LaTex if I have time.
 
 # Reference
 * [Precalculus through Data and Modelling Specialization](https://www.coursera.org/specializations/precalculus-data-modelling).  A good math warm up.
