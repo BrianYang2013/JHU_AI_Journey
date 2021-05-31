@@ -1885,3 +1885,6 @@ $||a|| \ ||b||= \sqrt 26/6$
 $7/18 = \sqrt{49}/18 \lt \sqrt{26*9}/18 = \sqrt{26}/6$
 
 25. $64+25+1+4+1+9 = 2(25+9+4+9+4+1) = 104$
+
+## P318 - Chapter 7, Review questions and problems
+Maybe leave for the practice before the mid-term exam. It is pretty time consuming and I should move on
