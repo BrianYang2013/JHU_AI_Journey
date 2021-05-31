@@ -1,8 +1,8 @@
 # Chapter 9 Vector Differential Calculus. Grad, Div, Curl
 
 ## P360 - Problem set 9.1
-
-c: ![Problem1-5](Img/ProblemSet9-1-1.jpg)
+Problem 1-5
+<img src="Img/ProblemSet9-1-1.jpg" alt="drawing" style="width:500px;"/>
 
 6. Q=[4, 2, 13], |v|=4
 7. Q=[4, 0. 1/2], |v|=$\sqrt{149}/4$

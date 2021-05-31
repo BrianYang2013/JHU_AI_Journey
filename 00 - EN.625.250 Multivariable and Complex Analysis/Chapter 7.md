@@ -141,7 +141,7 @@ b-2: $\begin{bmatrix}
 0 & 0 & 0 & 1 & 1 & 0 & 0\\
 \end{bmatrix}$
 
-c: ![Sketch three networks](Img/ProblemSet7-1-20c.jpg)
+c: <img src="Img/ProblemSet7-1-20c.jpg" alt="drawing" style="width:500px;"/>
 ## P270 - Problem set 7.2
 Example13. In the final stable situation(limit),
 $I+C+R=100$
