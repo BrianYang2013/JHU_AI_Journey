@@ -20,4 +20,15 @@ Problem 1-5
 19. 12-associative, 13-commutative, 14-16 scalar multiplication is distributive.
 20. $a+b=[a_1, a_2, ..., a_n]+[b_1, b_2, ..., b_n]=[a_1+b_1, a_2+b_2, ..., a_n+b_n]=[b_1+a_1, b_2+a_2, ..., b_n+a_n]=b+a$
 The rest can be approved in the simliar way.
-21.
+
+<img src="Img/Calculus 3-4.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-5.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-6.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-7.jpg" alt="drawing" style="width:700px;"/>
+## P367 - Problem set 9.2
+<img src="Img/Calculus 3-8.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-9.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-10.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-11.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-12.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-13.jpg" alt="drawing" style="width:700px;"/>

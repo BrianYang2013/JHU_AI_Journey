@@ -15,7 +15,7 @@ Start from 2021 summer
   * If you are aiming to re-produce SOTA, go Github, conferences (such as ACL, ICML, NIPS, AAAI, IJCAI, ICCV, CVPR, KDD...), or Arxiv
   * If you want to take one course, you can find a LOT of free resources available online. Check [Resources](https://github.com/BrianYang2013/JHU_AI_Journey#resources)
 * Misc: US degree, finance, time, risk and opportunity cost.
-* Read this one : [Why AI is Harder Than We Think](https://arxiv.org/pdf/2104.12871.pdf)
+* Read this one: [Why AI is Harder Than We Think](https://arxiv.org/pdf/2104.12871.pdf)
 
 ## Goals
 * AGI(Artificial General Intelligence) is not likely to happen in my generation. But if something interesting comes up, I wish I can understand it.
