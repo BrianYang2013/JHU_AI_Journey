@@ -27,7 +27,7 @@ Start from 2021 summer
 * General goals for everyone - Pick a few which suits you. Keep collecting
   * Program - Finish it
   * Program - Finish with the shortest possible timeframe
-  * Program - Finish with honor
+  * Program - Finish with quality, honor
   * Academic - Join a research project,
   * Academic - publish a paper
   * Coding -

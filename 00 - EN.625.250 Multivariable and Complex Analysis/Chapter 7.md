@@ -291,9 +291,9 @@ $(3A-2B)^Ta^T=\begin{bmatrix}
 \end{bmatrix}$
 
 19. $1.5a+3.0b$ not defined. $1.5a^T+3.0b=\begin{bmatrix}
-4.5\\
--2\\
--1\\
+10.5\\
+0\\
+-3\\
 \end{bmatrix}$, $(A-B)b=Ab-Bb=\begin{bmatrix}
 7\\
 -3\\
@@ -1507,7 +1507,7 @@ $~\\$
 0 & 1 & 0 & 2 & 1/5 & -1/5\\
 0 & 0 & 1 & -30 & -1/2 & 2\\
 \end{bmatrix} = \begin{bmatrix}
-1 & 0 & 0 & -54 & 9/10 & -17/5\\
+1 & 0 & 0 & 54 & 9/10 & -17/5\\
 0 & 1 & 0 & 2 & 1/5 & -1/5\\
 0 & 0 & 1 & -30 & -1/2 & 2\\
 \end{bmatrix}$
