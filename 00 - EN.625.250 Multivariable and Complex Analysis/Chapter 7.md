@@ -757,18 +757,17 @@ so we can get $\begin{bmatrix}
 8\\
 \end{bmatrix}$
 
-18. I am highly unsure about this one. Need a physical book
+18. $\textcolor{red}{Mark}$: I think I get it.
 $\begin{bmatrix}
 1 & -1 & -1 & 0\\
-0 & 4 & 1 & 9\\
-0 & 0 & 5 & -3\\
+0 & 4 & 12 & 36\\
+0 & 12 & -8 & 24\\
 \end{bmatrix}$
 so we can get $\begin{bmatrix}
-9/5\\
-12/5\\
--3/5\\
+27/11\\
+24/11\\
+3/11\\
 \end{bmatrix}$
-$\textcolor{red}{Mark}$
 
 19. $\begin{bmatrix}
 {E_0 \over R_2}+{E_0 \over R_1}\\

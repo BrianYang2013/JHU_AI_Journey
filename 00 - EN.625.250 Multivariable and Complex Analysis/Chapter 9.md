@@ -19,7 +19,7 @@ Problem 1-5
 18. 4a+3b = [0, 26, 0], -4a-3b=-(4a+3b)=[0, -26, 0]
 19. 12-associative, 13-commutative, 14-16 scalar multiplication is distributive.
 20. $a+b=[a_1, a_2, ..., a_n]+[b_1, b_2, ..., b_n]=[a_1+b_1, a_2+b_2, ..., a_n+b_n]=[b_1+a_1, b_2+a_2, ..., b_n+a_n]=b+a$
-The rest can be approved in the simliar way.
+The rest can be approved in a simliar way.
 
 <img src="Img/Calculus 3-9-4.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-9-5.jpg" alt="drawing" style="width:700px;"/>
