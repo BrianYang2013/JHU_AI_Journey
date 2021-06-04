@@ -1,13 +1,13 @@
 # Chapter 8 Linear Algebra: Matrix Eigenvalue Problems
 
 ## P329 - Problem set 8.1
-<img src="Img/Calculus 3-8-2.jpg" alt="drawing" style="width:700px;"/>
-<img src="Img/Calculus 3-8-3.jpg" alt="drawing" style="width:700px;"/>
-<img src="Img/Calculus 3-8-4.jpg" alt="drawing" style="width:700px;"/>
-<img src="Img/Calculus 3-8-5.jpg" alt="drawing" style="width:700px;"/>
-<img src="Img/Calculus 3-8-6.jpg" alt="drawing" style="width:700px;"/>
-<img src="Img/Calculus 3-8-7.jpg" alt="drawing" style="width:700px;"/>
-<img src="Img/Calculus 3-8-8.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-8-02.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-8-03.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-8-04.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-8-05.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-8-06.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-8-07.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-8-08.jpg" alt="drawing" style="width:700px;"/>
 
 ## P333 - Problem set 8.2
 <img src="Img/Calculus 3-8-10.jpg" alt="drawing" style="width:700px;"/>
