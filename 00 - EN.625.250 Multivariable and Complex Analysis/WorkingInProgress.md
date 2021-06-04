@@ -2,18 +2,23 @@
 * Chapter 7
   * 7-2: 11, 15, 29
   * 7-3: 19
+  * 7-7: 3 (Example 2 but not theorem 2)
+  * 7.9: 10. First column is 3x1, can not multiply with 3x1 vector. if the elements multiply with the vector elements accordingly, then rank=5.
 
 * Chapter 8
 
 
 ## Watch out
-Obvious is the most dangerous wowrd in mathematics. - Eric Temple Bell
+Obvious is the most dangerous word in mathematics. - Eric Temple Bell
+Calculator calculates, human thinks.
 
 Matrix Size
-Listing down the equation. Avoid simple mistake.=> Always check!
-$(AB)^T=B^TA^T$
 
 
-## English words
-equilibrium
-Echelon
+# Notes
+Quiz > Mid, Final.
+Openbook.
+Bonus points.
+
+
+P301, problem set 7.7, problem 20. Any hints?

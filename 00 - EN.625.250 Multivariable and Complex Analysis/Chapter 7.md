@@ -791,7 +791,7 @@ $R_x=R_3R_1/R_2$
 0 & 0 & 1 & 1 & 1600\\
 \end{bmatrix}$
 
-Rank(3) < N (4), So the solutin is not unique.
+Rank=3 < N=4, So the solutin is not unique.
 
 22. $40-2P_1-P2=4P_1-P_2+4, 6P_1=36, P_1=6$
 $5P_1-2P_2+16=3P_2-4, P_1=P_2-4, P_2=2$
@@ -1227,7 +1227,16 @@ k & 0\\
 0 & k\\
 \end{vmatrix} = k^2-0=k^2$
 
-6. My guess is Example 2 but not Example 1? $\textcolor{red}{Mark}$
+6. $M_{31} = \begin{vmatrix}
+a_{12} & a_{13}\\
+a_{22} & a_{23}\\
+\end{vmatrix}$, $M_{32} = \begin{vmatrix}
+a_{11} & a_{13}\\
+a_{21} & a_{23}\\
+\end{vmatrix}$, $M_{32} = \begin{vmatrix}
+a_{11} & a_{12}\\
+a_{21} & a_{22}\\
+\end{vmatrix}$
 
 7. $\cos\alpha \cos\beta - \sin\alpha \sin\beta = \cos(\alpha + \beta)$
 8. -7.87
@@ -1435,9 +1444,9 @@ $\begin{bmatrix}
 0 & 0 & 1 & -1\\
 \end{bmatrix}$
 
-24. $\textcolor{red}{Mark}$ Leave for the future.
+24. $[1, -3, 4]^T$
 
-25. $\textcolor{red}{Mark}$ Leave for the future.
+25. $[3, 0, 2, -2]^T$
 
 ## P308 - Problem set 7.8
 
@@ -1666,7 +1675,11 @@ So $\begin{bmatrix}
 
 17. Take upper triangular as an example. We can use the back substution from the last row and move up, all the transation will not impact the 0 in the lower part in the Unix matrix. So the inverse matrix is also an upper triangular Matrix.
 
-18. ?? $\textcolor{red}{Mark}$
+18. $\textcolor{red}{Mark}$ $\begin{bmatrix}
+0 & 1 & 0\\
+1 & 0 & 0\\
+0 & 0 & 1\\
+\end{bmatrix}$
 
 19. $det(A)=\begin{vmatrix}
 0.3 & -0.1 & 0.5 \\
