@@ -17,9 +17,9 @@ Plan to reduce the mistakes by:
 I will be delighted to receive suggestions and feedback to improve them and eventually benefit others. If you have any suggestions, please do let me know. Thanks.
 
 ## Notes
-It is good to practice LaTex but it is time consuming. From chapter 8, I will focus on understandidng and exercise. May turn them into LaTex if I have time.
+It is good to practice LaTex but it is time consuming. From chapter 8, I will focus on understandidng and exercise. May turn them into LaTex if I have time. => GoodNotes5 is a better option.
 
-2021-06-03: Professor is right, calculator calculates, human think. I will use tools instead of pen and paper from now on. 
+2021-06-03: Professor is right, calculator calculates, human think. I will use tools instead of pen and paper from now on. Still thinking the difference, and I need time to diguest the impact and fully leverage it.
 
 # Reference
 * [Precalculus through Data and Modelling Specialization](https://www.coursera.org/specializations/precalculus-data-modelling).  A good math warm up.
