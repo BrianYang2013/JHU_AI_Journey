@@ -21,6 +21,10 @@ It is good to practice LaTex but it is time consuming. From chapter 8, I will fo
 
 2021-06-03: Professor is right, calculator calculates, human think. I will use tools instead of pen and paper from now on. Still thinking the difference, and I need time to diguest the impact and fully leverage it.
 
+2021-06-05 W1 Reflect:
+* Put your limited time in the most valueable things. => Reduce exercise, more reading and coding.
+* Scalable: Share Note (mindmap + caution + important theorem + application?)
+
 # Reference
 * [Precalculus through Data and Modelling Specialization](https://www.coursera.org/specializations/precalculus-data-modelling).  A good math warm up.
 * I haven't try them, but I would assume they are good for Calculus warm up.

@@ -17,6 +17,9 @@
 <img src="Img/Calculus 3-8-14.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-8-15.jpg" alt="drawing" style="width:700px;"/>
 
-## P338 - Problem set 8.3
+## P338 - Problem set 8.3 1-15
 <img src="Img/Calculus 3-8-17.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-8-18.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-8-19.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-8-20.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-8-21.jpg" alt="drawing" style="width:700px;"/>
