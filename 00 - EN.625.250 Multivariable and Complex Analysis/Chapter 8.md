@@ -23,3 +23,7 @@
 <img src="Img/Calculus 3-8-19.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-8-20.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-8-21.jpg" alt="drawing" style="width:700px;"/>
+
+## P345 - Problem set 8.4 1-3
+<img src="Img/Calculus 3-8-23.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-8-24.jpg" alt="drawing" style="width:700px;"/>
