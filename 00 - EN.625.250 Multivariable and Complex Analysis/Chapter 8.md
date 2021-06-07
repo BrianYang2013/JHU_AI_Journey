@@ -27,3 +27,7 @@
 ## P345 - Problem set 8.4 1-3
 <img src="Img/Calculus 3-8-23.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-8-24.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-8-25.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-8-26.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-8-27.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-8-28.jpg" alt="drawing" style="width:700px;"/>

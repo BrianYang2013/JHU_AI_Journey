@@ -19,7 +19,7 @@ I will be delighted to receive suggestions and feedback to improve them and even
 ## Notes
 It is good to practice LaTex but it is time consuming. From chapter 8, I will focus on understandidng and exercise. May turn them into LaTex if I have time. => GoodNotes5 is a better option.
 
-2021-06-03: Professor is right, calculator calculates, human think. I will use tools instead of pen and paper from now on. Still thinking the difference, and I need time to diguest the impact and fully leverage it.
+2021-06-03: Professor is right, calculator calculates, human think. I will use tools instead of pen and paper from now on. Carefully think about the education philosophy change, and max out the benefit.
 
 2021-06-05 W1 Reflect:
 * Put your limited time in the most valueable things. => Reduce exercise, more reading and coding.
