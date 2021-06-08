@@ -2,7 +2,7 @@
 
 ## P360 - Problem set 9.1
 Problem 1-5
-<img src="Img/ProblemSet9-1-1.jpg" alt="drawing" style="width:500px;"/>
+<img src="Img/Calculus 3-9-31.jpg" alt="drawing" style="width:700px;"/>
 
 6. Q=[4, 2, 13], |v|=4
 7. Q=[4, 0. 1/2], |v|=$\sqrt{149}/4$
@@ -21,14 +21,21 @@ Problem 1-5
 20. $a+b=[a_1, a_2, ..., a_n]+[b_1, b_2, ..., b_n]=[a_1+b_1, a_2+b_2, ..., a_n+b_n]=[b_1+a_1, b_2+a_2, ..., b_n+a_n]=b+a$
 The rest can be approved in a simliar way.
 
-<img src="Img/Calculus 3-9-4.jpg" alt="drawing" style="width:700px;"/>
-<img src="Img/Calculus 3-9-5.jpg" alt="drawing" style="width:700px;"/>
-<img src="Img/Calculus 3-9-6.jpg" alt="drawing" style="width:700px;"/>
-<img src="Img/Calculus 3-9-7.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-9-32.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-9-33.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-9-34.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-9-35.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-9-36.jpg" alt="drawing" style="width:700px;"/>
+
 ## P367 - Problem set 9.2
-<img src="Img/Calculus 3-9-8.jpg" alt="drawing" style="width:700px;"/>
-<img src="Img/Calculus 3-9-9.jpg" alt="drawing" style="width:700px;"/>
-<img src="Img/Calculus 3-9-10.jpg" alt="drawing" style="width:700px;"/>
-<img src="Img/Calculus 3-9-11.jpg" alt="drawing" style="width:700px;"/>
-<img src="Img/Calculus 3-9-12.jpg" alt="drawing" style="width:700px;"/>
-<img src="Img/Calculus 3-9-13.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-9-37.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-9-38.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-9-39.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-9-40.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-9-41.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-9-42.jpg" alt="drawing" style="width:700px;"/>
+
+## P374 - Problem set 9.3
+<img src="Img/Calculus 3-9-43.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-9-44.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-9-45.jpg" alt="drawing" style="width:700px;"/>
