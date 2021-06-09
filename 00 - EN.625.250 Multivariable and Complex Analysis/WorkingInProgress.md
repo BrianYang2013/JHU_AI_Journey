@@ -4,13 +4,10 @@
   * 7-3: 19
   * 7-7: 3 (Example 2 but not theorem 2)
   * 7.9: 10. First column is 3x1, can not multiply with 3x1 vector. if the elements multiply with the vector elements accordingly, then rank=5.
-
 * Chapter 8
 
 
 ## Watch out
-Obvious is the most dangerous word in mathematics. - Eric Temple Bell
-Calculator calculates, human thinks.
 
 Matrix Size
 
@@ -19,6 +16,5 @@ Matrix Size
 Quiz > Mid, Final.
 Openbook.
 Bonus points.
-
 
 P301, problem set 7.7, problem 20. Any hints?
