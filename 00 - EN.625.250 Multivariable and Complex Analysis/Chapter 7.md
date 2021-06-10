@@ -141,7 +141,7 @@ b-2: $\begin{bmatrix}
 0 & 0 & 0 & 1 & 1 & 0 & 0\\
 \end{bmatrix}$
 
-c: <img src="Img/ProblemSet7-1-20c.jpg" alt="drawing" style="width:500px;"/>
+c: <img src="Img/Calculus 3-7.1-20.jpg" alt="drawing" style="width:500px;"/>
 ## P270 - Problem set 7.2
 Example13. In the final stable situation(limit),
 $I+C+R=100$
@@ -1358,6 +1358,8 @@ ax_1+by_1+cz_1+d*1=0\\
 ax_2+by_2+cz_2+d*1=0\\
 ax_3+by_3+cz_3+d*1=0\\
 \end{cases}$
+<img src="Img/Calculus 3-7.7-20-1.jpg" alt="drawing" style="width:500px;"/>
+<img src="Img/Calculus 3-7.7-20-2.jpg" alt="drawing" style="width:500px;"/>
 $\textcolor{red}{Mark}$
 
 21. $D=\begin{vmatrix}
