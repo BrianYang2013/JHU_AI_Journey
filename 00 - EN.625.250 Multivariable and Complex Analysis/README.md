@@ -27,7 +27,9 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 
 2021-06- W2 Reflect:
 * Chapter 7, Problem set 7.7, Problem 20: Algebra perspective or group of equations, but not individual equation.
-*
+* Chapter 7: solution (basis) lives in the null space. The number of BASIS means dimention of the null space.
+* Chapter 7: KCL: just add the current (or minus if opposite direction)
+
 
 # Thought for the week
 * “Obvious is the most dangerous word in mathematics.”  —  Eric Temple Bell

@@ -23,11 +23,17 @@
 <img src="Img/Calculus 3-8-19.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-8-20.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-8-21.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-8-22.jpg" alt="drawing" style="width:700px;"/>
 
-## P345 - Problem set 8.4 1-3
+## P345 - Problem set 8.4
 <img src="Img/Calculus 3-8-23.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-8-24.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-8-25.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-8-26.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-8-27.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-8-28.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-8-29.jpg" alt="drawing" style="width:700px;"/>
+
+## P351 - Problem set 8.5
+<img src="Img/Calculus 3-8-31.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-8-32.jpg" alt="drawing" style="width:700px;"/>

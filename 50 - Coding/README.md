@@ -1,4 +1,4 @@
-# About this repo
+# About this repo - Coding
 
 It might be a good idea to read and practice code every day, books or Leetcode.
 Time frame: 2-3 years.
@@ -13,7 +13,10 @@ Time frame: 2-3 years.
   * Introduction to Algorithms, 3rd Edition (The MIT Press), by Thomas H. Cormen - Textbook
 * Stage 4: Not sure whether I should step into the algorithms analysis, maybe just move on to the ML and DL packages and frameworks.
 
-## Reference
+# Reference repo
+* A great repo with full of wheels: [Python Algorithms](https://github.com/TheAlgorithms/Python)
+
+# Reference Books
 * [Amazon Best Sellers in Computer Algorithms](https://www.amazon.com/gp/bestsellers/books/491298/ref=pd_zg_hrsr_books)
 * Algorithms (4th Edition), by Robert Sedgewick, Kevin Wayne
 * The Art of Computer Programming
