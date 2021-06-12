@@ -29,6 +29,7 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 * Chapter 7, Problem set 7.7, Problem 20: Algebra perspective or group of equations, but not individual equation.
 * Chapter 7: solution (basis) lives in the null space. The number of BASIS means dimention of the null space.
 * Chapter 7: KCL: just add the current (or minus if opposite direction)
+* Maybe I should allow a few empty box in the github contribution. Busy day with full of meetings happens. I should not influence or bother by a little green box. It might good for show off or HR but not really good for me. If you really want a full year green, write a program and submit empty content every day.  
 
 
 # Thought for the week
