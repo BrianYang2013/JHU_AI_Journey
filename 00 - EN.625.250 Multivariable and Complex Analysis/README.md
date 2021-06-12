@@ -25,7 +25,7 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 * Scalable: Share Note (mindmap + caution + important theorem + application?)
 * I should practice how to turn math into code. Explore [scipy.linalg turtorial](https://github.com/BrianYang2013/JHU_AI_Journey/blob/main/50%20-%20Coding/EN%20625.250%20-%20Linear%20Algeba.ipynb)
 
-2021-06- W2 Reflect:
+2021-06-12 W2 Reflect:
 * Chapter 7, Problem set 7.7, Problem 20: Algebra perspective or group of equations, but not individual equation.
 * Chapter 7: solution (basis) lives in the null space. The number of BASIS means dimention of the null space.
 * Chapter 7: KCL: just add the current (or minus if opposite direction)
