@@ -71,11 +71,11 @@ No matter how good you did 20 years ago, they won't leave too much trace on you.
 * 625.240 - Introduction to Probability and Statistics
 * 605.202 - Data Structures
 ## Courses List
-[Artificial Intelligence Courses](https://ep.jhu.edu/programs/artificial-intelligence/courses/)
-[Data Science Courses](https://ep.jhu.edu/programs/data-science/courses/)
+* [Artificial Intelligence Courses](https://ep.jhu.edu/programs/artificial-intelligence/courses/)
+* [Data Science Courses](https://ep.jhu.edu/programs/data-science/courses/)
 
 ## About coding
-I plan to add all code pieces to here, which I tested or created. With all information from internet, and 0 relationship with company, even they are pseudo, dummy or fake test data. I don't want to take any risk to turn to this code repo into private. 
+I plan to add all code pieces to here, which I tested or created. With all information from internet, and 0 relationship with company, even they are pseudo, dummy or fake test data. I don't want to take any risk to turn to this code repo into private.
 
 ## Reference
 
