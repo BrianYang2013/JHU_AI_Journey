@@ -3,7 +3,7 @@ Artificial Intelligence, Master of Science @ JHU Whiting School of Engineering.
 Start from 2021 summer
 
 ## Why this repo
-* Plan, do, check: record/analysis/reflection, improvement (or "iteration")
+* Collect information, Plan and reflection on my master journey.
 * Provide a reference, a checking point, a date point to the community.
 
 ## Before you pick a program
@@ -20,22 +20,25 @@ Start from 2021 summer
 ## Goals
 * AGI(Artificial General Intelligence) is not likely to happen in my generation. But if something interesting comes up, I wish I can understand it.
 * Personal interests
-  * Math - Awareness. Lay the foundation. Able to pick up new math topics at a reasonable timeframe.  
-  * Coding - Re-visit data structure and algorithms, leetcode, familiar with various packages
+  * Math - Awareness. Lay the foundation. Able to pick up new math topics at a reasonable timeframe (3 months for a typical graduate level course)  
+  * Coding - Re-visit data structure and algorithms, leetcode, familiar with various packages.
   * Academic Training - Discover and pick up the knowledge, be aware of where good taste and standards are, and restructure my knowledge system to support my future improvement.
-  * Collect tips and tools to improve the efficiency.
-* General goals for everyone - Pick a few which suits you. Keep collecting
+* General goals for everyone - Keep collecting, please share your thoughts
   * Program - Finish it
   * Program - Finish with the shortest possible timeframe
-  * Program - Finish with quality, honor
-  * Academic - Join a research project,
+  * Program - Finish with quality, such as straight A or honor
+  * Academic - Join a research project
   * Academic - publish a paper
-  * Coding -
-  * Engineering -
-  * Network -
-  * Career - Find a job, or join a startup
+  * Coding - general coding skills like Leetcode
+  * Coding - Familar with various languages, such as Python, R, C++, Julia ...
+  * Coding - Familar with various packages and framework, such as Scikit-learn, Tanserflow, Pytorch ...
+  * Engineering - Scale up, such as cloud; HPC
+  * Career - Extend your network for new career opportunity
+  * Career - Start a new career, join a startup
+  * Community - Influence the people around you, make positive impact.
   * Community - Record my journey which might help others.  
   * Softskills -
+  * Efficiency - Collect tips and tools to improve the efficiency.
 
 ## Journey of applying the schools
 It is not easy, so start early. Here you can find my journey, and I hope you will make yours easlier.
@@ -98,8 +101,9 @@ I plan to add all code pieces to here, which I tested or created. With all infor
   * [markdown-preview-enhanced](https://atom.io/packages/markdown-preview-enhanced) - Plugin, for markdown preview and Latex(KaTex)
   *  iPad - for PDF textbooks. It is astonishing to know that the textbook available publicly in PDF(Thanks Author!) but listed \$900+ on Amazon as new,  \$600+ (acceptable) or \$200 (good) as second hand. If license is not a issue (assume), then obviously there is something wrong in the US academic publication system.
   * [Goodnotes 5](https://apps.apple.com/us/app/goodnotes-5/id1444383602) - A great tool for taking notes.
+  * MindNode: A good mindmap tool. Alternative option: Xmind, SimpleMind, GitMind...
 
-### Tips
+### Tips:
 * Markdown reference - [Github Markdown](https://guides.github.com/features/mastering-markdown/)
 * [KaTeX Reference](https://katex.org/docs/supported.html)
 * Shorten the URL in GitHub - [git.io](https://git.io/)

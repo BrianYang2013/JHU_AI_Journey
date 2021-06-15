@@ -4,10 +4,10 @@ Textbook: [Advanced Engineering Mathematics, 10th Edition, by Erwin Kreyszig](ht
 This course mainly covers Linear algebra, multivariable calculus, and complex analysis.
 Better to warm up with calculus 1 and 2.
 
-This will be the most challenging course for me due to language, terminology, education system, and lack of mathematic training in the past 20 years. As long as I can conquer this one, I can handle all of the rest. Never underestimate the top school.
+This will be the most challenging course for me due to terminology, education system, especially lack of mathematic training for so many years. Since I already warmed up the basic math in advance, I should be fine. As long as I can conquer this one, I should be able to handle all of the rest. Meanwhile, never underestimate the difficulty of the top school.
 
 # About this repo
-I plan to publish my solutions and exercise here. It might not worth it to finish all of the problem sets, but I will try to resolve as much as possible and at least scan through all of them. This repo will not include the quiz and exam since they belong to the school.
+I plan to publish my solutions and exercise here. It might not worth it to finish all of the problem sets, but I will try my best and scan through all of them. At least for the linear algebra, I plan to finish most of the problem sets. This repo will not include the quiz and exam since they belong to the school.
 
 Plan to reduce the mistakes by:
 * Cross-check with my classmates,  
@@ -26,10 +26,10 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 * I should practice how to turn math into code. Explore [scipy.linalg turtorial](https://github.com/BrianYang2013/JHU_AI_Journey/blob/main/50%20-%20Coding/EN%20625.250%20-%20Linear%20Algeba.ipynb)
 
 2021-06-12 W2 Reflect:
-* Chapter 7, Problem set 7.7, Problem 20: Algebra perspective or group of equations, but not individual equation.
-* Chapter 7: solution (basis) lives in the null space. The number of BASIS means dimention of the null space.
-* Chapter 7: KCL: just add the current (or minus if opposite direction)
-* Maybe I should allow a few empty box in the github contribution. Busy day with full of meetings happens. I should not influence or bother by a little green box. It might good for show off or HR but not really good for me. If you really want a full year green, write a program and submit empty content every day.  
+* Chapter 7, Problem set 7.7, Problem 20: Linear Algebra focus on a GROUP of equations, but not a particular equation.
+* Chapter 7: solution (basis) lives in the null space. The number of basis means dimention of the null space.
+* Chapter 7: KCL: just simply think from the loop perspective. Identify the current direction.
+* Maybe I should allow a few empty box in the github contribution. Busy day with full of meetings happens. I should not bother by those little green boxes. If you really want a full year green, write a program and submit empty content every day.  
 
 #Typo and error in textbook
 * Chapter 7
@@ -61,3 +61,4 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
     * [Integral Calculus through Data and Modeling Specialization](https://www.coursera.org/specializations/integral-calculus-data-modeling)
 * [Calculus I with Precalculus: A One-Year Course](https://www.amazon.com/Calculus-I-Precalculus-One-Year-Course-dp-0618568069/dp/0618568069/ref=mt_other?_encoding=UTF8&me=&qid=1621531863). I happen to have this book. Anything similar will be good for warm up.
 * [Khan: Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus). It is not easy to get 100%, and I don't have time to finish all of them.
+* [Simple Parallel Circuits](https://www.allaboutcircuits.com/textbook/direct-current/chpt-5/simple-parallel-circuits/): Reference materials, if want to explore more on KCL, KVL in chapter 7. 
