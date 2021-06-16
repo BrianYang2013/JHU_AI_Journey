@@ -16,6 +16,11 @@ Plan to reduce the mistakes by:
 
 I will be delighted to receive suggestions and feedback to improve them and eventually benefit others. So if you have any suggestions, please do let me know. Thanks.
 
+# Thought for the week
+* “Obvious is the most dangerous word in mathematics.”  —  Eric Temple Bell
+* “The advancement and perfection of mathematics are intimately connected with the prosperity of the State.”  — Napoleon
+* “Besides language and music, mathematics is one of the primary manifestations of the free creative power of the human mind.” — Hermann Weyl
+
 # Notes
 It is good to practice LaTex, but it is time-consuming. From chapter 8, I will focus on understanding and exercise. I may turn them into LaTex if I have time. Update: GoodNotes5 is a better option, save my time.
 
@@ -31,7 +36,7 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 * Chapter 7: KCL: just simply think from the loop perspective. Identify the current direction.
 * Maybe I should allow a few empty box in the github contribution. Busy day with full of meetings happens. I should not bother by those little green boxes. If you really want a full year green, write a program and submit empty content every day.  
 
-#Typo and error in textbook
+# Typo and error in textbook
 * Chapter 7
   * 7-2: 11, 15, 29
   * 7-3: 19
@@ -42,6 +47,15 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
   * 8.2 - 15: I got a different result. Need to cross-check
   * 8.3 - 1: Answer is wrong
   * 8.4 - 1: A typo in the question. The second A lacks a hat. For the answer, I would simplify it to [-1, 2]^T. Not a mistake.
+* Chapter 9
+  * 9.1 - 11-18: Typo, b=[-4, 6, 0]
+  * 9.1 - 34-35: Seem by default the angle is 45.
+  * 9.2 - 17-20: Typo
+  * 9.2 - 35: Diamond.
+  * 9.3 - 27
+  * 9.3 - 31
+  * 9.5 - 24-28: in question, unit tangent vector should be u(t)
+  * 9.5 - 31, a might be negative.
 
 # Watch out
 * **Always check your result**
@@ -50,10 +64,6 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 * Careful on the terminology. E.g: Solution sets means 0, 1, or infinity. It does not mean a basis set. or a solution.
 * **Think from the new view**. Linear Algebra deal with a GROUP of equations, instead on individual.
 
-# Thought for the week
-* “Obvious is the most dangerous word in mathematics.”  —  Eric Temple Bell
-* “The advancement and perfection of mathematics are intimately connected with the prosperity of the State.”  — Napoleon
-
 # Reference
 * [Precalculus through Data and Modelling Specialization](https://www.coursera.org/specializations/precalculus-data-modelling).  A good math warm up.
 * I haven't try them, but I would assume they are good for Calculus warm up.
@@ -61,4 +71,4 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
     * [Integral Calculus through Data and Modeling Specialization](https://www.coursera.org/specializations/integral-calculus-data-modeling)
 * [Calculus I with Precalculus: A One-Year Course](https://www.amazon.com/Calculus-I-Precalculus-One-Year-Course-dp-0618568069/dp/0618568069/ref=mt_other?_encoding=UTF8&me=&qid=1621531863). I happen to have this book. Anything similar will be good for warm up.
 * [Khan: Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus). It is not easy to get 100%, and I don't have time to finish all of them.
-* [Simple Parallel Circuits](https://www.allaboutcircuits.com/textbook/direct-current/chpt-5/simple-parallel-circuits/): Reference materials, if want to explore more on KCL, KVL in chapter 7. 
+* [Simple Parallel Circuits](https://www.allaboutcircuits.com/textbook/direct-current/chpt-5/simple-parallel-circuits/): Reference materials, if want to explore more on KCL, KVL in chapter 7.

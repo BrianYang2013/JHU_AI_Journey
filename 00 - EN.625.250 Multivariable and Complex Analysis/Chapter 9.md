@@ -3,6 +3,7 @@
 ## P360 - Problem set 9.1
 Problem 1-5
 <img src="Img/Calculus 3-9-35.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-9-36.jpg" alt="drawing" style="width:700px;"/>
 
 6. Q=[4, 2, 13], |v|=4
 7. Q=[4, 0. 1/2], |v|=$\sqrt{149}/4$
@@ -21,7 +22,6 @@ Problem 1-5
 20. $a+b=[a_1, a_2, ..., a_n]+[b_1, b_2, ..., b_n]=[a_1+b_1, a_2+b_2, ..., a_n+b_n]=[b_1+a_1, b_2+a_2, ..., b_n+a_n]=b+a$
 The rest can be approved in a simliar way.
 
-<img src="Img/Calculus 3-9-36.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-9-37.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-9-38.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-9-39.jpg" alt="drawing" style="width:700px;"/>
@@ -55,3 +55,7 @@ The rest can be approved in a simliar way.
 <img src="Img/Calculus 3-9-64.jpg" alt="drawing" style="width:700px;"/>
 
 ## P390 - Problem set 9.5
+<img src="Img/Calculus 3-9-66.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-9-67.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-9-68.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-9-69.jpg" alt="drawing" style="width:700px;"/>
