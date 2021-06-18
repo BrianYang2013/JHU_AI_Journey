@@ -4,10 +4,10 @@ Textbook: [Advanced Engineering Mathematics, 10th Edition, by Erwin Kreyszig](ht
 This course mainly covers Linear algebra, multivariable calculus, and complex analysis.
 Better to warm up with calculus 1 and 2.
 
-This will be the most challenging course for me due to terminology, education system, especially lack of mathematic training for so many years. Since I already warmed up the basic math in advance, I should be fine. As long as I can conquer this one, I should be able to handle all of the rest. Meanwhile, never underestimate the difficulty of the top school.
+It will be the most challenging course for me due to various reasons such as mathematic terminology, different education system, especially to the fact that I haven't work on my math for so many years. As long as I can conquer this one, I should be able to handle all of the rest. Meanwhile, never underestimate the difficulty of the top school.
 
 # About this repo
-I plan to publish my solutions and exercise here. It might not worth it to finish all of the problem sets, but I will try my best and scan through all of them. At least for the linear algebra, I plan to finish most of the problem sets. This repo will not include the quiz and exam since they belong to the school.
+I plan to publish my notes and exercise here. It might not worth it to finish all of the problem sets for the sake of time, but I will try my best and at least scan through them. Especially for the linear algebra problem sets, I plan to finish most of them. This repo will not include the quiz and exam since they belong to the school.
 
 Plan to reduce the mistakes by:
 * Cross-check with my classmates,  
@@ -35,6 +35,10 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 * Chapter 7: solution (basis) lives in the null space. The number of basis means dimention of the null space.
 * Chapter 7: KCL: just simply think from the loop perspective. Identify the current direction.
 * Maybe I should allow a few empty box in the github contribution. Busy day with full of meetings happens. I should not bother by those little green boxes. If you really want a full year green, write a program and submit empty content every day.  
+
+2021-06-19 W3 Reflect:
+* I made quit a few mistakes in Quiz 1, although I still left one hours there. So I try to review my Quiz 2 as much as possible, but it is really hard to focus such a long time after a long day. Anyway, I have reviewed the result for couple of times and do my best. A few questions are really tricky.
+* Shopping tomorrow, and out of town Satuday for camping. Father's day!
 
 # Typo and error in textbook
 * Chapter 7
