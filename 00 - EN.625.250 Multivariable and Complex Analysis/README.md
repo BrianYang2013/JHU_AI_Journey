@@ -16,30 +16,6 @@ Plan to reduce the mistakes by:
 
 I will be delighted to receive suggestions and feedback to improve them and eventually benefit others. So if you have any suggestions, please do let me know. Thanks.
 
-# Thought for the week
-* “Obvious is the most dangerous word in mathematics.”  —  Eric Temple Bell
-* “The advancement and perfection of mathematics are intimately connected with the prosperity of the State.”  — Napoleon
-* “Besides language and music, mathematics is one of the primary manifestations of the free creative power of the human mind.” — Hermann Weyl
-
-# Notes
-It is good to practice LaTex, but it is time-consuming. From chapter 8, I will focus on understanding and exercise. I may turn them into LaTex if I have time. Update: GoodNotes5 is a better option, save my time.
-
-2021-06-05 W1 Reflect:
-* Professor: calculator calculates, human think. I plan to use tools instead of pen and paper after Chapter 8 or 9. It worth carefully think about the education philosophy difference and max out the benefit.
-* Put the limited time on the most valuable things. => Reduce exercise, more reading, and coding.
-* Scalable: Share Note (mindmap + caution + important theorem + application?)
-* I should practice how to turn math into code. Explore [scipy.linalg turtorial](https://github.com/BrianYang2013/JHU_AI_Journey/blob/main/50%20-%20Coding/EN%20625.250%20-%20Linear%20Algeba.ipynb)
-
-2021-06-12 W2 Reflect:
-* Chapter 7, Problem set 7.7, Problem 20: Linear Algebra focus on a GROUP of equations, but not a particular equation.
-* Chapter 7: solution (basis) lives in the null space. The number of basis means dimention of the null space.
-* Chapter 7: KCL: just simply think from the loop perspective. Identify the current direction.
-* Maybe I should allow a few empty box in the github contribution. Busy day with full of meetings happens. I should not bother by those little green boxes. If you really want a full year green, write a program and submit empty content every day.  
-
-2021-06-19 W3 Reflect:
-* I made quit a few mistakes in Quiz 1, although I still left one hours there. So I try to review my Quiz 2 as much as possible, but it is really hard to focus such a long time after a long day. Anyway, I have reviewed the result for couple of times and do my best. A few questions are really tricky.
-* Shopping tomorrow, and out of town Satuday for camping. Father's day!
-
 # Typo and error in textbook
 * Chapter 7
   * 7-2: 11, 15, 29
@@ -67,6 +43,31 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 * Basic arithmetic calculation. Write them down.
 * Careful on the terminology. E.g: Solution sets means 0, 1, or infinity. It does not mean a basis set. or a solution.
 * **Think from the new view**. Linear Algebra deal with a GROUP of equations, instead on individual.
+
+# Thought for the week
+* “Obvious is the most dangerous word in mathematics.”  —  Eric Temple Bell
+* “The advancement and perfection of mathematics are intimately connected with the prosperity of the State.”  — Napoleon
+* “Besides language and music, mathematics is one of the primary manifestations of the free creative power of the human mind.” — Hermann Weyl
+
+# Notes
+It is good to practice LaTex, but it is time-consuming. From chapter 8, I will focus on understanding and exercise. I may turn them into LaTex if I have time. Update: GoodNotes5 is a better option, save my time.
+
+2021-06-05 W1 Reflect:
+* Professor: calculator calculates, human think. I plan to use tools instead of pen and paper after Chapter 8 or 9. It worth carefully think about the education philosophy difference and max out the benefit.
+* Put the limited time on the most valuable things. => Reduce exercise, more reading, and coding.
+* Scalable: Share Note (mindmap + caution + important theorem + application?)
+* I should practice how to turn math into code. Explore [scipy.linalg turtorial](https://github.com/BrianYang2013/JHU_AI_Journey/blob/main/50%20-%20Coding/EN%20625.250%20-%20Linear%20Algeba.ipynb)
+
+2021-06-12 W2 Reflect:
+* Chapter 7, Problem set 7.7, Problem 20: Linear Algebra focus on a GROUP of equations, but not a particular equation.
+* Chapter 7: solution (basis) lives in the null space. The number of basis means dimention of the null space.
+* Chapter 7: KCL: just simply think from the loop perspective. Identify the current direction.
+* Maybe I should allow a few empty box in the github contribution. Busy day with full of meetings happens. I should not bother by those little green boxes. If you really want a full year green, write a program and submit empty content every day.  
+
+2021-06-19 W3 Reflect:
+* I made quit a few mistakes in Quiz 1, and it is good to best leverage the exam time to do a few more round checks. 
+* Shopping tomorrow, and camping at the weekend. Happy father's day!
+
 
 # Reference
 * [Precalculus through Data and Modelling Specialization](https://www.coursera.org/specializations/precalculus-data-modelling).  A good math warm up.
