@@ -65,8 +65,9 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 * Maybe I should allow a few empty box in the github contribution. Busy day with full of meetings happens. I should not bother by those little green boxes. If you really want a full year green, write a program and submit empty content every day.  
 
 2021-06-19 W3 Reflect:
-* I made quit a few mistakes in Quiz 1, and it is good to best leverage the exam time to do a few more round checks. 
+* I made quit a few mistakes in Quiz 1, and it is good to best leverage the exam time to do a few more round checks.
 * Shopping tomorrow, and camping at the weekend. Happy father's day!
+* If we reflect a vector, then it is same as rotation. But it is not the case for curve or a 3-D object. 
 
 
 # Reference
