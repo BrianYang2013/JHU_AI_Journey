@@ -97,13 +97,15 @@ I plan to add all code pieces to here, which I tested or created. With all infor
 
 ### Tools:
   * [GitHub Desktop](https://desktop.github.com/) - Maintain this repo
-  * [Atom](https://atom.io/) - Markdown editor
-  * [markdown-preview-enhanced](https://atom.io/packages/markdown-preview-enhanced) - Plugin, for markdown preview and Latex(KaTex)
-  *  iPad - for PDF textbooks. It is astonishing to know that the textbook available publicly in PDF(Thanks Author!) but listed \$900+ on Amazon as new,  \$600+ (acceptable) or \$200 (good) as second hand. If license is not a issue (assume), then obviously there is something wrong in the US academic publication system.
-  * [Goodnotes 5](https://apps.apple.com/us/app/goodnotes-5/id1444383602) - A great tool for taking notes.
+  * Markdown editor - [Typora](https://typora.io/) 
+  * Markdown with Latex: [Atom](https://atom.io/) + [markdown-preview-enhanced](https://atom.io/packages/markdown-preview-enhanced) plugin, for markdown preview and Latex(KaTex)
+  *  iPad: iPad 2020 + pencil (or iPad Pro 11 + pencil 2). iPad Pro 12.9 too heavy, 27 inch monitor is better. Good for reading PDF textbooks. It is astonishing to know that the textbook available publicly in PDF(Thanks Author!) but listed \$900+ on Amazon as new,  \$600+ (acceptable) or \$200 (good) as second hand. If license is not a issue (assume), then obviously there is something wrong in the US academic publication system.
+  * [Goodnotes 5](https://apps.apple.com/us/app/goodnotes-5/id1444383602) - A great tool for taking notes and mark on the PDF textbook
   * MindNode: A good mindmap tool. Alternative option: Xmind, SimpleMind, GitMind...
+  * Screenshot: [Snipaste](https://www.snipaste.com/)
 
 ### Tips:
 * Markdown reference - [Github Markdown](https://guides.github.com/features/mastering-markdown/)
 * [KaTeX Reference](https://katex.org/docs/supported.html)
 * Shorten the URL in GitHub - [git.io](https://git.io/)
+
