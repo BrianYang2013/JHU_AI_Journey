@@ -37,6 +37,10 @@ I will be delighted to receive suggestions and feedback to improve them and even
   * 9.5 - 24-28: in question, unit tangent vector should be u(t)
   * 9.5 - 31, a might be negative.
 
+* Chapter 9 - Starting from now i don't plan to do all the exercise.
+  * 9,8 - 1, typo in the question
+  * 9.9 - 15, curl v is 0
+
 # Watch out
 * **Always check your result**
 * Check Matrix Size
@@ -48,6 +52,7 @@ I will be delighted to receive suggestions and feedback to improve them and even
 * “Obvious is the most dangerous word in mathematics.”  —  Eric Temple Bell
 * “The advancement and perfection of mathematics are intimately connected with the prosperity of the State.”  — Napoleon
 * “Besides language and music, mathematics is one of the primary manifestations of the free creative power of the human mind.” — Hermann Weyl
+* “Do not worry too much about your difficulties in mathematics, I can assure you that mine are still greater.” — Albert Einstein
 
 # Notes
 It is good to practice LaTex, but it is time-consuming. From chapter 8, I will focus on understanding and exercise. I may turn them into LaTex if I have time. Update: GoodNotes5 is a better option, save my time.

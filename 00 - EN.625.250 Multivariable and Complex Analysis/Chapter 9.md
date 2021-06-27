@@ -59,3 +59,8 @@ The rest can be approved in a simliar way.
 <img src="Img/Calculus 3-9-67.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-9-68.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-9-69.jpg" alt="drawing" style="width:700px;"/>
+
+## Selected Problem set 9.7-9.9
+<img src="Img/Calculus 3-9-71.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-9-72.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-9-73.jpg" alt="drawing" style="width:700px;"/>
