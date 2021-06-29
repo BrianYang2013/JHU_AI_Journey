@@ -53,6 +53,7 @@ I will be delighted to receive suggestions and feedback to improve them and even
 * “The advancement and perfection of mathematics are intimately connected with the prosperity of the State.”  — Napoleon
 * “Besides language and music, mathematics is one of the primary manifestations of the free creative power of the human mind.” — Hermann Weyl
 * “Do not worry too much about your difficulties in mathematics, I can assure you that mine are still greater.” — Albert Einstein
+* “Learning without thought is labor lost; thought without learning is perilous." — Confucius
 
 # Notes
 It is good to practice LaTex, but it is time-consuming. From chapter 8, I will focus on understanding and exercise. I may turn them into LaTex if I have time. Update: GoodNotes5 is a better option, save my time.
