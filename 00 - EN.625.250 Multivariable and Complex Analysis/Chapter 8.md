@@ -1,7 +1,7 @@
 # Chapter 8 Linear Algebra: Matrix Eigenvalue Problems
 
 ## P329 - Problem set 8.1
-<img src="Img/Calculus 3-8-02.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-8-02.jpg" alt="drawing" style="width:550px;"/>
 <img src="Img/Calculus 3-8-03.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-8-04.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-8-05.jpg" alt="drawing" style="width:700px;"/>

@@ -2,7 +2,7 @@
 
 ## P360 - Problem set 9.1
 Problem 1-5
-<img src="Img/Calculus 3-9-35.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-9-35.jpg" alt="drawing" style="width:550px;"/>
 <img src="Img/Calculus 3-9-36.jpg" alt="drawing" style="width:700px;"/>
 
 6. Q=[4, 2, 13], |v|=4
