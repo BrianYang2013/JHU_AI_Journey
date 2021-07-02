@@ -35,7 +35,7 @@ I will be delighted to receive suggestions and feedback to improve them and even
   * 9.3 - 27
   * 9.3 - 31
   * 9.5 - 24-28: in question, unit tangent vector should be u(t)
-  * 9.5 - 31, a might be negative.
+  * 9.5 - 31: |a|, because a might be negative.
 
 * Chapter 9 - Starting from now i don't plan to do all the exercise.
   * 9,8 - 1, typo in the question
