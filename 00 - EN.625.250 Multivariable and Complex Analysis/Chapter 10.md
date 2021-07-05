@@ -7,3 +7,7 @@
 ## Selected Problem set 10.2
 <img src="Img/Calculus 3-10-78.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-10-79.jpg" alt="drawing" style="width:700px;"/>
+
+## Selected Problem set 10.3
+<img src="Img/Calculus 3-10-81.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-10-82.jpg" alt="drawing" style="width:700px;"/>
