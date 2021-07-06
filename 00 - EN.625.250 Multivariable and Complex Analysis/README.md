@@ -40,7 +40,10 @@ I will be delighted to receive suggestions and feedback to improve them and even
 * Chapter 9 - Starting from now i don't plan to do all the exercise.
   * 9,8 - 1, typo in the question
   * 9.9 - 15, curl v is 0
-* Chapter 10 - P421: I = f(1, -1, 7) - f(0, 1, 2) = 1-7 - (0+2) = -8
+* Chapter 10 -
+  * P421: I = f(1, -1, 7) - f(0, 1, 2) = 1-7 - (0+2) = -8
+  * 10.2 - 13, independent, answer missed -1.
+  * 10.5 - 9: F=$[e^y/x, e^y\ lnx +2x]$, this is the worst typo I have ever met, wasted me many hours. 
 
 # Watch out
 * **Always check your result**
