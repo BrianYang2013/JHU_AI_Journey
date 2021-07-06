@@ -16,3 +16,7 @@
 <img src="Img/Calculus 3-10-84.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-10-85.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-10-86.jpg" alt="drawing" style="width:700px;"/>
+
+## Selected Problem set 10.5
+<img src="Img/Calculus 3-10-88.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-10-89.jpg" alt="drawing" style="width:700px;"/>
