@@ -43,6 +43,7 @@ I will be delighted to receive suggestions and feedback to improve them and even
 * Chapter 10 -
   * P421: I = f(1, -1, 7) - f(0, 1, 2) = 1-7 - (0+2) = -8
   * 10.2 - 13, independent, answer missed -1.
+  * 10.3 P426: ... at almost every point ... : Consider a rectangle, 50% of the tangent are infinity. How we explain this? 
   * 10.5 - 9: F=$[e^y/x, e^y\ lnx +2x]$, this is the worst typo I have ever met, wasted me many hours.
 
 # Watch out
@@ -97,3 +98,4 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 * [Calculus I with Precalculus: A One-Year Course](https://www.amazon.com/Calculus-I-Precalculus-One-Year-Course-dp-0618568069/dp/0618568069/ref=mt_other?_encoding=UTF8&me=&qid=1621531863). I happen to have this book. Anything similar will be good for warm up.
 * [Khan: Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus). It is not easy to get 100%, and I don't have time to finish all of them.
 * [Simple Parallel Circuits](https://www.allaboutcircuits.com/textbook/direct-current/chpt-5/simple-parallel-circuits/): Reference materials, if want to explore more on KCL, KVL in chapter 7.
+*
