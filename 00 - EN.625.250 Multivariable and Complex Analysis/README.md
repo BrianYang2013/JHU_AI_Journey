@@ -43,7 +43,7 @@ I will be delighted to receive suggestions and feedback to improve them and even
 * Chapter 10 -
   * P421: I = f(1, -1, 7) - f(0, 1, 2) = 1-7 - (0+2) = -8
   * 10.2 - 13, independent, answer missed -1.
-  * 10.5 - 9: F=$[e^y/x, e^y\ lnx +2x]$, this is the worst typo I have ever met, wasted me many hours. 
+  * 10.5 - 9: F=$[e^y/x, e^y\ lnx +2x]$, this is the worst typo I have ever met, wasted me many hours.
 
 # Watch out
 * **Always check your result**
@@ -58,6 +58,7 @@ I will be delighted to receive suggestions and feedback to improve them and even
 * “Besides language and music, mathematics is one of the primary manifestations of the free creative power of the human mind.” — Hermann Weyl
 * “Do not worry too much about your difficulties in mathematics, I can assure you that mine are still greater.” — Albert Einstein
 * “Learning without thought is labor lost; thought without learning is perilous." — Confucius
+* "Mathematics is not a spectator sport. " — George Polya
 
 # Notes
 It is good to practice LaTex, but it is time-consuming. From chapter 8, I will focus on understanding and exercise. I may turn them into LaTex if I have time. Update: GoodNotes5 is a better option, save my time.
@@ -80,6 +81,11 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 * Reflect might same as rotation for a vector, but not for a curve or a 3-D object.
 
 2021-06-26 W4 Reflect:
+
+2021-07-01 W5 Reflect:
+* Keep swimming. Sorry Hawaii, I will visit you next time.
+
+2021-07-08 W6 Reflect:
 
 
 
