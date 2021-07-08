@@ -39,6 +39,19 @@ Start from 2021 summer
   * Community - Record my journey which might help others.  
   * Softskills -
   * Efficiency - Collect tips and tools to improve the efficiency.
+## Misc @ JHU AI program
+* Theoretical or applied approach
+* It is common that US can have multiply Master degree. So it leads to 2 options
+  * Life long study, with many master degrees
+  * Pursue a PhD
+* JHU AI program is relevantly new, more courses will be added to the elective courses list, and more paths will define and provide. Pay attention to the new courses.   
+* EN.625.250
+  * EN: school (Engineering, Medical, etc. )
+  * 625: Major (Math, CS, etc. )
+  * First digit in the last session
+    * 2: undergraduate course, not to degree.
+    * 6: graduate level course.
+    * 7: Advanced graduate level
 
 ## Journey of applying the schools
 It is not easy, so start early. Here you can find my journey, and I hope you will make yours easlier.
