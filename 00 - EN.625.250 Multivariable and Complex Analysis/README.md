@@ -86,12 +86,10 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 
 2021-07-01 W5 Reflect:
 * Keep swimming. Sorry Hawaii, I will visit you next time.
-* Based on my performance of Linear Algebra, Professor accepted my scripts (although different course name) and acknowledge that I have picked up this topic. Applying waive. 
+* Based on my performance of Linear Algebra, Professor accepted my scripts (although different course name) and acknowledge that I have picked up this topic. Applying waive.
 
 2021-07-08 W6 Reflect:
-* Quiz 4 part B is not easy. I waste too much time on T/F questions until I reach to the calculation part. I thought it is similar as the previous 3 weekly test. Cross my fingures.
-
-
+* Quiz 4 part B is not easy. I wasted too much time on T/F questions until I reached to the calculation part. I thought it is similar as the previous 3 weekly tests. Barely finished them in 2 hours, cross my fingures.
 
 # Reference
 * [Precalculus through Data and Modelling Specialization](https://www.coursera.org/specializations/precalculus-data-modelling).  A good math warm up.
