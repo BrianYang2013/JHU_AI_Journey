@@ -43,8 +43,9 @@ I will be delighted to receive suggestions and feedback to improve them and even
 * Chapter 10 -
   * P421: I = f(1, -1, 7) - f(0, 1, 2) = 1-7 - (0+2) = -8
   * 10.2 - 13, independent, answer missed -1.
-  * 10.3 P426: ... at almost every point ... : Consider a rectangle, 50% of the tangent are infinity. How we explain this? 
+  * 10.3 P426: ... at almost every point ... : Consider a rectangle, 50% of the tangent are infinity. How we explain this?
   * 10.5 - 9: F=$[e^y/x, e^y\ lnx +2x]$, this is the worst typo I have ever met, wasted me many hours.
+  * 10.7, ﻿P456: S: r=[2cosvcosu, 2cosvsinu, **2sinv**]
 
 # Watch out
 * **Always check your result**
