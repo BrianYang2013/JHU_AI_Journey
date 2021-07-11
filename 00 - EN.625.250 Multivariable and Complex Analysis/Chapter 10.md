@@ -24,3 +24,9 @@
 ## Selected Problem set 10.6
 <img src="Img/Calculus 3-10-91.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-10-92.jpg" alt="drawing" style="width:700px;"/>
+
+## Selected Problem set 10.7
+<img src="Img/Calculus 3-10-93.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-10-94.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-10-95.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-10-96.jpg" alt="drawing" style="width:700px;"/>
