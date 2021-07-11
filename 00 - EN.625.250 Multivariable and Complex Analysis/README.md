@@ -83,6 +83,8 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 * Reflect might same as rotation for a vector, but not for a curve or a 3-D object.
 
 2021-06-26 W4 Reflect:
+* June: 80+ hours screentime on GoodNotes. Need be more efficient, score 95 means OK, 99-100 also means a little bit waste time. Plan on coding, and focus on delivery.
+* Very rare to use the physical books
 
 2021-07-01 W5 Reflect:
 * Keep swimming. Sorry Hawaii, I will visit you next time.
@@ -90,6 +92,7 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 
 2021-07-08 W6 Reflect:
 * Quiz 4 part B is not easy. I wasted too much time on T/F questions until I reached to the calculation part. I thought it is similar as the previous 3 weekly tests. Barely finished them in 2 hours, cross my fingures.
+* As a result, screentime increased: June 27-July 4, 14 hours. July 5-11 23 hours. 
 
 # Reference
 * [Precalculus through Data and Modelling Specialization](https://www.coursera.org/specializations/precalculus-data-modelling).  A good math warm up.
