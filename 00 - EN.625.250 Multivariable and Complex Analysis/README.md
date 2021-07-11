@@ -45,7 +45,8 @@ I will be delighted to receive suggestions and feedback to improve them and even
   * 10.2 - 13, independent, answer missed -1.
   * 10.3 P426: ... at almost every point ... : Consider a rectangle, 50% of the tangent are infinity. How we explain this?
   * 10.5 - 9: F=$[e^y/x, e^y\ lnx +2x]$, this is the worst typo I have ever met, wasted me many hours.
-  * 10.7, ﻿P456: S: r=[2cosvcosu, 2cosvsinu, **2sinv**]
+  * 10.7, ﻿P456 typo: S: r=[2cosvcosu, 2cosvsinu, **2sinv**]
+  * 10.8, P460 typo: ... in some domain D **in** space.
 
 # Watch out
 * **Always check your result**
@@ -92,7 +93,7 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 
 2021-07-08 W6 Reflect:
 * Quiz 4 part B is not easy. I wasted too much time on T/F questions until I reached to the calculation part. I thought it is similar as the previous 3 weekly tests. Barely finished them in 2 hours, cross my fingures.
-* As a result, screentime increased: June 27-July 4, 14 hours. July 5-11 23 hours. 
+* As a result, screentime increased: June 27-July 4, 14 hours. July 5-11 23 hours.
 
 # Reference
 * [Precalculus through Data and Modelling Specialization](https://www.coursera.org/specializations/precalculus-data-modelling).  A good math warm up.
