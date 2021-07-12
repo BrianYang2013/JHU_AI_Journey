@@ -1,9 +1,10 @@
 # About this repo - Coding
 
 It might be a good idea to read and practice code every day, books or Leetcode.
-Time frame: 2-3 years, through my AI program
+Time frame: 2-3 years, through my AI program. 
 
 Need to warm up and practice:
+
 * Python, ML packages and framework.
 * Java, Industry
 * C++, Performance and CV (Put in the list)
@@ -15,28 +16,40 @@ Need to warm up and practice:
 
 # Resource
 
-## Tools
-* TextMate / Sublime Text
-* InteelliJ IDEA - Free for studuents, one year. Maybe extend till graduation? Apply [here](https://www.jetbrains.com/community/education/#students) 
+## Tools and environment
 
+* IDE: VScode. Simple, Easy for Java and Python. 
+  * Alternative: IntelliJ IDEA. Versatile, which means heavy for entry level language study and basic algorithm. Community version is good enough, Premium is free for students, you can apply [here](https://www.jetbrains.com/community/education/#students) 
+* Markdown： [Mark Text](https://github.com/marktext/marktext), light, export PDF, support LATEX
+  * Alternative: Atom + plugin: Latex + export PDF. Heavy. 
+  * Alternative: Typora
+* Anaconda. Always on my list. 
+* TextEditor:
+  - Sublime Text. Reference: [How to compile and run a Java program with Sublime Text 3](https://www.codejava.net/coding/how-to-compile-and-run-a-java-program-with-sublime-text-3). 
+  - TextMate. Light. For Markdown preview: Ctrl + Option + Command + p. [Markdown Redcarpet](https://github.com/streeter/markdown-redcarpet.tmbundle) might work for github markdown. The ruby version is too old, may get some trouble.
 
 ## Reference Repo
+
 * A great repo with full of wheels: [Python Algorithms](https://github.com/TheAlgorithms/Python)
 
 ## Languages
+
 * [UM: Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming) - Finished. [Certificate](https://coursera.org/share/5eb92fd864116d2271c467b1b05b2e17)
 * [Duke: Java Programming and Software Engineering Fundamentals Specialization](https://www.coursera.org/specializations/java-programming#courses)
 
 ## Data Structure
+
 * [UCSD: Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
 
 ## Algorithms
+
 * [Stanford: Algorithms Specialization](https://www.coursera.org/specializations/algorithms)
 * [Princeton: Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1#syllabus)
 * [Princeton: Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2#syllabus)
 * [Princeton: Analysis of Algorithms](https://www.coursera.org/learn/analysis-of-algorithms)
 
 ## Books
+
 * Warm up the general coding skill:
   * [我的第一本算法书 / アルゴリズム図鑑](https://www.ituring.com.cn/book/2464)，a fun book to start.
   * Grokking Algorithms
@@ -48,6 +61,7 @@ Need to warm up and practice:
   * Algorithms (4th Edition), by Robert Sedgewick, Kevin Wayne
 
 ## Reference Books
+
 * [Amazon Best Sellers in Computer Algorithms](https://www.amazon.com/gp/bestsellers/books/491298/ref=pd_zg_hrsr_books)
 * The Art of Computer Programming
 * Grokking Artificial Intelligence Algorithms

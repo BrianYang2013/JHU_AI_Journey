@@ -1,1 +1,0 @@
-print("Hello, world! This greeting comes from python.")
