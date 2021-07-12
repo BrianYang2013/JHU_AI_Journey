@@ -14,6 +14,12 @@ Need to warm up and practice:
 * DL tools: Pytorch, Tensorflow
 
 # Resource
+
+## Tools
+* TextMate / Sublime Text
+* InteelliJ IDEA - Free for studuents, one year. Maybe extend till graduation? Apply [here](https://www.jetbrains.com/community/education/#students) 
+
+
 ## Reference Repo
 * A great repo with full of wheels: [Python Algorithms](https://github.com/TheAlgorithms/Python)
 
