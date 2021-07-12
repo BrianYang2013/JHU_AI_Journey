@@ -35,12 +35,18 @@ I will be delighted to receive suggestions and feedback to improve them and even
   * 9.3 - 27
   * 9.3 - 31
   * 9.5 - 24-28: in question, unit tangent vector should be u(t)
-  * 9.5 - 31, a might be negative.
+  * 9.5 - 31: |a|, because a might be negative.
 
 * Chapter 9 - Starting from now i don't plan to do all the exercise.
   * 9,8 - 1, typo in the question
   * 9.9 - 15, curl v is 0
-* Chapter 10 - P421: I = f(1, -1, 7) - f(0, 1, 2) = 1-7 - (0+2) = -8
+* Chapter 10 -
+  * P421: I = f(1, -1, 7) - f(0, 1, 2) = 1-7 - (0+2) = -8
+  * 10.2 - 13, independent, answer missed -1.
+  * 10.3 P426: ... at almost every point ... : Consider a rectangle, 50% of the tangent are infinity. How we explain this?
+  * 10.5 - 9: F=$[e^y/x, e^y\ lnx +2x]$, this is the worst typo I have ever met, wasted me many hours.
+  * 10.7, ﻿P456 typo: S: r=[2cosvcosu, 2cosvsinu, **2sinv**]
+  * 10.8, P460 typo: ... in some domain D **in** space.
 
 # Watch out
 * **Always check your result**
@@ -55,6 +61,7 @@ I will be delighted to receive suggestions and feedback to improve them and even
 * “Besides language and music, mathematics is one of the primary manifestations of the free creative power of the human mind.” — Hermann Weyl
 * “Do not worry too much about your difficulties in mathematics, I can assure you that mine are still greater.” — Albert Einstein
 * “Learning without thought is labor lost; thought without learning is perilous." — Confucius
+* "Mathematics is not a spectator sport. " — George Polya
 
 # Notes
 It is good to practice LaTex, but it is time-consuming. From chapter 8, I will focus on understanding and exercise. I may turn them into LaTex if I have time. Update: GoodNotes5 is a better option, save my time.
@@ -77,8 +84,16 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 * Reflect might same as rotation for a vector, but not for a curve or a 3-D object.
 
 2021-06-26 W4 Reflect:
+* June: 80+ hours screentime on GoodNotes. Need be more efficient, score 95 means OK, 99-100 also means a little bit waste time. Plan on coding, and focus on delivery.
+* Very rare to use the physical books
 
+2021-07-01 W5 Reflect:
+* Keep swimming. Sorry Hawaii, I will visit you next time.
+* Based on my performance of Linear Algebra, Professor accepted my scripts (although different course name) and acknowledge that I have picked up this topic. Applying waive.
 
+2021-07-08 W6 Reflect:
+* Quiz 4 part B is not easy. I wasted too much time on T/F questions until I reached to the calculation part. I thought it is similar as the previous 3 weekly tests. Barely finished them in 2 hours, cross my fingures.
+* As a result, screentime increased: June 27-July 4, 14 hours. July 5-11 23 hours.
 
 # Reference
 * [Precalculus through Data and Modelling Specialization](https://www.coursera.org/specializations/precalculus-data-modelling).  A good math warm up.
@@ -88,3 +103,4 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 * [Calculus I with Precalculus: A One-Year Course](https://www.amazon.com/Calculus-I-Precalculus-One-Year-Course-dp-0618568069/dp/0618568069/ref=mt_other?_encoding=UTF8&me=&qid=1621531863). I happen to have this book. Anything similar will be good for warm up.
 * [Khan: Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus). It is not easy to get 100%, and I don't have time to finish all of them.
 * [Simple Parallel Circuits](https://www.allaboutcircuits.com/textbook/direct-current/chpt-5/simple-parallel-circuits/): Reference materials, if want to explore more on KCL, KVL in chapter 7.
+*
