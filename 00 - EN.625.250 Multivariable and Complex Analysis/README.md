@@ -76,6 +76,7 @@ I will be delighted to receive suggestions and feedback to improve them and even
 * “Do not worry too much about your difficulties in mathematics, I can assure you that mine are still greater.” — Albert Einstein
 * “Learning without thought is labor lost; thought without learning is perilous." — Confucius
 * "Mathematics is not a spectator sport. " — George Polya
+* True pleasure lies not in the discovery of truth, but in the search for it." — Tolstoy
 
 # Notes
 
@@ -91,7 +92,7 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 2021-06-12 W2 Reflect:
 
 * Chapter 7, Problem set 7.7, Problem 20: Linear Algebra focus on a GROUP of equations, but not a particular equation.
-* Chapter 7: solution (basis) lives in the null space. The number of basis means dimention of the null space.
+* Chapter 7: solution (basis) lives in the null space. The number of basis means dimension of the null space.
 * Chapter 7: KCL: just simply think from the loop perspective. Identify the current direction.
 * Maybe I should allow a few empty box in the github contribution. Busy day with full of meetings happens. I should not bother by those little green boxes. If you really want a full year green, write a program and submit empty content every day.  
 
@@ -103,7 +104,7 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 
 2021-06-26 W4 Reflect:
 
-* June: 80+ hours screentime on GoodNotes. Need be more efficient, score 95 means OK, 99-100 also means a little bit waste time. Plan on coding, and focus on delivery.
+* June: 80+ hours screen time on GoodNotes. Need be more efficient, score 95 means OK, 99-100 also means a little bit waste time. Plan on coding, and focus on delivery.
 * Very rare to use the physical books
 
 2021-07-01 W5 Reflect:
@@ -113,16 +114,27 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 
 2021-07-08 W6 Reflect:
 
-* Quiz 4 part B is not easy. I wasted too much time on T/F questions until I reached to the calculation part. I thought it is similar as the previous 3 weekly tests. Barely finished them in 2 hours, cross my fingures.
-* As a result, screentime increased: June 27-July 4, 14 hours. July 5-11 23 hours.
+* Quiz 4 part B is not easy. I wasted too much time on T/F questions until I reached to the calculation part. I thought it is similar as the previous 3 weekly tests. Barely finished them in 2 hours, cross my fingers.
+* As a result, screen time increased: June 27-July 4, 14 hours. July 5-11 23 hours.
+
+2021-07-15 W7 Reflect:
+
+* Lucky on the Quiz 4, good result. One major mistake on the Part B Q2: I should calculate from Y direction but not X. And careful on the book keeping. 
+* It might worth to list down all the key concepts, equation, examples in calculus 3 before the mid-term exam. I think I might lost a little bit now, and I am not fully confidence to integrate or even connect all of those knowledge points under time pressure. Need to wrap them up.  
 
 # Reference
 
 * [Precalculus through Data and Modelling Specialization](https://www.coursera.org/specializations/precalculus-data-modelling).  A good math warm up.
+
 * I haven't try them, but I would assume they are good for Calculus warm up.
+  
   * [Differential Calculus through Data and Modeling Specialization](https://www.coursera.org/specializations/differential-calculus-data-modeling)
   * [Integral Calculus through Data and Modeling Specialization](https://www.coursera.org/specializations/integral-calculus-data-modeling)
+
 * [Calculus I with Precalculus: A One-Year Course](https://www.amazon.com/Calculus-I-Precalculus-One-Year-Course-dp-0618568069/dp/0618568069/ref=mt_other?_encoding=UTF8&me=&qid=1621531863). I happen to have this book. Anything similar will be good for warm up.
+
 * [Khan: Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus). It is not easy to get 100%, and I don't have time to finish all of them.
+
 * [Simple Parallel Circuits](https://www.allaboutcircuits.com/textbook/direct-current/chpt-5/simple-parallel-circuits/): Reference materials, if want to explore more on KCL, KVL in chapter 7.
-* 
+
+* [Mathematics Calculus III](https://scientificsentence.net/Equations/CalculusIII/index.php?key=yes&Integer=stokes_theorem): Be aware of the mistakes, and the parametric representation might slightly different from the textbook. Such as sphere. 
