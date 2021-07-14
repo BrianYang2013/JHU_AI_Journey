@@ -137,8 +137,8 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 
 * [Calculus I with Precalculus: A One-Year Course](https://www.amazon.com/Calculus-I-Precalculus-One-Year-Course-dp-0618568069/dp/0618568069/ref=mt_other?_encoding=UTF8&me=&qid=1621531863). I happen to have this book. Anything similar will be good for warm up.
 
-* [Khan: Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus). It is not easy to get 100%, and I don't have time to finish all of them.
+* [Khan: Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus). It is not easy to get 100%, and It is pity that I don't have time to finish all of them.
 
 * [Simple Parallel Circuits](https://www.allaboutcircuits.com/textbook/direct-current/chpt-5/simple-parallel-circuits/): Reference materials, if want to explore more on KCL, KVL in chapter 7.
 
-* [Mathematics Calculus III](https://scientificsentence.net/Equations/CalculusIII/index.php?key=yes&Integer=stokes_theorem): Be aware of the mistakes, and the parametric representation might slightly different from the textbook. Such as sphere. 
+* [Mathematics Calculus III](https://scientificsentence.net/Equations/CalculusIII/index.php?key=yes&Integer=stokes_theorem): A well organized summary with examples. Be aware of the mistakes, and the parametric representation might slightly different from the textbook. Such as sphere. 
