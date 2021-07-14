@@ -27,6 +27,7 @@ The rest can be approved in a simliar way.
 <img src="Img/Calculus 3-9-39.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-9-40.jpg" alt="drawing" style="width:700px;"/>
 
+##
 ## P367 - Problem set 9.2
 <img src="Img/Calculus 3-9-42.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-9-43.jpg" alt="drawing" style="width:700px;"/>
@@ -35,6 +36,7 @@ The rest can be approved in a simliar way.
 <img src="Img/Calculus 3-9-46.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-9-47.jpg" alt="drawing" style="width:700px;"/>
 
+##
 ## P374 - Problem set 9.3
 <img src="Img/Calculus 3-9-49.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-9-50.jpg" alt="drawing" style="width:700px;"/>
@@ -45,6 +47,7 @@ The rest can be approved in a simliar way.
 <img src="Img/Calculus 3-9-55.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-9-56.jpg" alt="drawing" style="width:700px;"/>
 
+##
 ## P380 - Problem set 9.4
 <img src="Img/Calculus 3-9-58.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-9-59.jpg" alt="drawing" style="width:700px;"/>
@@ -54,12 +57,14 @@ The rest can be approved in a simliar way.
 <img src="Img/Calculus 3-9-63.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-9-64.jpg" alt="drawing" style="width:700px;"/>
 
+##
 ## P390 - Problem set 9.5
 <img src="Img/Calculus 3-9-66.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-9-67.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-9-68.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-9-69.jpg" alt="drawing" style="width:700px;"/>
 
+## 
 ## Selected Problem set 9.7-9.9
 <img src="Img/Calculus 3-9-71.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-9-72.jpg" alt="drawing" style="width:700px;"/>
