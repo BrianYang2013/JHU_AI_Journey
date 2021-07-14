@@ -121,6 +121,10 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 
 * Lucky on the Quiz 4, good result. One major mistake on the Part B Q2: I should calculate from Y direction but not X. And careful on the book keeping. 
 * It might worth to list down all the key concepts, equation, examples in calculus 3 before the mid-term exam. I think I might lost a little bit now, and I am not fully confidence to integrate or even connect all of those knowledge points under time pressure. Need to wrap them up.  
+* The root cause is, 
+  * Too many concepts within short time period. Flooded and confused. 
+  * I am not really going through the proof part of Stoke's theorem. Need to think and digest those formulas, understand the motivation, how we get them, and the connection. 
+  * More practice. 
 
 # Reference
 
