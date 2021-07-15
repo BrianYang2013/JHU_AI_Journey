@@ -1,60 +1,31 @@
-# Java
+# Java 01 - Basic
 
-Entrance level course. 
+[Java 简介 | 菜鸟教程](https://www.runoob.com/java/java-intro.html)
 
-Java:
+## Introduction
 
-- String and array
+## Setup
 
-- Class and object
+## Basic01 - Grammar
 
-- Reference
+### 基本语法
 
-- Interface
+- 大小写敏感
 
-Data structure
+- 类名：首字母应该大写
 
-- Linked List
+- 方法：小写字母开头，camelCase
 
-- Stacks
+- 源文件：同类名
 
-- Queues
+- 主方法入口：public static void main (String[] args)
 
-- Trees
+### 注释
 
-- Hash
+- /*  */
 
-Algorithms
+- //
 
-- Enumerate
-- Recursion
-- Divide and conquer
-- Sort
+## 对象和类
 
-# W1 - Overview, Variable
-
-Understand, Application, 
-
-camelCase
-
-int / float, double / boolean / char
-
-# W2 - Basic, Array
-
-# W3 - String, function, class
-
-# W4 - Reference, linked list
-
-# W5 - Stacks, Queues
-
-# W6 - Trees, Recursion
-
-# W7 - BST, Hash
-
-# W8 - Sort (Quick, merge)
-
-# Resource
-
-- [Ubuntu Pastebin](https://paste.ubuntu.com/): a short-term exchange of pasted information between parties        
-
-- collabedit: interview
+[Java 对象和类 | 菜鸟教程](https://www.runoob.com/java/java-object-classes.html): puppy.java, Employee.java, EmployeeTest.java
