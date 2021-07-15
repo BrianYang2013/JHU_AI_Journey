@@ -110,7 +110,7 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 2021-07-01 W5 Reflect:
 
 * Keep swimming. Sorry Hawaii, I will visit you next time.
-* Based on my performance of Linear Algebra, Professor accepted my scripts (although different course name) and acknowledge that I have picked up this topic. Applying waive.
+* Based on my performance of Linear Algebra, I am working with Professor to waive my Linear Algebra pre-requisite. My transcripts indicates I have finished this course (with a different name, as Advanced Algebra), and my performance shows I have warmed up with this topic.  Better save my time for probability, statistics, and coding. 
 
 2021-07-08 W6 Reflect:
 
@@ -119,12 +119,12 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 
 2021-07-15 W7 Reflect:
 
-* Lucky on the Quiz 4, good result. One major mistake on the Part B Q2: I should calculate from Y direction but not X. And careful on the book keeping. 
-* It might worth to list down all the key concepts, equation, examples in calculus 3 before the mid-term exam. I think I might lost a little bit now, and I am not fully confidence to integrate or even connect all of those knowledge points under time pressure. Need to wrap them up.  
-* The root cause is, 
-  * Too many concepts within short time period. Flooded and confused. 
-  * I am not really going through the proof part of Stoke's theorem. Need to think and digest those formulas, understand the motivation, how we get them, and the connection. 
-  * More practice. 
+* Lucky on the Quiz 4, I got a good result. One major mistake on the Part B Q2: I should calculate from Y direction but not X. And careful on my book keeping. 
+* It might worth to list down all the key concepts, equation, examples in calculus 3 before the mid-term exam. 
+* I am a little bit lost, maybe flooded by the concepts within short time period. 
+  * Focus on the key concepts, and leave the minor things aside. 
+  * Go through the proof part, and reference other reading materials for better understanding. 
+  * A little bit more practice. Summary. 
 
 # Reference
 
