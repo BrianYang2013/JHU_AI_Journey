@@ -33,48 +33,29 @@ Start from 2021 summer
 * General goals for everyone - Keep collecting, please share your thoughts
   
   * Program - Finish it
-  
   * Program - Finish with the shortest possible timeframe
-  
   * Program - Finish with quality, such as straight A or honor
-  
   * Academic - Join a research project
-  
   * Academic - publish a paper
-  
   * Coding - general coding skills like Leetcode
-  
   * Coding - Familar with various languages, such as Python, R, C++, Julia ...
-  
   * Coding - Familar with various packages and framework, such as Scikit-learn, Tanserflow, Pytorch ...
-  
   * Engineering - Scale up, such as cloud; HPC
-  
   * Career - Extend your network for new career opportunity
-  
   * Career - Start a new career, join a startup
-  
   * Community - Influence the people around you, make positive impact.
-  
   * Community - Record my journey which might help others.  
-  
   * Softskills -
-  
   * Efficiency - Collect tips and tools to improve the efficiency.
-    
-    ## Misc @ JHU AI program
+
+## Misc @ JHU AI program
 
 * Theoretical or applied approach
-
 * It is common that US can have multiply Master degree. So it leads to 2 options
-  
   * Life long study, with many master degrees
   * Pursue a PhD
-
 * JHU AI program is relevantly new, more courses will be added to the elective courses list, and more paths will define and provide. Pay attention to the new courses.   
-
 * EN.625.250
-  
   * EN: school (Engineering, Medical, etc. )
   * 625: Major (Math, CS, etc. )
   * First digit in the last session
@@ -119,23 +100,19 @@ It is not easy, so start early. Here you can find my journey, and I hope you wil
 * May 2021: [Khan: Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus). Finished [Derivatives of multivariable functions](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives), not easy to get 100%
 
 * May 2021: [Advanced Engineering Mathematics, 10th Edition](http://webpages.iust.ac.ir/jazbi/books/10Edition-ErwinKreyszig-AdvancedEngineeringMathematics.pdf), or you can find it on [Amazon](https://www.amazon.com/Advanced-Engineering-Mathematics-Erwin-Kreyszig/dp/0470458364/ref=sr_1_1?dchild=1&keywords=advanced+engineering+mathematics&qid=1621532850&s=books&sr=1-1), Pre-read a few chapters.  
-  
-  ## Pre-requisites courses
-  
+
+## Pre-requisites courses
+
   No matter how good you did 20 years ago, they won't leave too much trace on you. I am not so mad at WES now and plan to take as many pre-courses as possible to refresh my knowledge and prepare for coding:
 
 * 625.250 - Multivariable Calculus and Complex Analysis
-
 * 625.252 - Linear Algebra and Its Applications
-
 * 625.240 - Introduction to Probability and Statistics
-
 * 605.202 - Data Structures
-  
-  ## Courses List
+
+## Courses List
 
 * [Artificial Intelligence Courses](https://ep.jhu.edu/programs/artificial-intelligence/courses/)
-
 * [Data Science Courses](https://ep.jhu.edu/programs/data-science/courses/)
 
 ## About coding
