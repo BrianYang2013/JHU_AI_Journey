@@ -1,15 +1,12 @@
 # AI journey @ JHU
-
 Artificial Intelligence, Master of Science @ JHU Whiting School of Engineering.
 Start from 2021 summer
 
 ## Why this repo
-
 * Collect information, Plan and reflection on my master journey.
 * Provide a reference, a checking point, a date point to the community.
 
 ## Before you pick a program
-
 * Master or PhD, Engineering or MBA, Full-time or part-time
 * Which area interests you? DS: insights. ML: forecasts. AI: actions. Reference: [What's the difference between data science, machine learning, and artificial intelligence?](http://varianceexplained.org/r/ds-ml-ai/)
 * Alternative choice
@@ -21,17 +18,12 @@ Start from 2021 summer
 * Read this one: [Why AI is Harder Than We Think](https://arxiv.org/pdf/2104.12871.pdf)
 
 ## Goals
-
 * AGI(Artificial General Intelligence) is not likely to happen in my generation. But if something interesting comes up, I wish I can understand it.
-
 * Personal interests
-  
   * Math - Awareness. Lay the foundation. Able to pick up new math topics at a reasonable timeframe (3 months for a typical graduate level course)  
   * Coding - Re-visit data structure and algorithms, leetcode, familiar with various packages.
   * Academic Training - Discover and pick up the knowledge, be aware of where good taste and standards are, and restructure my knowledge system to support my future improvement.
-
 * General goals for everyone - Keep collecting, please share your thoughts
-  
   * Program - Finish it
   * Program - Finish with the shortest possible timeframe
   * Program - Finish with quality, such as straight A or honor
@@ -49,7 +41,6 @@ Start from 2021 summer
   * Efficiency - Collect tips and tools to improve the efficiency.
 
 ## Misc @ JHU AI program
-
 * Theoretical or applied approach
 * It is common that US can have multiply Master degree. So it leads to 2 options
   * Life long study, with many master degrees
@@ -62,11 +53,9 @@ Start from 2021 summer
     * 2: undergraduate course, not to degree.
     * 6: graduate level course.
     * 7: Advanced graduate level
-
 ## Journey of applying the schools
 
 It is not easy, so start early. Here you can find my journey, and I hope you will make yours easlier.
-
 * 2018: Plan for my DS master application. It was interrupted by an international assignment.
 * 2020: Back to the bay area, resume my application
 * School selection: [CSRankings - AI](http://csrankings.org/#/index?ai&vision&mlmining&nlp&ir&us). Most of the CS departments only accept full-time.
@@ -82,47 +71,39 @@ It is not easy, so start early. Here you can find my journey, and I hope you wil
   * Interesting to see the breakthrough in mathematic, such as [Deep Networks from First Principles](https://cmsa.fas.harvard.edu/wp-content/uploads/2021/04/Deep_Networks_from_First_Principles.pdf), and [Geometric Deep Learning,  Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/abs/2104.13478). So I switch to the AI program @ May 2021
 
 ## Before the first semester
-
 * From the strategic perspective, don’t overestimate. Tactical perspective, don't underestimate.
-
 * Q1 2021: Stabilize the current working environment and secure resource
-  
   * Full-time work: Starting Q3, 50% of my time will focus on ML/AI projects.
   * Personal Time: Secure 19:00-22:00 PM for my study. One weekend (well...we will see)
   * Financial preparation. Company support etc.
-
 * March 2021: [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming). Brush up my python skill.
-
 * March 2021: [Precalculus through Data and Modelling Specialization](https://www.coursera.org/specializations/precalculus-data-modelling). Familiar with the math terminology in English, and refresh my high school math.
-
 * April 2021: [Calculus I with Precalculus: A One-Year Course](https://www.amazon.com/Calculus-I-Precalculus-One-Year-Course-dp-0618568069/dp/0618568069/ref=mt_other?_encoding=UTF8&me=&qid=1621531863). I happen to have this book. The US textbook organized logically with a good learning curve. Easy to follow, love it.
-
 * May 2021: [Khan: Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus). Finished [Derivatives of multivariable functions](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives), not easy to get 100%
-
-* May 2021: [Advanced Engineering Mathematics, 10th Edition](http://webpages.iust.ac.ir/jazbi/books/10Edition-ErwinKreyszig-AdvancedEngineeringMathematics.pdf), or you can find it on [Amazon](https://www.amazon.com/Advanced-Engineering-Mathematics-Erwin-Kreyszig/dp/0470458364/ref=sr_1_1?dchild=1&keywords=advanced+engineering+mathematics&qid=1621532850&s=books&sr=1-1), Pre-read a few chapters.  
+* May 2021: [Advanced Engineering Mathematics, 10th Edition](http://webpages.iust.ac.ir/jazbi/books/10Edition-ErwinKreyszig-AdvancedEngineeringMathematics.pdf), or you can find it on [Amazon](https://www.amazon.com/Advanced-Engineering-Mathematics-Erwin-Kreyszig/dp/0470458364/ref=sr_1_1?dchild=1&keywords=advanced+engineering+mathematics&qid=1621532850&s=books&sr=1-1), Pre-read a few chapters.
 
 ## Pre-requisites courses
-
-  No matter how good you did 20 years ago, they won't leave too much trace on you. I am not so mad at WES now and plan to take as many pre-courses as possible to refresh my knowledge and prepare for coding:
-
+No matter how good you did 20 years ago, they won't leave too much trace on you. I am not so mad at WES now and plan to take as many pre-courses as possible to refresh my knowledge and prepare for coding:
 * 625.250 - Multivariable Calculus and Complex Analysis
 * 625.252 - Linear Algebra and Its Applications
 * 625.240 - Introduction to Probability and Statistics
 * 605.202 - Data Structures
 
 ## Courses List
-
 * [Artificial Intelligence Courses](https://ep.jhu.edu/programs/artificial-intelligence/courses/)
 * [Data Science Courses](https://ep.jhu.edu/programs/data-science/courses/)
 
 ## About coding
+All information from internet, and 0 relationship with company, even they are pseudo, dummy or fake test data. 
 
-I plan to add all code pieces to here, which I tested or created. With all information from internet, and 0 relationship with company, even they are pseudo, dummy or fake test data. I don't want to take any risk to turn to this code repo into private.
+Languages
 
-## Reference
+- Python: Of course. 
+- Java: Widely used in industry and engineering field. Relevantly easy, tons of framework. 
+- C++: Great for CV, better performance, closer to hardware. 
 
+## Misc
 ### Resources:
-
 * [MIT Open Courseware](https://ocw.mit.edu/)
 * MOOC - Coursera
 * Khan (inspired by my classmate).
@@ -136,16 +117,17 @@ I plan to add all code pieces to here, which I tested or created. With all infor
 * Papers - [Classic papers for beginner](https://github.com/qiulinzhang/TopPaper)
 
 ### Tools:
-
 * [GitHub Desktop](https://desktop.github.com/) - Maintain this repo
-  * Markdown + Latex + Export PDF: [Atom](https://atom.io/) + [markdown-preview-enhanced](https://atom.io/packages/markdown-preview-enhanced) plugin, for markdown preview and Latex(KaTex)
+  * Markdown + Latex + Export PDF: 
 * iPad: iPad 2020 + pencil (or iPad Pro 11 + pencil 2). iPad Pro 12.9 too heavy, 27 inch monitor is better. Good for reading PDF textbooks. It is astonishing to know that the textbook available publicly in PDF(Thanks Author!) but listed \$900+ on Amazon as new,  \$600+ (acceptable) or \$200 (good) as second hand. If license is not a issue (assume), then obviously there is something wrong in the US academic publication system.
 * [Goodnotes 5](https://apps.apple.com/us/app/goodnotes-5/id1444383602) - A great tool for taking notes and mark on the PDF textbook
 * MindNode: A good mindmap tool. Alternative option: Xmind, SimpleMind, GitMind...
 * Screenshot: [Snipaste](https://www.snipaste.com/)
+* Markdown: [Typora](https://typora.io/) by far is the best. Alternative option include 
+  * Mark Text (with bugs) 
+  * [Atom](https://atom.io/) + [markdown-preview-enhanced](https://atom.io/packages/markdown-preview-enhanced) plugin, Heavy. For markdown preview and Latex(KaTex)
 
-### Tips:
-
+### Reference:
 * Markdown reference - [Github Markdown](https://guides.github.com/features/mastering-markdown/)
 * [KaTeX Reference](https://katex.org/docs/supported.html)
 * Shorten the URL in GitHub - [git.io](https://git.io/)
