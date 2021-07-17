@@ -1,0 +1,4 @@
+- Only you can find out the path. 
+- Great questions will help you to think. It inspires. 
+- Framework provides a baseline, which is good to follow
+- Finally, it is a evolve journey. They key thing is, you get the idea and start to think. Polish your thinking process and sharp it for the future. 

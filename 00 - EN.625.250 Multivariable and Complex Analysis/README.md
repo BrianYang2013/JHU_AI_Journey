@@ -119,12 +119,19 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 
 2021-07-15 W7 Reflect:
 
-* Lucky on the Quiz 4, I got a good result. One major mistake on the Part B Q2: I should calculate from Y direction but not X. And careful on my book keeping. 
+* Lucky on the Quiz 4, I got a good result. One major mistake on the Part B Q2: I should calculate from Y direction but not X. And careful on my book keeping. While I realized it, I quickly figured out the right answer. 
 * It might worth to list down all the key concepts, equation, examples in calculus 3 before the mid-term exam. 
 * I am a little bit lost, maybe flooded by the concepts within short time period. 
-  * Focus on the key concepts, and leave the minor things aside. 
-  * Go through the proof part, and reference other reading materials for better understanding. 
-  * A little bit more practice. Summary. 
+  * Summarize the key concepts, and leave the minor things aside. => Read extensivly while you studying, and Focus on the key scope while preparing exam. They are different. 
+  * Gain the insight via: go through the proof part,  reference other reading materials, go through key examples etc. 
+* Finished mid term test. A few thoughts
+  * 80 T/F. Although I find a trick later on but no way to concentrate continously for 3.5 hours 
+  * Made a mistake on the first calculation. My intuitive told me something is wrong, and I try to calm down via finish the rest part first. Tried another approach and get a different result. A few data point shows the first approach definitly wrong. 
+  * I might be good at exam, but still not reach the core and insight yet. 
+  * Since I am working on LSDI, let's talk about Dysfunctional Belif: Imposter Syndrome
+    * It is about 3 hours and 20 minutes. Can I finish it in 120 minutes? (Maybe the 120 minutes is the default test hours, not apply to this one... 80 T/F + 4 Calculation are too much)
+    * Can I put all knowledge in heart without refernce the textbook? It is not required, and you can always pick it up while you need it. There are different levels of "understanding": Heard it, know the basic idea, know how to calculate via follow the example, have a good feeling (i am here), good at all kinds of tricks, able to apply it like magic. 
+    * First of all, It takes a lot of time to achieve perfection or proficiency. I might want to find the good reference reading material to shorten that process. Second, You won't be able to master everything. 80% is good enough for most of the cases. In the best scenario: know the history, motivation, the course of development, all related theorems, application, tricks, special cases ... then with practice, you will be really good at this area. 
 
 # Reference
 
