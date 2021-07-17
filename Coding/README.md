@@ -50,7 +50,8 @@ Scope
 
 * IDE: VScode. Simple, Light, Easy. 
   * Alternative: IntelliJ IDEA. Versatile, heavy for entry level. Community version is good enough, Premium is free for students, you can apply [here](https://www.jetbrains.com/community/education/#students) 
-* Markdown: [Mark Text](https://github.com/marktext/marktext), light, export PDF, support LATEX
+* Markdown: [Mark Text](https://github.com/marktext/marktext), light, export PDF, support LATEX. 
+  - A few bugs: with LATEX, and automatically generate new line which can not delte. 
   * Alternative: Atom + plugin(Markdown Preview Enhanced): Latex + export PDF. 
   * Alternative: Typora
 * Anaconda. Always a good choice
