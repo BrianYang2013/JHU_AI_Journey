@@ -20,8 +20,8 @@ Start from 2021 summer
 ## Goals
 * AGI(Artificial General Intelligence) is not likely to happen in my generation. But if something interesting comes up, I wish I can understand it.
 * Personal interests
-  * Math - Awareness. Lay the foundation. Able to pick up new math topics at a reasonable timeframe (3 months for a typical graduate level course)  
-  * Coding - Re-visit data structure and algorithms, leetcode, familiar with various packages.
+  * Math - Awareness. Lay the foundation. Most (95%) of what you learned in school won't be used in career. What we learn in school is not knowledge, but the exercise of how to learn, and the ability to think. For example, we should be able to pick up new math topics at a reasonable timeframe (3 months for a typical graduate level course)  
+  * Coding - Re-visit data structure and algorithms, leetcode, familiar with various packages. => Make it work, resolve the problem. 
   * Academic Training - Discover and pick up the knowledge, be aware of where good taste and standards are, and restructure my knowledge system to support my future improvement.
 * General goals for everyone - Keep collecting, please share your thoughts
   * Program - Finish it
