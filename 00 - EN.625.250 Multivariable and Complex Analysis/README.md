@@ -63,6 +63,7 @@ I will be delighted to receive suggestions and feedback to improve them and even
 # Watch out
 
 * **Always check your result**
+* Read the question again. 
 * Check Matrix Size
 * Basic arithmetic calculation. Write them down.
 * Careful on the terminology. E.g: Solution sets means 0, 1, or infinity. It does not mean a basis set. or a solution.
@@ -132,6 +133,10 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
     * It is about 3 hours and 20 minutes. Can I finish it in 120 minutes? (Maybe the 120 minutes is the default test hours, not apply to this one... 80 T/F + 4 Calculation are too much)
     * Can I put all knowledge in heart without refernce the textbook? It is not required, and you can always pick it up while you need it. There are different levels of "understanding": Heard it, know the basic idea, know how to calculate via follow the example, have a good feeling (i am here), good at all kinds of tricks, and finally use it like magic. 
     * It takes a lot of time to achieve perfection or proficiency. Not the best way of using the limited time. It is important to be able to pick up quickly and apply to real problems. For specialized area: know the history, motivation, the course of development of this topic, all related theorems, application, tricks, special cases ... then with practice of course. 
+
+2021-07-22 W8 Reflect:
+
+-  Read the question carefully. The problem is asking for a basis for column vector, but not the basis for the null space (for solution). Previously we are all focus on the null space, and this time it just simplier.   
 
 # Reference
 
