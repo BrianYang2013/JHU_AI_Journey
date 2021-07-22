@@ -63,7 +63,7 @@ I will be delighted to receive suggestions and feedback to improve them and even
 * Chapter 13 
 
   * 13.4 - 15: c is imaginary, not real.  
-  * 13.5 - 21: Typo in question, it should be y not v. The answer is wrong, $a=\pm \pi$​​​​
+  * 13.4 - 21: Typo in question, it should be y not v. The answer is wrong, $a=\pm \pi$​​​​
 
   
 
