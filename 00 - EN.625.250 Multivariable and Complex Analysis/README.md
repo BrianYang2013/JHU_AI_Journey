@@ -46,12 +46,12 @@ I will be delighted to receive suggestions and feedback to improve them and even
   * 9.5 - 24-28: in question, unit tangent vector should be u(t)
   * 9.5 - 31: |a|, because a might be negative.
 
-* Chapter 9 - Starting from now i don't plan to do all the exercise.
+* Chapter 9 - Not to finish all the exercises.
   
   * 9,8 - 1, typo in the question
   * 9.9 - 15, curl v is 0
 
-* Chapter 10 -
+* Chapter 10
   
   * P421: I = f(1, -1, 7) - f(0, 1, 2) = 1-7 - (0+2) = -8
   * 10.2 - 13, independent, answer missed -1.
@@ -59,6 +59,13 @@ I will be delighted to receive suggestions and feedback to improve them and even
   * 10.5 - 9: F=$[e^y/x, e^y\ lnx +2x]$, this is the worst typo I have ever met, wasted me many hours.
   * 10.7, ﻿P456 typo: S: r=[2cosvcosu, 2cosvsinu, **2sinv**]
   * 10.8, P460 typo: ... in some domain D **in** space.
+  
+* Chapter 13 
+
+  * 13.4 - 15: c is imaginary, not real.  
+  * 13.5 - 21: Typo in question, it should be y not v. The answer is wrong, $a=\pm \pi$​​​​
+
+  
 
 # Watch out
 
