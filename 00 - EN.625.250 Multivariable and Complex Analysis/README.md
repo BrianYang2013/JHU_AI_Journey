@@ -144,6 +144,7 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 2021-07-22 W8 Reflect:
 
 -  Read the question carefully. The problem is asking for a basis for column vector, but not the basis for the null space (for solution). Previously we are all focus on the null space, and this time it just simplier.   
+-  It is surprise that 50% of the students fallen into the same pit as me. Read the questin carefully. 
 
 # Reference
 
