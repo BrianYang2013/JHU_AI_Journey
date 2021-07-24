@@ -142,10 +142,10 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
     * It takes a lot of time to achieve perfection or proficiency. Not the best way of using the limited time. It is important to be able to pick up quickly and apply to real problems. For specialized area: know the history, motivation, the course of development of this topic, all related theorems, application, tricks, special cases ... then with practice of course.
 
 2021-07-22 W8 Reflect:
+* Mid-term: Read the question carefully. The problem is asking for a basis for column vector, but not the basis for the null space (for solution). Previously we are all focus on the null space, and this time it just simplier.   
+
 * Euler formula: Whoever looks at this formula will be shocked by Euler's genius and the beauty of mathematics!
 <img src="Img/IMG_93949122F6BE-1.jpeg" alt="drawing" style="width:500px;"/>
-
--  Read the question carefully. The problem is asking for a basis for column vector, but not the basis for the null space (for solution). Previously we are all focus on the null space, and this time it just simplier.   
 
 # Reference
 
