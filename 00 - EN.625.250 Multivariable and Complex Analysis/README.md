@@ -22,21 +22,21 @@ I will be delighted to receive suggestions and feedback to improve them and even
 # Typo and error in textbook
 
 * Chapter 7
-  
+
   * 7-2: 11, 15, 29
   * 7-3: 19
   * 7-7: 3 (Example 2 but not theorem 2)
   * 7.9: 10. First column is 3x1, can not multiply with 3x1 vector. if the elements multiply with the vector elements accordingly, then rank=5.
 
 * Chapter 8
-  
+
   * 8.2 - 7, the answer forget to work out the limit.
   * 8.2 - 15: I got a different result. Need to cross-check
   * 8.3 - 1: Answer is wrong
   * 8.4 - 1: A typo in the question. The second A lacks a hat. For the answer, I would simplify it to [-1, 2]^T. Not a mistake.
 
 * Chapter 9
-  
+
   * 9.1 - 11-18: Typo, b=[-4, 6, 0]
   * 9.1 - 34-35: Seem by default the angle is 45.
   * 9.2 - 17-20: Typo
@@ -47,30 +47,30 @@ I will be delighted to receive suggestions and feedback to improve them and even
   * 9.5 - 31: |a|, because a might be negative.
 
 * Chapter 9 - Not to finish all the exercises.
-  
+
   * 9,8 - 1, typo in the question
   * 9.9 - 15, curl v is 0
 
 * Chapter 10
-  
+
   * P421: I = f(1, -1, 7) - f(0, 1, 2) = 1-7 - (0+2) = -8
   * 10.2 - 13, independent, answer missed -1.
   * 10.3 P426: ... at almost every point ... : Consider a rectangle, 50% of the tangent are infinity. How we explain this?
   * 10.5 - 9: F=$[e^y/x, e^y\ lnx +2x]$, this is the worst typo I have ever met, wasted me many hours.
   * 10.7, ﻿P456 typo: S: r=[2cosvcosu, 2cosvsinu, **2sinv**]
   * 10.8, P460 typo: ... in some domain D **in** space.
-  
-* Chapter 13 
+
+* Chapter 13
 
   * 13.4 - 15: c is imaginary, not real.  
   * 13.4 - 21: Typo in question, it should be y not v. The answer is wrong, $a=\pm \pi$​​​​
 
-  
+
 
 # Watch out
 
 * **Always check your result**
-* Read the question again. 
+* Read the question again.
 * Check Matrix Size
 * Basic arithmetic calculation. Write them down.
 * Careful on the terminology. E.g: Solution sets means 0, 1, or infinity. It does not mean a basis set. or a solution.
@@ -118,7 +118,7 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 2021-07-01 W5 Reflect:
 
 * Keep swimming. Sorry Hawaii, I will visit you next time.
-* Based on my performance of Linear Algebra, I am working with Professor to waive my Linear Algebra pre-requisite. My transcripts indicates I have finished this course (with a different name, as Advanced Algebra), and my performance shows I have warmed up with this topic.  Better save my time for probability, statistics, and coding. 
+* Based on my performance of Linear Algebra, I am working with Professor to waive my Linear Algebra pre-requisite. My transcripts indicates I have finished this course (with a different name, as Advanced Algebra), and my performance shows I have warmed up with this topic.  Better save my time for probability, statistics, and coding.
 
 2021-07-08 W6 Reflect:
 
@@ -127,21 +127,23 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 
 2021-07-15 W7 Reflect:
 
-* Lucky on the Quiz 4, I got a good result. One major mistake on the Part B Q2: I should calculate from Y direction but not X. And careful on my book keeping. While I realized it, I quickly figured out the right answer. 
-* It might worth to list down all the key concepts, equation, examples in calculus 3 before the mid-term exam. 
-* I am a little bit lost, maybe flooded by the concepts within short time period. 
-  * Summarize the key concepts, and leave the minor things aside. => Read extensivly while you studying, and Focus on the key scope while preparing exam. They are different. 
-  * Gain the insight via: go through the proof part,  reference other reading materials, go through key examples etc. 
+* Lucky on the Quiz 4, I got a good result. One major mistake on the Part B Q2: I should calculate from Y direction but not X. And careful on my book keeping. While I realized it, I quickly figured out the right answer.
+* It might worth to list down all the key concepts, equation, examples in calculus 3 before the mid-term exam.
+* I am a little bit lost, maybe flooded by the concepts within short time period.
+  * Summarize the key concepts, and leave the minor things aside. => Read extensivly while you studying, and Focus on the key scope while preparing exam. They are different.
+  * Gain the insight via: go through the proof part,  reference other reading materials, go through key examples etc.
 * Finished mid term test. A few thoughts
-  * 80 T/F. Although I find a trick later on but no way to concentrate continously for 3.5 hours 
-  * Made a mistake on the first calculation. My intuitive told me something is wrong, and I try to calm down via finish the rest part first. Tried another approach and get a different result. A few data point shows the first approach definitly wrong. 
-  * I might be good at exam, but still not reach the core and insight yet. 
+  * 80 T/F. Although I find a trick later on but no way to concentrate continously for 3.5 hours
+  * Made a mistake on the first calculation. My intuitive told me something is wrong, and I try to calm down via finish the rest part first. Tried another approach and get a different result. A few data point shows the first approach definitly wrong.
+  * I might be good at exam, but still not reach the core and insight yet.
   * It is a good example of Dysfunctional Belif: Imposter Syndrome / The perfectionist
     * It is about 3 hours and 20 minutes. Can I finish it in 120 minutes? (Maybe the 120 minutes is the default test hours, not apply to this one... 80 T/F + 4 Calculation are too much)
-    * Can I put all knowledge in heart without refernce the textbook? It is not required, and you can always pick it up while you need it. There are different levels of "understanding": Heard it, know the basic idea, know how to calculate via follow the example, have a good feeling (i am here), good at all kinds of tricks, and finally use it like magic. 
-    * It takes a lot of time to achieve perfection or proficiency. Not the best way of using the limited time. It is important to be able to pick up quickly and apply to real problems. For specialized area: know the history, motivation, the course of development of this topic, all related theorems, application, tricks, special cases ... then with practice of course. 
+    * Can I put all knowledge in heart without refernce the textbook? It is not required, and you can always pick it up while you need it. There are different levels of "understanding": Heard it, know the basic idea, know how to calculate via follow the example, have a good feeling (i am here), good at all kinds of tricks, and finally use it like magic.
+    * It takes a lot of time to achieve perfection or proficiency. Not the best way of using the limited time. It is important to be able to pick up quickly and apply to real problems. For specialized area: know the history, motivation, the course of development of this topic, all related theorems, application, tricks, special cases ... then with practice of course.
 
 2021-07-22 W8 Reflect:
+* Euler formula: Whoever looks at this formula will be shocked by Euler's genius and the beauty of mathematics!
+<img src="Img/IMG_93949122F6BE-1.jpeg" alt="drawing" style="width:500px;"/>
 
 -  Read the question carefully. The problem is asking for a basis for column vector, but not the basis for the null space (for solution). Previously we are all focus on the null space, and this time it just simplier.   
 
@@ -150,7 +152,7 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 * [Precalculus through Data and Modelling Specialization](https://www.coursera.org/specializations/precalculus-data-modelling).  A good math warm up.
 
 * I haven't try them, but I would assume they are good for Calculus warm up.
-  
+
   * [Differential Calculus through Data and Modeling Specialization](https://www.coursera.org/specializations/differential-calculus-data-modeling)
   * [Integral Calculus through Data and Modeling Specialization](https://www.coursera.org/specializations/integral-calculus-data-modeling)
 
@@ -160,4 +162,4 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 
 * [Simple Parallel Circuits](https://www.allaboutcircuits.com/textbook/direct-current/chpt-5/simple-parallel-circuits/): Reference materials, if want to explore more on KCL, KVL in chapter 7.
 
-* [Mathematics Calculus III](https://scientificsentence.net/Equations/CalculusIII/index.php?key=yes&Integer=stokes_theorem): A well organized summary with examples. Be aware of the mistakes, and the parametric representation might slightly different from the textbook. Such as sphere. 
+* [Mathematics Calculus III](https://scientificsentence.net/Equations/CalculusIII/index.php?key=yes&Integer=stokes_theorem): A well organized summary with examples. Be aware of the mistakes, and the parametric representation might slightly different from the textbook. Such as sphere.
