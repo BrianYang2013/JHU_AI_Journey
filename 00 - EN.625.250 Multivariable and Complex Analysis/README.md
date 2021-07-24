@@ -145,7 +145,7 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 * Mid-term: Read the question carefully. The problem is asking for a basis for column vector, but not the basis for the null space (for solution). Previously we are all focus on the null space, and this time it just simplier.   
 
 * Euler formula: Whoever looks at this formula will be shocked by Euler's genius and the beauty of mathematics!
-<img src="Img/IMG_93949122F6BE-1.jpeg" alt="drawing" style="width:500px;"/>
+<img src="Img/IMG_6139447CB29C-1.jpeg" alt="drawing" style="width:500px;"/>
 
 # Reference
 
