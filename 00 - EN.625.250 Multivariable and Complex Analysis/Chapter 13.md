@@ -18,3 +18,8 @@
 ## Selected Problem set 13.4
 <img src="Img/Calculus 3-13-110.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-13-111.jpg" alt="drawing" style="width:700px;"/>
+
+#  
+## Selected Problem set 13.5
+<img src="Img/Calculus 3-13-112.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-13-113.jpg" alt="drawing" style="width:700px;"/>

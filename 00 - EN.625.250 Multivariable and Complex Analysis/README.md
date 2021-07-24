@@ -64,8 +64,9 @@ I will be delighted to receive suggestions and feedback to improve them and even
 
   * 13.4 - 15: c is imaginary, not real.  
   * 13.4 - 21: Typo in question, it should be y not v. The answer is wrong, $a=\pm \pi$​​​​
-
-
+  * 13.5 P632 Example 1: Typo, 0.6 not 1.6
+  * 13.5 - 3: The first = should be => 
+  * 13.7 - 17: missed $Im(exp(z^3)) = i e^(x^3-3xy^2) \sin(3x^2y-y^3)$
 
 # Watch out
 
