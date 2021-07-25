@@ -141,12 +141,13 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
     * It is about 3 hours and 20 minutes. Can I finish it in 120 minutes? (Maybe the 120 minutes is the default test hours, not apply to this one... 80 T/F + 4 Calculation are too much)
     * Can I put all knowledge in heart without refernce the textbook? It is not required, and you can always pick it up while you need it. There are different levels of "understanding": Heard it, know the basic idea, know how to calculate via follow the example, have a good feeling (i am here), good at all kinds of tricks, and finally use it like magic.
     * It takes a lot of time to achieve perfection or proficiency. Not the best way of using the limited time. It is important to be able to pick up quickly and apply to real problems. For specialized area: know the history, motivation, the course of development of this topic, all related theorems, application, tricks, special cases ... then with practice of course.
+* 15.5 Hours
 
 2021-07-22 W8 Reflect:
 * Mid-term: Read the question carefully. The problem is asking for a basis for column vector, but not the basis for the null space (for solution). Previously we are all focus on the null space, and this time it just simplier.   
-
 * Euler formula: Whoever looks at this formula will be shocked by Euler's genius and the beauty of mathematics!
 <img src="Img/IMG_6139447CB29C-1.jpeg" alt="drawing" style="width:500px;"/>
+* 14.5 Hours. 
 
 # Reference
 
