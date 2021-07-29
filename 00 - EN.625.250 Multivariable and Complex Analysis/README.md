@@ -85,7 +85,7 @@ I will be delighted to receive suggestions and feedback to improve them and even
 * “Do not worry too much about your difficulties in mathematics, I can assure you that mine are still greater.” — Albert Einstein
 * “Learning without thought is labor lost; thought without learning is perilous." — Confucius
 * "Mathematics is not a spectator sport. " — George Polya
-* True pleasure lies not in the discovery of truth, but in the search for it." — Tolstoy
+* "True pleasure lies not in the discovery of truth, but in the search for it." — Tolstoy
 
 # Notes
 
@@ -116,17 +116,17 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 * June: 80+ hours screen time on GoodNotes. Need be more efficient, score 95 means OK, 99-100 also means a little bit waste time. Plan on coding, and focus on delivery.
 * Very rare to use the physical books
 
-2021-07-01 W5 Reflect:
+2021-07-04 W5 Reflect:
 
 * Keep swimming. Sorry Hawaii, I will visit you next time.
 * Based on my performance of Linear Algebra, I am working with Professor to waive my Linear Algebra pre-requisite. My transcripts indicates I have finished this course (with a different name, as Advanced Algebra), and my performance shows I have warmed up with this topic.  Better save my time for probability, statistics, and coding.
 
-2021-07-08 W6 Reflect:
+2021-07-11 W6 Reflect:
 
 * Quiz 4 part B is not easy. I wasted too much time on T/F questions until I reached to the calculation part. I thought it is similar as the previous 3 weekly tests. Barely finished them in 2 hours, cross my fingers.
 * As a result, screen time increased: June 27-July 4, 14 hours. July 5-11 23 hours.
 
-2021-07-15 W7 Reflect:
+2021-07-18 W7 Reflect:
 
 * Lucky on the Quiz 4, I got a good result. One major mistake on the Part B Q2: I should calculate from Y direction but not X. And careful on my book keeping. While I realized it, I quickly figured out the right answer.
 * It might worth to list down all the key concepts, equation, examples in calculus 3 before the mid-term exam.
@@ -141,13 +141,16 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
     * It is about 3 hours and 20 minutes. Can I finish it in 120 minutes? (Maybe the 120 minutes is the default test hours, not apply to this one... 80 T/F + 4 Calculation are too much)
     * Can I put all knowledge in heart without refernce the textbook? It is not required, and you can always pick it up while you need it. There are different levels of "understanding": Heard it, know the basic idea, know how to calculate via follow the example, have a good feeling (i am here), good at all kinds of tricks, and finally use it like magic.
     * It takes a lot of time to achieve perfection or proficiency. Not the best way of using the limited time. It is important to be able to pick up quickly and apply to real problems. For specialized area: know the history, motivation, the course of development of this topic, all related theorems, application, tricks, special cases ... then with practice of course.
-* 15.5 Hours
+* Goodnotes - 15.5 Hours
 
-2021-07-22 W8 Reflect:
+2021-07-25 W8 Reflect:
+
 * Mid-term: Read the question carefully. The problem is asking for a basis for column vector, but not the basis for the null space (for solution). Previously we are all focus on the null space, and this time it just simplier.   
 * Euler formula: Whoever looks at this formula will be shocked by Euler's genius and the beauty of mathematics!
 <img src="Img/IMG_6139447CB29C-1.jpeg" alt="drawing" style="width:500px;"/>
-* 14.5 Hours. 
+* Goodnotes - 14.5 Hours. 
+
+2021-08-01 W9 Reflect:
 
 # Reference
 
