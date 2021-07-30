@@ -86,6 +86,7 @@ I will be delighted to receive suggestions and feedback to improve them and even
 * “Learning without thought is labor lost; thought without learning is perilous." — Confucius
 * "Mathematics is not a spectator sport. " — George Polya
 * "True pleasure lies not in the discovery of truth, but in the search for it." — Tolstoy
+* "Those who ask questions are fools for the moment; those who do not ask questions remain fools forever."— Confucius
 
 # Notes
 
