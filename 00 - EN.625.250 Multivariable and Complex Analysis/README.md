@@ -20,12 +20,12 @@ Plan to reduce the mistakes by:
 I will be delighted to receive suggestions and feedback to improve them and eventually benefit others. So if you have any suggestions, please do let me know. Thanks.
 
 # Watch out
-* **Always check your result**
+* **Always check your work**
 * Read the question again.
 * Check Matrix Size
 * Basic arithmetic calculation. Write them down.
 * Careful on the terminology. E.g: Solution sets means 0, 1, or infinity. It does not mean a basis set. or a solution.
-* **Think from the new view**. Linear Algebra deal with a GROUP of equations, instead on individual.
+* **Think from the new viewpoint**. Linear Algebra deal with a GROUP of equations, instead on individual.
 
 # Thought for the week
 
