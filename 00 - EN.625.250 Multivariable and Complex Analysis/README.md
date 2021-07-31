@@ -19,6 +19,26 @@ Plan to reduce the mistakes by:
 
 I will be delighted to receive suggestions and feedback to improve them and eventually benefit others. So if you have any suggestions, please do let me know. Thanks.
 
+# Watch out
+* **Always check your result**
+* Read the question again.
+* Check Matrix Size
+* Basic arithmetic calculation. Write them down.
+* Careful on the terminology. E.g: Solution sets means 0, 1, or infinity. It does not mean a basis set. or a solution.
+* **Think from the new view**. Linear Algebra deal with a GROUP of equations, instead on individual.
+
+# Thought for the week
+
+* “Obvious is the most dangerous word in mathematics.”  —  Eric Temple Bell
+* “The advancement and perfection of mathematics are intimately connected with the prosperity of the State.”  — Napoleon
+* “Besides language and music, mathematics is one of the primary manifestations of the free creative power of the human mind.” — Hermann Weyl
+* “Do not worry too much about your difficulties in mathematics, I can assure you that mine are still greater.” — Albert Einstein
+* “Learning without thought is labor lost; thought without learning is perilous." — Confucius
+* "Mathematics is not a spectator sport. " — George Polya
+* "True pleasure lies not in the discovery of truth, but in the search for it." — Tolstoy
+* "Those who ask questions are fools for the moment; those who do not ask questions remain fools forever."— Confucius
+* "The length of your education is less important than its breadth, and the length of your life is less important than its depth." — Marilyn vos Savant
+
 # Typo and error in textbook
 
 * Chapter 7
@@ -68,25 +88,6 @@ I will be delighted to receive suggestions and feedback to improve them and even
   * 13.5 - 3: The first = should be =>
   * 13.5 - 17: missed $Im(exp(z^3)) = ie^{x^3-3xy^2}\sin(3x^2y-y^3)$
   * 13.6 - 17: missed $\pi$ in answer
-
-# Watch out
-* **Always check your result**
-* Read the question again.
-* Check Matrix Size
-* Basic arithmetic calculation. Write them down.
-* Careful on the terminology. E.g: Solution sets means 0, 1, or infinity. It does not mean a basis set. or a solution.
-* **Think from the new view**. Linear Algebra deal with a GROUP of equations, instead on individual.
-
-# Thought for the week
-
-* “Obvious is the most dangerous word in mathematics.”  —  Eric Temple Bell
-* “The advancement and perfection of mathematics are intimately connected with the prosperity of the State.”  — Napoleon
-* “Besides language and music, mathematics is one of the primary manifestations of the free creative power of the human mind.” — Hermann Weyl
-* “Do not worry too much about your difficulties in mathematics, I can assure you that mine are still greater.” — Albert Einstein
-* “Learning without thought is labor lost; thought without learning is perilous." — Confucius
-* "Mathematics is not a spectator sport. " — George Polya
-* "True pleasure lies not in the discovery of truth, but in the search for it." — Tolstoy
-* "Those who ask questions are fools for the moment; those who do not ask questions remain fools forever."— Confucius
 
 # Notes
 
@@ -152,6 +153,8 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 * Goodnotes - 14.5 Hours.
 
 2021-08-01 W9 Reflect:
+
+- 
 
 # Reference
 
