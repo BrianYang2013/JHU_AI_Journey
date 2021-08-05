@@ -23,7 +23,7 @@ Start from 2021 summer
   * Math - Awareness. Lay the foundation. Most (95%) of what you learned in school won't be used in career. What we learn in school is not knowledge, but the exercise of how to learn, and the ability to think. For example, we should be able to pick up new math topics at a reasonable timeframe (3 months for a typical graduate level course)  
   * Coding - Re-visit data structure and algorithms, leetcode, familiar with various packages. => Make it work, resolve the problem. 
   * Academic Training - Discover and pick up the knowledge, be aware of where good taste and standards are, and restructure my knowledge system to support my future improvement.
-* General goals for everyone - Keep collecting, please share your thoughts
+* General goals - collected from Internet and friends, keep growing. Please share your thoughts
   * Program - Finish it
   * Program - Finish with the shortest possible timeframe
   * Program - Finish with quality, such as straight A or honor
@@ -48,8 +48,8 @@ Start from 2021 summer
 * JHU AI program is relevantly new, more courses will be added to the elective courses list, and more paths will define and provide. Pay attention to the new courses.   
 * EN.625.250
   * EN: school (Engineering, Medical, etc. )
-  * 625: Major (Math, CS, etc. )
-  * First digit in the last session
+  * 625: Major (Applied and computational Math 625, CS601 or 605, DS 685 etc. )
+  * Next three digit: Course number. The first digit: 
     * 2: undergraduate course, not to degree.
     * 6: graduate level course.
     * 7: Advanced graduate level
@@ -93,14 +93,12 @@ No matter how good you did 20 years ago, they won't leave too much trace on you.
 * [Artificial Intelligence Courses](https://ep.jhu.edu/programs/artificial-intelligence/courses/)
 * [Data Science Courses](https://ep.jhu.edu/programs/data-science/courses/)
 
-## About coding
-All information from internet, and 0 relationship with company, even they are pseudo, dummy or fake test data. 
-
+## About coding 
 Languages
 
 - Python: Of course. 
 - Java: Widely used in industry and engineering field. Relevantly easy, tons of framework. 
-- C++: Great for CV, better performance, closer to hardware. 
+- C++: Better performance, closer to hardware, great for CV. 
 
 ## Misc
 ### Resources:
@@ -119,7 +117,7 @@ Languages
 ### Tools:
 * [GitHub Desktop](https://desktop.github.com/) - Maintain this repo
   * Markdown + Latex + Export PDF: 
-* iPad: iPad 2020 + pencil (or iPad Pro 11 + pencil 2). iPad Pro 12.9 too heavy, 27 inch monitor is better. Good for reading PDF textbooks. It is astonishing to know that the textbook available publicly in PDF(Thanks Author!) but listed \$900+ on Amazon as new,  \$600+ (acceptable) or \$200 (good) as second hand. If license is not a issue (assume), then obviously there is something wrong in the US academic publication system.
+* iPad: iPad 2020 + pencil (or iPad Pro 11 + pencil 2. iPad Pro 12.9 too heavy, 27 inch monitor is better). Good for reading PDF textbooks. It is astonishing to know that the textbook available publicly in PDF(Thanks Author!) but listed \$900+ on Amazon as new,  \$600+ (acceptable) or \$200 (good) as second hand. If license is not a issue (assume), then obviously there is something wrong in the US academic publication system.
 * [Goodnotes 5](https://apps.apple.com/us/app/goodnotes-5/id1444383602) - A great tool for taking notes and mark on the PDF textbook
 * MindNode: A good mindmap tool. Alternative option: Xmind, SimpleMind, GitMind...
 * Screenshot: [Snipaste](https://www.snipaste.com/)

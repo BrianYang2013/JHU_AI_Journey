@@ -154,7 +154,11 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 
 2021-08-01 W9 Reflect:
 
-- 
+2021-08-08 W10 Reflect:
+
+- Roles and responsibility
+  - School, Program: provide a structured courses
+  - Teacher: Pick up textbook, tune the learning curve, set the deadline, answer questions such as motivation and application behind the theory. 
 
 # Reference
 

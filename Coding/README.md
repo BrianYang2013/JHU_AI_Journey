@@ -1,20 +1,33 @@
 # About this repo - Coding
 
-I have no intention to become a full-time programmer. Still, it will be beneficial if I can warm up my data structure and algorithms knowledge. To achieve my purpose, I do not intend to invent the wheel but familiar with many kinds of wheels.
-Specifically, I don't plan to write my code but read, learn, replicate and run what available on the Internet. All copyright(if any) goes to the original author. 
+Goals: 
 
-Time frame: 2-3 years, through my AI program. 
+- Warm up my data structure and algorithms knowledge.
+- Get familar with the tools
 
-Scope
+Approach
 
-* Python: ML packages and framework.
-* Java: Industry. Backend. Container. Andriod.
+- Read and practice as much as possible. 
+- Don't invent the wheels. Understand and use it. 
+
+Time frame: 
+
+- 2-3 years, through my AI program.
+- Time for space (breadth and depth)
+
+Languages
+
+* Python: ML packages and framework.=> Key
+* Java: Industry. Backend. Container. Andriod. => Simple, focus on data structure and algorithm
 * C++, Performance and CV. Backend. 
+
+Data Structure and Algorithms
+
 * Data Structure
-* Algorithms / Leetcode / Algorithms analysis
-* ML/AI algorithms
+* Algorithms: General, Leetcode, Algorithms analysis
+* Algorithms: ML/AI
 * Packages: Numpy, Pandas, Scipy, Scikit-learn, Matplotlib, Seaborn...
-* DL tools: Pytorch, Tensorflow
+* Tools: Pytorch, Tensorflow... 
 
 # Journey
 
@@ -87,7 +100,7 @@ Scope
 * Warm up with the primary algorithms:
   * Data Structures and Algorithms in Python 1st Edition by Michael T. Goodrich ...
 * Practice and the main course:
-  * Python Programming in Context 3rd Edition - Textbook
+  * Python Programming in Context 3rd Edition - Textbook?
   * Introduction to Algorithms, 3rd Edition (The MIT Press), by Thomas H. Cormen - Textbook
   * Algorithms (4th Edition), by Robert Sedgewick, Kevin Wayne
 
