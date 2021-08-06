@@ -16,5 +16,7 @@
 ## Selected Problem set 14.3
 <img src="Img/Calculus 3-14-125.jpg" alt="drawing" style="width:700px;"/>
 <img src="Img/Calculus 3-14-126.jpg" alt="drawing" style="width:700px;"/>
+
 #  
 ## Selected Problem set 14.4
+<img src="Img/Calculus 3-14-127.jpg" alt="drawing" style="width:700px;"/>
