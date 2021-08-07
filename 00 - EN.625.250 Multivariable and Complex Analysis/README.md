@@ -156,9 +156,17 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 
 2021-08-08 W10 Reflect:
 
+- Cauchy's integral formula: Follow the definition. It is on line integral, a closed path, Don't over think. Although there might be something related 
+
+Wrap up this course: 
+
 - Roles and responsibility
   - School, Program: provide a structured courses
-  - Teacher: Pick up textbook, tune the learning curve, set the deadline, answer questions such as motivation and application behind the theory. 
+  - Teacher: Pick up textbook, tune the learning curve, set the deadline, suggest the reference, answer questions such as motivation and application behind the theory. 
+  - Student: Everything. 
+- I think we lack discussion. Casual chat, talks about various topics, our doubts, our mistakes, and our questions. 
+- Quit interesting topics, study the Euler formular in textbook rather than a popular science book, varisou theorems, first time to enter into the complex analysis world
+- Lots of area to explore, but you need to move on. There are more interesting things ahead, and settle in somewhere which can make impact
 
 # Reference
 
