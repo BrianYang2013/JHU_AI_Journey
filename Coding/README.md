@@ -101,8 +101,10 @@ Data Structure and Algorithms
   * Data Structures and Algorithms in Python 1st Edition by Michael T. Goodrich ...
 * Practice and the main course:
   * Python Programming in Context 3rd Edition - Textbook?
-  * Introduction to Algorithms, 3rd Edition (The MIT Press), by Thomas H. Cormen - Textbook
   * Algorithms (4th Edition), by Robert Sedgewick, Kevin Wayne
+  * Introduction to Algorithms, 3rd Edition (The MIT Press), by Thomas H. Cormen - Textbook
+  * Algorithm Design, by Jon Kleinberg, Eva Tardos
+  * The Algorithm Design Manual, by Skiena
 
 ## Reference Books
 
