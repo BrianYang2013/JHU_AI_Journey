@@ -39,6 +39,8 @@ I will be delighted to receive suggestions and feedback to improve them and even
 * "Those who ask questions are fools for the moment; those who do not ask questions remain fools forever."— Confucius
 * "The length of your education is less important than its breadth, and the length of your life is less important than its depth." — Marilyn vos Savant
 * “A mind is a fire to be kindled, not a vessel to be filled" — Plutarch
+* “A mathematician who is not also something of a poet will never be a complete mathematician." — Karl Weierstrass
+* "I have no particular talent. I am only inquisitive." — Albert Einstein
 
 # Typo and error in textbook
 
