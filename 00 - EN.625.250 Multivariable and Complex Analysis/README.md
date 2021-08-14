@@ -160,6 +160,7 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 2021-08-08 W10 Reflect:
 
 - Cauchy's integral formula: Follow the definition. It is on line integral, a closed path, Don't over think. Although there might be something related 
+- Goodnotes - 13 Hours.
 
 Wrap up this course: 
 
