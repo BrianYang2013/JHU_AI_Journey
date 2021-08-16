@@ -16,6 +16,7 @@ Plan to reduce the mistakes by:
 * Cross-check with my classmates,  
 * Check the odd-number answers in the textbook appendix,
 * Double-check if I get enough time
+* Aug 15: [Quizlet](https://quizlet.com/explanations/textbook-solutions/advanced-engineering-mathematics-10th-edition-9780470458365) has full verified answer! Consider to review my exercise of C9-10, 13-16
 
 I will be delighted to receive suggestions and feedback to improve them and eventually benefit others. So if you have any suggestions, please do let me know. Thanks.
 
