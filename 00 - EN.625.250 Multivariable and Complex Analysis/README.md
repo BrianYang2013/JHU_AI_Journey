@@ -5,7 +5,7 @@ Textbook: [Advanced Engineering Mathematics, 10th Edition, by Erwin Kreyszig](ht
 This course mainly covers Linear algebra, multivariable calculus, and complex analysis.
 Better to warm up with calculus 1 and 2.
 
-It will be the most challenging course for me due to various reasons such as mathematic terminology, different education system, especially to the fact that I haven't work on my math for so many years. As long as I can conquer this one, I should be able to handle all of the rest. Meanwhile, never underestimate the difficulty of the top school.
+This course will be the most challenging one for me. There are many reasons for this, such as not being familiar with math terms, different education systems, and I haven't done math in years. As long as I can overcome this course, I can successfully pass all the following courses. Of course, I don't want to underestimate the difficulty of the top schools.
 
 # About this repo
 
@@ -16,13 +16,13 @@ Plan to reduce the mistakes by:
 * Cross-check with my classmates,  
 * Check the odd-number answers in the textbook appendix,
 * Double-check if I get enough time
-* Aug 15: [Quizlet](https://quizlet.com/explanations/textbook-solutions/advanced-engineering-mathematics-10th-edition-9780470458365) has full verified answer! Consider to review my exercise of C9-10, 13-16
+* Aug 15: [Quizlet](https://quizlet.com/explanations/textbook-solutions/advanced-engineering-mathematics-10th-edition-9780470458365) has full verified solutions! Consider to review my exercise of C9-10, 13-16 by end of this week. 
 
 I will be delighted to receive suggestions and feedback to improve them and eventually benefit others. So if you have any suggestions, please do let me know. Thanks.
 
 # Watch out
 * **Always check your work**
-* Read the question again.
+* Read the question carefully. Read it again.
 * Check Matrix Size
 * Basic arithmetic calculation. Write them down.
 * Careful on the terminology. E.g: Solution sets means 0, 1, or infinity. It does not mean a basis set. or a solution.
@@ -51,14 +51,12 @@ I will be delighted to receive suggestions and feedback to improve them and even
   * 7-3: 19
   * 7-7: 3 (Example 2 but not theorem 2)
   * 7.9: 10. First column is 3x1, can not multiply with 3x1 vector. if the elements multiply with the vector elements accordingly, then rank=5.
-
 * Chapter 8
 
   * 8.2 - 7, the answer forget to work out the limit.
   * 8.2 - 15: I got a different result. Need to cross-check
   * 8.3 - 1: Answer is wrong
   * 8.4 - 1: A typo in the question. The second A lacks a hat. For the answer, I would simplify it to [-1, 2]^T. Not a mistake.
-
 * Chapter 9
 
   * 9.1 - 11-18: Typo, b=[-4, 6, 0]
@@ -69,12 +67,10 @@ I will be delighted to receive suggestions and feedback to improve them and even
   * 9.3 - 31
   * 9.5 - 24-28: in question, unit tangent vector should be u(t)
   * 9.5 - 31: |a|, because a might be negative.
-
 * Chapter 9 - Not to finish all the exercises.
 
   * 9,8 - 1, typo in the question
   * 9.9 - 15, curl v is 0
-
 * Chapter 10
 
   * P421: I = f(1, -1, 7) - f(0, 1, 2) = 1-7 - (0+2) = -8
@@ -83,7 +79,6 @@ I will be delighted to receive suggestions and feedback to improve them and even
   * 10.5 - 9: F=$[e^y/x, e^y\ lnx +2x]$, this is the worst typo I have ever met, wasted me many hours.
   * 10.7, ﻿P456 typo: S: r=[2cosvcosu, 2cosvsinu, **2sinv**]
   * 10.8, P460 typo: ... in some domain D **in** space.
-
 * Chapter 13
 
   * 13.4 - 15: c is imaginary, not real.  
@@ -91,7 +86,9 @@ I will be delighted to receive suggestions and feedback to improve them and even
   * 13.5 P632 Example 1: Typo, 0.6 not 1.6
   * 13.5 - 3: The first = should be =>
   * 13.5 - 17: missed $Im(exp(z^3)) = ie^{x^3-3xy^2}\sin(3x^2y-y^3)$
-  * 13.6 - 17: missed $\pi$ in answer
+  * 13.6 - 17: missed $\pi$​ in answer
+* Chapter 16
+  * 16.4 - 1: k>1 and k<-1 have different result. 
 
 # Notes
 
@@ -163,15 +160,16 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 - Cauchy's integral formula: Follow the definition. It is on line integral, a closed path, Don't over think. Although there might be something related 
 - Goodnotes - 13 Hours.
 
-Wrap up this course: 
+2021-08-22 W12 - Wrap up this course: 
 
 - Roles and responsibility
   - School, Program: provide a structured courses
-  - Teacher: Pick up textbook, tune the learning curve, set the deadline, suggest the reference, answer questions such as motivation and application behind the theory. 
+  - Teacher: Pick textbook, tune the learning curve, **set the deadline**, suggest the reference, answer questions such as motivation and application behind the theory. 
   - Student: Everything. 
-- I think we lack discussion. Casual chat, talks about various topics, our doubts, our mistakes, and our questions. 
-- Quit interesting topics, study the Euler formular in textbook rather than a popular science book, varisou theorems, first time to enter into the complex analysis world
-- Lots of area to explore, but you need to move on. There are more interesting things ahead, and settle in somewhere which can make impact
+- Basically, I completed the course per my plan. Of course, there were some adjustments, but overall it went well. A lot of reading, a lot of knowledge, and a lot of practice.
+- I think the students lack discussion. The forum is not active and not efficient in exchanging ideas. I made a few friends but way not enough. Have to admit that the remote study can not provide the same or similar experience in the class. Casual chat, talks about various topics, such as doubts, mistakes, and questions. 
+- This course covers exciting topics, refreshes Linear Algebra and calculus, and studies new topics such as multivariate calculus and complex analysis. It is great to learn the Euler formula in a textbook rather than a popular science book. 
+- Lots of areas to explore, but you need to move on. There are more interesting things ahead. Focus on the key things. 
 
 # Reference
 
