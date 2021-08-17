@@ -16,3 +16,9 @@
 
 #  
 ## Selected Problem set 16.4
+<img src="Img/Calculus 3-16-149.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-16-150.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-16-151.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-16-152.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-16-153.jpg" alt="drawing" style="width:700px;"/>
+<img src="Img/Calculus 3-16-154.jpg" alt="drawing" style="width:700px;"/>
