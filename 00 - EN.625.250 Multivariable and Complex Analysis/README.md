@@ -165,14 +165,28 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 
 2021-08-22 W12 - Wrap up this course: 
 
+- What is good
+
+- - The plan went well, with minor adjustments. Refreshed Linear Algebra and Calculus, step into multivariable calculus and complex analysis. It is great to learn the Euler formula in a textbook rather than a popular science book. 
+  - WolframAlpha and Quizlet and are great websites to assist the study. 
+  - Reference other courses material, cross-check the key concepts. 
+  - Organize and review the knowledge point from time to time. 
+  - Set up a routine for the study, with regular quizzes. (Deadline)
+
+- What needs to improve. 
+
+- - This course design for 10-12 hours per week, and I spent 20+ constantly with pre-study. I need to reserve more time for study. Maybe I need to improve my reading speed, or more practice on the math, or lower my expectation to focus on the calculation+key concept rather than the theoretical part. 
+  - Focus on the essential things, stay within the scope. 80/20. 
+  - Need more discussion. Find people to casual chat, discuss the doubts, clarify thoughts, cross-check the understanding. 
+
+- What to expect
+
 - Roles and responsibility
-  - School, Program: provide a structured courses
-  - Teacher: Pick textbook, tune the learning curve, **set the deadline**, suggest the reference, answer questions such as motivation and application behind the theory. 
-  - Student: Everything. 
-- Basically, I completed the course per my plan. Of course, there were some adjustments, but overall it went well. A lot of reading, a lot of knowledge, and a lot of practice.
-- I think the students lack discussion. The forum is not active and not efficient in exchanging ideas. I made a few friends but way not enough. Have to admit that the remote study can not provide the same or similar experience in the class. Casual chat, talks about various topics, such as doubts, mistakes, and questions. 
-- This course covers exciting topics, refreshes Linear Algebra and calculus, and studies new topics such as multivariate calculus and complex analysis. It is great to learn the Euler formula in a textbook rather than a popular science book. 
-- Lots of areas to explore, but you need to move on. There are more interesting things ahead. Focus on the key things. 
+
+- - - School, Program: provide structured courses. Draw the map
+    - Teacher: Pick a textbook, tune the learning curve, **set the deadline**, suggest the reference, answer questions such as motivation and application behind the theory. 
+
+  - Student: of course, everything. 
 
 # Reference
 
