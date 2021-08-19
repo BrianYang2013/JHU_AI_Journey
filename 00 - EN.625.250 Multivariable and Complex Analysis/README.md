@@ -88,6 +88,8 @@ I will be delighted to receive suggestions and feedback to improve them and even
   * 13.5 - 3: The first = should be =>
   * 13.5 - 17: missed $Im(exp(z^3)) = ie^{x^3-3xy^2}\sin(3x^2y-y^3)$
   * 13.6 - 17: missed $\pi$​ in answer
+* Chapter 15
+  * 15.2 - 11: The answer is responding to [(2-i)z/(1+5i)]^n. Typo in the problem. 
 * Chapter 16
   * 16.4 - 1: k>1 and k<-1 have different result. 
 
