@@ -22,6 +22,7 @@ I will be delighted to receive suggestions and feedback to improve them and even
 
 # Watch out
 * **Always check your work**
+* Draw a picture before calculate. Check the condition before applyt the formula. 
 * Read the question carefully. Read it again.
 * Check Matrix Size
 * Basic arithmetic calculation. Write them down.
@@ -166,27 +167,20 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 2021-08-22 W12 - Wrap up this course: 
 
 - What is good
-
-- - The plan went well, with minor adjustments. Refreshed Linear Algebra and Calculus, step into multivariable calculus and complex analysis. It is great to learn the Euler formula in a textbook rather than a popular science book. 
+  - The plan went well, with minor adjustments. Refreshed Linear Algebra and Calculus, step into multivariable calculus and complex analysis. It is great to learn the Euler formula in a textbook rather than a popular science book. 
   - WolframAlpha and Quizlet and are great websites to assist the study. 
   - Reference other courses material, cross-check the key concepts. 
   - Organize and review the knowledge point from time to time. 
   - Set up a routine for the study, with regular quizzes. (Deadline)
-
 - What needs to improve. 
-
-- - This course design for 10-12 hours per week, and I spent 20+ constantly with pre-study. I need to reserve more time for study. Maybe I need to improve my reading speed, or more practice on the math, or lower my expectation to focus on the calculation+key concept rather than the theoretical part. 
+  - This course design for 10-12 hours per week, and I spent 20+ constantly with pre-study. I need to reserve more time for study. Maybe I need to improve my reading speed, or more practice on the math, or lower my expectation to focus on the calculation+key concept rather than the theoretical part. 
   - Focus on the essential things, stay within the scope. 80/20. 
   - Need more discussion. Find people to casual chat, discuss the doubts, clarify thoughts, cross-check the understanding. 
-
 - What to expect
-
-- Roles and responsibility
-
-- - - School, Program: provide structured courses. Draw the map
+  - Roles and responsibility
+    - School, Program: provide structured courses. Draw the map
     - Teacher: Pick a textbook, tune the learning curve, **set the deadline**, suggest the reference, answer questions such as motivation and application behind the theory. 
-
-  - Student: of course, everything. 
+    - Student: of course, everything. 
 
 # Reference
 
