@@ -167,6 +167,7 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 2021-08-22 W12 Reflect: 
 
 - A great textbook. Lots of content. 
+- Found Quizlet. It is good to review your exercise, a good wrap up. 
 - Goodnotes - 22.5 Hours
 
 2021-08-22  Course wrap up: 
@@ -178,9 +179,9 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
   - Organize and review the knowledge point from time to time. 
   - Set up a routine for the study, with regular quizzes. (Deadline)
 - What needs to improve. 
-  - This course design for 10-12 hours per week, and I spent 20+ constantly with pre-study. I need to reserve more time for study. Maybe I need to improve my reading speed, or more practice on the math, or lower my expectation to focus on the calculation+key concept rather than the theoretical part. 
-  - Focus on the essential things, stay within the scope. 80/20. 
-  - Need more discussion. Find people to casual chat, discuss the doubts, clarify thoughts, cross-check the understanding. 
+  - Focus on the essential things, stay within the scope. It is good to know more but will lose your foucs. 80/20. 
+  - This course design for 10-12 hours per week, and I spent 20+ constantly with pre-study. I need to reserve more time for study. Maybe I need to improve my reading speed, or more practice on the math. Another way is to lower my expectation and just  focus on the key concept and basic calculation rather than wandering in the theoretical wild. 
+  - Need more discussion. Find people to casual chat, discuss the doubts, clarify thoughts, cross-check the understanding. Find a community or group. 
 - What to expect
   - Roles and responsibility
     - School, Program: provide structured courses. Draw the map
@@ -194,9 +195,19 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 
   * [Differential Calculus through Data and Modeling Specialization](https://www.coursera.org/specializations/differential-calculus-data-modeling)
   * [Integral Calculus through Data and Modeling Specialization](https://www.coursera.org/specializations/integral-calculus-data-modeling)
-* [Calculus I with Precalculus: A One-Year Course](https://www.amazon.com/Calculus-I-Precalculus-One-Year-Course-dp-0618568069/dp/0618568069/ref=mt_other?_encoding=UTF8&me=&qid=1621531863). I happen to have this book. Anything similar will be good for warm up.
 * [Khan: Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus). It is not easy to get 100%, and It is pity that I don't have time to finish all of them.
+* [Calculus I with Precalculus: A One-Year Course](https://www.amazon.com/Calculus-I-Precalculus-One-Year-Course-dp-0618568069/dp/0618568069/ref=mt_other?_encoding=UTF8&me=&qid=1621531863). I happen to have this book. Anything similar will be good for warm up.
+* Calculus Early Transcendentals, James Stewart
 * [Simple Parallel Circuits](https://www.allaboutcircuits.com/textbook/direct-current/chpt-5/simple-parallel-circuits/): Reference materials, if want to explore more on KCL, KVL in chapter 7.
 * [Mathematics Calculus III](https://scientificsentence.net/Equations/CalculusIII/index.php?key=yes&Integer=stokes_theorem): A well organized summary with examples. Be aware of the mistakes, and the parametric representation might slightly different from the textbook. Such as sphere.
 * [Can your computer do complex analysis?](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.8.6363&rep=rep1&type=pdf): In complex analysis, the logarithm and power/exponential functions are considered to be multiple-valued functions that are made single-valued by choosing a branch of the logarithm. (principle branch)
 * [More examples on Cauchy’s integral formula from MIT](https://math.mit.edu/~jorloff/18.04/notes/topic4.pdf)
+* [Quizlet: Advanced Engineering Mathematics](https://quizlet.com/explanations/textbook-solutions/advanced-engineering-mathematics-10th-edition-9780470458365)
+* Calculators:
+  * [Matrix Calculator](https://matrixcalc.org/en/)
+  * [Derivative Calculator](https://www.derivative-calculator.net/#)
+  * [Integral Calculator](https://www.integral-calculator.com/#)
+  * [Desmos Graphic](https://www.desmos.com/calculator)
+  * [Symbolab](https://www.symbolab.com)
+  * [WolframAlpha](https://www.wolframalpha.com)
+
