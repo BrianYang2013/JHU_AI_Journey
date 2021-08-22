@@ -164,6 +164,11 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 - Cauchy's integral formula: Follow the definition. It is on line integral, a closed path, Don't over think. Although there might be something related 
 - Goodnotes - 13 Hours.
 
+2021-08-22 W12 Reflect: 
+
+- A great textbook. Lots of content. 
+- Goodnotes - 18+ Hours
+
 2021-08-22 W12 - Wrap up this course: 
 
 - What is good
