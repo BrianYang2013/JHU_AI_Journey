@@ -167,9 +167,9 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 2021-08-22 W12 Reflect: 
 
 - A great textbook. Lots of content. 
-- Goodnotes - 18+ Hours
+- Goodnotes - 22.5 Hours
 
-2021-08-22 W12 - Wrap up this course: 
+2021-08-22  Course wrap up: 
 
 - What is good
   - The plan went well, with minor adjustments. Refreshed Linear Algebra and Calculus, step into multivariable calculus and complex analysis. It is great to learn the Euler formula in a textbook rather than a popular science book. 
