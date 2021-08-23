@@ -1,9 +1,8 @@
 # About this course
 
-Textbook: [Advanced Engineering Mathematics, 10th Edition, by Erwin Kreyszig](http://webpages.iust.ac.ir/jazbi/books/10Edition-ErwinKreyszig-AdvancedEngineeringMathematics.pdf)
+Textbook: [Advanced Engineering Mathematics, 10th Edition, by Erwin Kreyszig](http://webpages.iust.ac.ir/jazbi/books/10Edition-ErwinKreyszig-AdvancedEngineeringMathematics.pdf). PDF avaliable on Internet. 
 
-This course mainly covers Linear algebra, multivariable calculus, and complex analysis.
-Better to warm up with calculus 1 and 2.
+This course mainly covers Linear algebra, multivariable calculus, and complex analysis. Better to warm up with calculus 1 and 2. 
 
 This course will be the most challenging one for me. There are many reasons for this, such as not being familiar with math terms, different education systems, and I haven't done math in years. As long as I can overcome this course, I can successfully pass all the following courses. Of course, I don't want to underestimate the difficulty of the top schools.
 
