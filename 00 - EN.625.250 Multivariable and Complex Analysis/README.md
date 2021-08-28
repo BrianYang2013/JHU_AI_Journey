@@ -1,6 +1,6 @@
 # About this course
 
-Textbook: [Advanced Engineering Mathematics, 10th Edition, by Erwin Kreyszig](http://webpages.iust.ac.ir/jazbi/books/10Edition-ErwinKreyszig-AdvancedEngineeringMathematics.pdf). PDF avaliable on Internet. 
+Textbook: [Advanced Engineering Mathematics, 10th Edition, by Erwin Kreyszig](http://webpages.iust.ac.ir/jazbi/books/10Edition-ErwinKreyszig-AdvancedEngineeringMathematics.pdf). PDF avaliable . 
 
 This course mainly covers Linear algebra, multivariable calculus, and complex analysis. Better to warm up with calculus 1 and 2. 
 
@@ -209,10 +209,10 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
   * [Desmos Graphic](https://www.desmos.com/calculator)
   * [Symbolab](https://www.symbolab.com)
   * [WolframAlpha](https://www.wolframalpha.com)
-* More on Linear Algebra
+* More to read
   * [Linear Algebra and Its Applications](https://www.amazon.com/Linear-Algebra-Its-Applications-David-ebook-dp-B00XIHIO6E/dp/B00XIHIO6E/ref=mt_other?_encoding=UTF8&me=&qid=1629675988)
   * [Linear Algebra Done Right(UTM)](https://www.amazon.com/Linear-Algebra-Right-Undergraduate-Mathematics-ebook/dp/B00PULZWPC/ref=sr_1_1?crid=18DCBX7KQIANY&dchild=1&keywords=linear+algebra+done+right&qid=1629675953&s=digital-text&sprefix=linear+algebra%2Cdigital-text%2C228&sr=1-1)
-* More on complex analysis. Can find free PDF version, or get it via Amazon: 
+  * [Math Insight - Multivariable calculus](https://mathinsight.org/thread/multivar)
   * [Complex Analysis (Princeton Lectures in Analysis, No. 2)](https://www.amazon.com/gp/product/0691113858/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i1)
   * [A Complex Analysis Problem Book](https://www.amazon.com/gp/product/B01MFCVVNX/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0)
   * Complex Analysis_ Introduced in the Spirit of Lipman Bers, UTM
