@@ -198,7 +198,8 @@ It is good to practice LaTex, but it is time-consuming. From chapter 8, I will f
 * [Calculus I with Precalculus: A One-Year Course](https://www.amazon.com/Calculus-I-Precalculus-One-Year-Course-dp-0618568069/dp/0618568069/ref=mt_other?_encoding=UTF8&me=&qid=1621531863). I happen to have this book. Anything similar will be good for warm up.
 * Calculus Early Transcendentals, James Stewart
 * [Simple Parallel Circuits](https://www.allaboutcircuits.com/textbook/direct-current/chpt-5/simple-parallel-circuits/): Reference materials, if want to explore more on KCL, KVL in chapter 7.
-* [Mathematics Calculus III](https://scientificsentence.net/Equations/CalculusIII/index.php?key=yes&Integer=stokes_theorem): A well organized summary with examples. Be aware of the mistakes, and the parametric representation might slightly different from the textbook. Such as sphere.
+* [Mathematics Calculus III](https://scientificsentence.net/Equations/CalculusIII/index.php?key=yes&Integer=stokes_theorem): A well organized summary with examples. Be aware of the mistakes, and the parametric representation might slightly different from the textbook, such as sphere.
+* [复变积分](http://jiaxuanli.me/Homepage/doc/Mathematical_Method/chpp03.pdf), and the chapter 04, 05 etc. 
 * [Can your computer do complex analysis?](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.8.6363&rep=rep1&type=pdf): In complex analysis, the logarithm and power/exponential functions are considered to be multiple-valued functions that are made single-valued by choosing a branch of the logarithm. (principle branch)
 * [More examples on Cauchy’s integral formula from MIT](https://math.mit.edu/~jorloff/18.04/notes/topic4.pdf)
 * [Quizlet: Advanced Engineering Mathematics](https://quizlet.com/explanations/textbook-solutions/advanced-engineering-mathematics-10th-edition-9780470458365)
