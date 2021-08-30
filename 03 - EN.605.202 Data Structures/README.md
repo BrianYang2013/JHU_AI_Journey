@@ -22,7 +22,6 @@ I took this course in college, but I didn't get a lot of practice during my care
   - **Fill**: Fill in gaps in understanding exposed in step 2 by returning to the sources
   - **Simplify**: Simplify the explanation
 - Discussion: Critical thinking
-- 
 
 # Routine - Draft
 
@@ -46,6 +45,11 @@ Sunday: Programming projects(400. Start early).
 Monday: Reading, Review discussion, reply. 
 
 Tuesday: Reading, 
+
+# Measurement
+
+- 25 hours per week: 3 hour per weekday, 5 hours per weekend. 
+- Coding everyday
 
 # Reference
 
