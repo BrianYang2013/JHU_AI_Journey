@@ -6,9 +6,9 @@ I have learned this course back to my under graduate school. A good refresh.
 
 # Routine - Draft
 
-Monday: Reading, discussion. 
+Monday: Reading, Lectural, discussion. 
 
-Tuesday: Reading, discussion. 
+Tuesday: Reading, Lectural, discussion. 
 
 Wednesday: Reading, exercise. 
 
@@ -20,8 +20,8 @@ Saturday: Mindmap
 
 Sunday: Wrap up
 
-# Measurement
+# Check-in
 
 - 15 hours per week: 2 hour per weekday, 3 hours per weekend. 
-- 50+ pages per week
+- 50+ pages per week. Consider exercise and mindmap, 20-30 pages per day
 

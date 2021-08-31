@@ -25,31 +25,65 @@ I took this course in college, but I didn't get a lot of practice during my care
 
 # Routine - Draft
 
-Wednesday: 
+Wednesday: Start new content material. 
 
 - Reading, Lecture, 
-- Homework assignment (200), Discussion (100, add name in thread, include URL as citation)
+- Check Homework assignment (200), Discussion (100, add name in thread, include URL as citation)
 
 Thursday: 
 
-- Reading, Office Hour, Prompts(?, 50)
+- Reading, Office Hour, Prompts(?, 50), Discussion
 
 - Review posted solution of last week
 
-Friday: Review last week solution, Quizzes (150, average of 2 attempts)
+Friday: Review last week solution(?), Quizzes (150, average of 2 attempts), Discussion
 
 Saturday: Programming projects(400. Start early). Review discussion, reply. 
 
-Sunday: Programming projects(400. Start early). 
+Sunday: Office Hour, Programming projects(400. Start early). 
 
-Monday: Reading, Review discussion, reply. 
+Monday: Office Hour, Reading, Review discussion, reply. 
 
-Tuesday: Reading, 
+Tuesday: Due day, wrap up: 
 
-# Measurement
+- Finalize discussion postings. 
+- Prompt questions. 
+- Quzzes. 
+- Home work. 
+- Lab assignment
+
+# Check-in 
 
 - 25 hours per week: 3 hour per weekday, 5 hours per weekend. 
 - Coding everyday
+
+# Points
+
+- Homework Assignments: Weekly. Focus on logic.  A reasonable, in-depth, and sincere effort
+
+- Programming Assignments: 4 labs. Start early, submit before deadline. 
+  - Correctness
+  - Style, Documentations. Structures, modularity, error checking,
+  - Input/Output
+  - Analysis - See more detail in the Programming Assignments Guidelines
+  - Enhancements
+
+- Discussion/Participation
+  - Discussion: post an original post to each discussion question + reply to at least two of your different classmate's postings. With unique fun titles+ your name
+  - Prompts:
+  - Online text interaction: Can work ahead. 
+
+- Quizzes: Average of two attempts
+
+## Extra points
+
+10 - Home work assignment
+
+10 - Programming Assignments: Extra Enhancements, 2 points cap per lab. 
+
+4 - Prompt: Questions in lectural. Note down answer and submit as PDF, include your name. List with number, only contain answer. a reasonable and sincere effort
+
+7 - Quzzies. 
 
 # Reference
 
