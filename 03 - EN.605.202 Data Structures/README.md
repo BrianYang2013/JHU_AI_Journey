@@ -54,7 +54,7 @@ Tuesday: Due day, wrap up:
 
 # Check-in 
 
-- 25 hours per week: 3 hour per weekday, 5 hours per weekend. 
+- 25 hours per week: 3 hours per weekday, 5 hours per weekend. 
 - Coding everyday
 
 # Points
@@ -85,12 +85,23 @@ Tuesday: Due day, wrap up:
 
 7 - Quzzies. 
 
+# Notes
+
+2021-08-31 M0 Reflect:
+
+- The quiz-0 come with lots of details. System gives 2 attemps but the second one slightly worse than the first. Well, need more focus and better prepared.  
+
 # Reference
 
 Optional Textbooks:
 
 - Augenstein, M. J., Langsam, Y., & Tenenbaum, A. M. (1995). *Data Structures Using C and C++.* Pearson. ISBN-10: 0130369977 OR ISBN-13: 978-0130369970
 - Carrano, F., & Henry, T. (2016). *Data Abstraction & Problem Solving with C++: Walls and Mirrors* (7th ed). Pearson. ISBN-10: 0134463978 OR ISBN-13: 978-0134463971
+  - [Amazon](https://www.amazon.com/Data-Abstraction-Problem-Solving-Mirrors/dp/0134463978/ref=sr_1_1?dchild=1&keywords=Data+Abstraction+%26+Problem+Solving+with+C%2B%2B%3A+Walls+and+Mirrors&qid=1630472504&sr=8-1)
 - Augenstein, M. J., & Langsam, Y., & Tenenbaum, A. M. (2003). *Data Structures Using Java*. Prentice Hall. ISBN-10: 0130477214 OR ISBN-13: 978-0130477217
 - Prichard, J. J., & Carrano, F. M. (2010). *Data abstraction and problem solving with java: Walls and Mirrors* (3rd Ed.). Addison Wesley. ISBN-10: 0132122308 ISBN-13: 978-0132122306
 - Miller, B. N., & Ranum, D. L. (2005). *Problem Solving with Algorithms and Data structures Using Python*. Franklin Beedle and Association. ISBN-10: 1590280539 OR ISBN-13: 978-1590280539
+  - [Amazon](https://www.amazon.com/Problem-Solving-Algorithms-Structures-Python/dp/1590280539/ref=sr_1_1?dchild=1&keywords=ISBN-10+1590280539&qid=1630472634&sr=8-1)
+  - [Amazon, a newer version](https://www.amazon.com/Problem-Solving-Algorithms-Structures-Python/dp/1590282574/ref=sr_1_1?dchild=1&keywords=Miller%2C+Problem+Solving+with+Algorithms+and+Data+structures+Using+Python&qid=1630471925&sr=8-1)
+  - [Online Resource](https://runestone.academy/runestone/books/published/pythonds/index.html)
+  - [Another CN version](https://github.com/facert/python-data-structure-cn)
