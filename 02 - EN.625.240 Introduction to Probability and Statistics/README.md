@@ -6,19 +6,19 @@ A good refresh course in FA21 term
 
 # Routine
 
-Monday: Reading, mindmap. 
+Monday: Reading. Mindmap. 
 
-Tuesday: Reading, mindmap. 
+Tuesday: Reading. Mindmap. 
 
-Wednesday: Lectural, release notes, exercise. 
+Wednesday: Lectural. Release notes. Exercise. 
 
-Thursday: Office Hour, exercise. 
+Thursday: Office Hour. Exercise. 
 
 Friday: Extra materials. Exercise. Collaboration. 
 
-Saturday: Wrap up exercise. **Practical Exercises**. Collaboration. 
+Saturday: Wrap up exercise. **Practical Exercises**. Coding. 
 
-Sunday: Wrap up. Reading next chapter. 
+Sunday: Coding. Reading next chapter. 
 
 # Check-in
 
