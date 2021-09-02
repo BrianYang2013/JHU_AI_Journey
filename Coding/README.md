@@ -63,14 +63,24 @@ Data Structure and Algorithms
 
 * IDE: VScode. Simple, Light, Easy. 
   * Alternative: IntelliJ IDEA. Versatile, heavy for entry level. Community version is good enough, Premium is free for students, you can apply [here](https://www.jetbrains.com/community/education/#students) 
+  
 * Markdown: [Mark Text](https://github.com/marktext/marktext), light, export PDF, support LATEX. 
   - A few bugs: with LATEX, and automatically generate new line which can not delte. 
   * Alternative: Atom + plugin(Markdown Preview Enhanced): Latex + export PDF. 
   * Alternative: Typora
+  
 * Anaconda. Always a good choice
+
 * TextEditor:
   - Sublime Text. Reference: [How to compile and run a Java program with Sublime Text 3](https://www.codejava.net/coding/how-to-compile-and-run-a-java-program-with-sublime-text-3). 
   - TextMate. Light. For Markdown preview: Ctrl + Option + Command + p. [Markdown Redcarpet](https://github.com/streeter/markdown-redcarpet.tmbundle) might work for github markdown. The ruby version is too old, may get some trouble.
+  
+* Table of Contents - For jupyter notebook
+
+  * [Main document](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions/toc2/README.html)
+  * [Reference Turtorial](https://www.jianshu.com/p/7687c6bec65e)
+
+  
 
 ## Reference Repo
 
