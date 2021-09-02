@@ -2,26 +2,26 @@
 
 Textbook: [Probability and Statistics for Engineering and the Sciences](https://www.amazon.com/Probability-Statistics-Engineering-Sciences-Devore/dp/0538733527/ref=sr_1_5?dchild=1&keywords=probability+and+statistics+for+engineering+and+the+sciences&qid=1629678575&sr=8-5). PDF avaliable on Internet. 
 
-I have learned this course back to my under graduate school. A good refresh. 
+A good refresh course. 
 
-# Routine - Draft
+# Routine
 
-Monday: Reading, discussion. 
+Monday: Reading, mindmap. 
 
-Tuesday: Reading, discussion. 
+Tuesday: Reading, mindmap. 
 
-Wednesday: Reading, exercise. 
+Wednesday: Lectural,  notes, exercise. 
 
-Thursday: exercise. Office Hour
+Thursday: Office Hour, exercise. 
 
-Friday: Practical Exercises, collaboration. 
+Friday: Extra materials. Exercise. Collaboration. 
 
-Saturday: Mindmap
+Saturday: Wrap up exercise. **Practical Exercises**. Collaboration. 
 
-Sunday: Wrap up
+Sunday: Wrap up. Reading next chapter. 
 
-# Measurement
+# Check-in
 
-- 15 hours per week: 2 hour per weekday, 3 hours per weekend. 
-- 50+ pages per week
+- 7-10 hours per week. Plan 15 hours. For example: 2 hours per day. 
+- 50+ pages per week. 25+ per day. 
 
