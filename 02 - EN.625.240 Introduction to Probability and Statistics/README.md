@@ -32,3 +32,10 @@ Sunday: Coding. Reading next chapter.
 2021-08-31 W01 Reflect:
 
 - What is the pro and cons of each measurment? Why we need them? Apply to which scenarios? 
+
+# Coding Reference
+
+- [Document: pandas.DataFrame.describe](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.describe.html)
+- [Python Turtorial - Slice data](https://www.liaoxuefeng.com/wiki/1016959663602400/1017269965565856) 
+- [Matplot - hist](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.hist.html)
+- [Seaborn](https://seaborn.pydata.org)

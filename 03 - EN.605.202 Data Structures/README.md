@@ -27,13 +27,13 @@ A good refresh course in FA21 term
 
 Wednesday: 
 
-- zyBooks, Optional Textbooks, Lecture
+- zyBooks, Lecture, Optional Textbooks, 
 
 - Check Homework assignment (200), Discussion (100, add name in thread, include URL as citation)
 
 Thursday: 
 
-- zyBooks, Optional Textbooks, Lecture, Office Hour, Prompts(?, 50), Discussion
+- zyBooks, Lecture, Optional Textbooks, Office Hour, Prompts(?, 50), Discussion
 
 - Review posted last week solution
 
