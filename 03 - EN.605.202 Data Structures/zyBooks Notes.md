@@ -84,6 +84,12 @@ Q:
 
 ## 1.5 Heuristics
 
+**Heuristic**: A technique that willingly accepts a non-optimal or less accurate solution in order to improve execution speed.
+
+knapsack problem. 
+
+0-1 knapsack problem: Qty of each item limited to 1
+
 
 
 ## 1.6 Relation between data structures and algorithms
