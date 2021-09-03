@@ -2,7 +2,7 @@
 
 Textbook: zyBooks, Optional textbooks. 
 
-A good refresh course in FA21 term
+Refresh course in FA21 term. It seems very demanding. 
 
 # Approach
 
@@ -88,6 +88,7 @@ Tuesday: Due day, wrap up:
 2021-08-31 W01 Reflect:
 
 - The quiz-0 come with lots of details. System gives 2 attemps but the second one slightly worse than the first. Well, need more focus and better preparation.  
+- Sept-02, first office hour. Now I know why we have 3 office hours. Maybe I should plan 30 hours per week on this course. 
 
 # Reference
 

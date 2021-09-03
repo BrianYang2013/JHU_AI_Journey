@@ -86,13 +86,23 @@ Q:
 
 **Heuristic**: A technique that willingly accepts a non-optimal or less accurate solution in order to improve execution speed.
 
-knapsack problem. 
+Heuristic optimization
 
-0-1 knapsack problem: Qty of each item limited to 1
+- knapsack problem：Package with total max weight, item with weight and value. Maximize value. 
 
+- 0-1 knapsack problem: Qty of each item limited to 1
 
+A **self-adjusting heuristic** is an algorithm that modifies a data structure based on how that data structure is used. Ex: Many self-adjusting data structures, such as red-black trees and AVL trees, use a self-adjusting heuristic to keep the tree balanced. Tree balancing organizes data to allow for faster access.
 
 ## 1.6 Relation between data structures and algorithms
+
+Q: 
+
+- Which of the following is **not** equal to the number of items in the topSales array? (Ok, read the question carefully)
+
+Figure 1.6.1: Algorithm to determine the top five salespersons using an array.
+
+
 
 ## 1.7 Algorithm efficiency
 
@@ -107,5 +117,7 @@ knapsack problem.
 
 
 ## 1.10 O notation
+
+
 
 ## 1.11 Algorithm analysis
