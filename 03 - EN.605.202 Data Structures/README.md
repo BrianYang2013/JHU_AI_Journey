@@ -95,10 +95,12 @@ Tuesday: Due day, wrap up:
 - Hard to use blackboard. 
 - Can not delete post
 - No real time collaboration
-- Course content not well organized
-  - Reference should put together. 
-  - If create so many type of works, there should be a check list to reflect the status. 
-  - The learning curve has space to improve. 
+- Course can better organized. 
+  - All reference materials should put together. 
+  - Too many type of different works, homework/quiz/book/optional book/discussion, which confuse people. 
+  - If we do need to cover all of them, there should be a check list to help setup the routine and remind us. 
+  - The learning curve might want to improve. For example, the homework comes with limited background and it is not clear to most of the students. 
+  - zyBooks, I picked python and found lots of Java or c type pseudo code. 
 
 # Reference
 

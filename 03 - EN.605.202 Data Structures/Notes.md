@@ -156,6 +156,8 @@ Table 1.9.1: Notations for algorithm complexity analysis.
 | Ω        | T(N)=Ω(f(N)) | A positive constant c exists such that, for all N ≥ 1, T(N)≥c∗f(N). |
 | Θ        | T(N)=Θ(f(N)) | T(N)=O(f(N)) and T(N)=Ω(f(N)).                               |
 
+$log n$ base 10, $lg n$ base 2, $lnn$ Base e
+
 $T(N) = 2N^2+N+9$
 
 $O(N) = N^2$ or $N^3$		$Ω(N) = N^2$		$Θ(N) = N^2$
