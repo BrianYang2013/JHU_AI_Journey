@@ -90,6 +90,16 @@ Tuesday: Due day, wrap up:
 - The quiz-0 come with lots of details. System gives 2 attemps but the second one slightly worse than the first. Well, need more focus and better preparation.  
 - Sept-02, first office hour. Now I know why we have 3 office hours. Maybe I should plan 30 hours per week on this course. 
 
+# Areas to improve
+
+- Hard to use blackboard. 
+- Can not delete post
+- No real time collaboration
+- Course content not well organized
+  - Reference should put together. 
+  - If create so many type of works, there should be a check list to reflect the status. 
+  - The learning curve has space to improve. 
+
 # Reference
 
 Optional Textbooks:
