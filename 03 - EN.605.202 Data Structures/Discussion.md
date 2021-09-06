@@ -44,4 +44,4 @@ The information provided is pretty limited, so I would like to introduce a few t
 There are many things that need to consider, but we already go pretty far.  Last but not least, I would provide a third option: to create a **Hybrid solution**. Suppose we are dealing with a massive amount of data and this program plays an essential role in the business. In this case, 
 
 - Engineering perspective: it might be worth pre-processing the data, dividing them into two groups, and applying both algorithms to get a hybrid solution. 
-- Service perspective: As long as 99% of cases get processed quick enough, we are good. We might create a separate process to deal with the 1%. 
+- Service perspective: If we can process the cases in parallel, then we can set an upper limit of the processing time. As long as 99% of cases get processed quick enough, we are good. We might create a separate process to deal with the 1%. 
