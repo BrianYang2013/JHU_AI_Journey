@@ -35,9 +35,10 @@ Start from 2021 summer
   * Engineering - Scale up, such as cloud; HPC
   * Career - Extend your network for new career opportunity
   * Career - Start a new career, join a startup
+  * Certificate - AWS
   * Community - Influence the people around you, make positive impact.
   * Community - Record my journey which might help others.  
-  * Softskills -
+  * Softskills - 
   * Efficiency - Collect tips and tools to improve the efficiency.
 
 ## Misc @ JHU AI program
