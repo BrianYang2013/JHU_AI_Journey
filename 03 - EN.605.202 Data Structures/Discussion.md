@@ -4,7 +4,7 @@
 
 ## Question
 
-2 options, which do you prefer: $Θ(n^3)$, or $Ο(n^4)$ and $Ω(n^2)$. And why
+One: $Θ(n^3)$, and another one$Ο(n^4)$ and $Ω(n^2)$. Which do you prefer and why
 
 
 
@@ -25,7 +25,7 @@ The information provided is pretty limited, so I would like to introduce a few t
 
 **Data**
 
-- Data volume. For a small amount of data, runtime might not be the primary factor in making a decision.  But if data is big enough, then Ο(n^4) might completely not acceptable. So we might have to pick algorithm 1. 
+- Data volume. For a small amount of data, runtime might not be the primary factor in making a decision. For a specific data range, we need to study the constant to identify which algorithm is better. Maybe we should run some tests to see how they perform in real situations. For a massive amount of data, Ο(n^4) might be completely not acceptable. So we might have to pick algorithm 1. 
 - Data distribution: Regardless of the complexity, the data distribution will impact the overall runtime cost.  If most of the data on algorithm 2 will get Ω(n^2) and only minimal cases will on Ο(n^4), then overall algorithm 2 might have a chance to perform better than algorithm 1. On the other hand, if the data is pretty balanced, then Θ(n^3) might provide better runtime with extra stability. 
 
 **Technical** 

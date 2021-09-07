@@ -1,5 +1,77 @@
 # Module 1 - Complexity and ADTs
 
+## Lecture - Complexity
+
+Trade-off: Faster or more space
+
+Trend analysis: 
+
+- Basic shape not changed. Ignore the constant factor. 
+- Focus on Dominant term. 
+- Lower order terms are not constant: they introduce bumps. when N is small, it might cause some problem. But not impact while N become big. 
+
+Estimation: 
+
+- **Upper bound**, Big-O or $O(g(n))$: For all $n > \beta$, $\alpha g(n) \ge f(n)$
+
+- **Lower bound**, $\Omega (g(n))$: For all $n > \beta$, $\alpha g(n) \le f(n)$
+- $\Theta(g(n))$: For all $n > \beta$, $\alpha_1 g(n) \ge f(n) \ge \alpha_2 g(n)$
+
+Runtime is more important than space because memory are cheap now a days. 
+
+P, NP: relationship not proven. Open question, we believe P belongs to NP. 
+
+- Sort: n to $n^2$, and serach typically 1 to n. 
+
+- NP: Factorial and exponential time
+
+
+
+## Lecture - ADT
+
+Decribe the objects from user perspective
+
+- User hat - Outside box (ADT is a blackbox)
+- Progrmmer hat - Inside box
+
+OOP, three precepts
+
+- Inheritance
+- Polymorphism
+- Encapsulation
+  - Information hiding
+  - Access control
+
+Data abstraction: divorce data and how it is stored from the way it is used. 
+
+All solutions have its own pros and cons. Trade-off, restriction. 
+
+ADT: Write a class. Use pre-conditions, post-conditions, invariants. 
+
+ADT format:
+
+​	ADT Name
+
+​		Data: Describe he nature of the data and any initialization. 
+
+​		Methods
+
+​			Method_1
+
+​				Input: Data from the client
+
+​				Precondition: Necessary state of the system (what needs to be true) before executng the opereation
+
+​				Process: Action performed with the data
+
+​				Postcondition: State of the system (what needs to be true) after executing the operation. 
+
+​				Output: Data values returned to the client
+
+​			Method_2
+
+​	End ADT Name			
+
 ## 1.1 Data structures
 
 Choosing the best data structure often requires determining which data structure provides a good balance given expected uses. Ex: If a program requires fast insertion of new data, 
@@ -110,7 +182,7 @@ An algorithm's **runtime complexity** is a function, **T(N)**, that represents t
 
 An algorithm's **space complexity** is a function, **S(N)**, that represents the number of fixed-size memory units used by the algorithm for an input of size N. S(N) = f(N) + k
 
-An algorithm's **auxiliary space complexity** is the space complexity not including the input data.
+An algorithm's **auxiliary space complexity** is the space complexity not including the input data. **(include output/return data)**
 
 Q: 
 
@@ -133,6 +205,8 @@ Table 1.8.1: Common constant time operations.
 Q:
 
 - The 3 constant time operations in the code below can collectively be considered 1 constant time operation.(T, no trap)
+
+- A loop is never a constant time operation. (F. loop a constant time but not n time)
 
 - In the code below, suppose str1 is a pointer or reference to a string. The code only executes in constant time if the assignment copies the pointer/reference, and not all the characters in the string. (T. So on the other hand, if copy all characters then it might varies. )
 
