@@ -102,6 +102,13 @@ Languages
 - C++: Better performance, closer to hardware, great for CV. 
 
 ## Misc
+
+### Source for textbooks
+
+- [Abebooks](https://www.abebooks.com/)
+
+- [Amazon](https://www.amazon.com/)
+
 ### Resources:
 * [MIT Open Courseware](https://ocw.mit.edu/)
 * MOOC - Coursera

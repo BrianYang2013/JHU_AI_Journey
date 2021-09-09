@@ -20,6 +20,20 @@ Saturday: Wrap up exercise.  Coding.
 
 Sunday: Coding. Pre-read next chapter. 
 
+## Check List
+
+- [x] Reading 1
+- [x] Reading 2
+- [x] Mindmap draft
+- [x] Coding
+- [ ] Lecture
+- [ ] Mindmap finalize and release
+- [ ] Office hour
+- [ ] Practical Exercises
+- [ ] Wrap up practical exercises
+- [ ] Wrap up course
+- [ ] Extra - More practice
+
 # Check-in
 
 - 7-10 hours per week. Idearly 15 hours: 2 hours per day. 

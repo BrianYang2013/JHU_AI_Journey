@@ -303,23 +303,11 @@ for (i = 0; i < N; ++i) {
 }
 ```
 
-
-
 Q
 
 - What is the **big-O notation** for the worst-case runtime? (f(N)=2+4N+1 is not correct. O(N))
 
 
-
-
-
-# Misc
-
-- ++ i is faster than i++ back to the old day, when the variable put into the register. 
-
-- If possible, theta is better than O. But lots of cases upper and lower are different. 
-- $N \ge 1$, for Big-O and $\Omega$ (I don't  understand why people interested in tedious problem like this one)
-- [A website for math notation](https://plantuml.com/ascii-math): After my practice in the last term, I found Latex is easier. 
 
 
 

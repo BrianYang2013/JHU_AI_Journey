@@ -23,7 +23,7 @@ Refresh course in FA21 term. It seems very demanding.
   - **Simplify**: Simplify the explanation
 - Discussion: Critical thinking
 
-# Routine - Draft
+## Routine - Draft
 
 Wednesday: 
 
@@ -53,13 +53,34 @@ Tuesday: Due day, wrap up:
 - Home work. 
 - Lab assignment
 
-# Check-in 
+## Check List
+
+- [x] **zyBooks**
+- [x] **Discussion: Post**
+- [ ] Lecture
+- [ ] **Prompts**: How? 
+- [ ] **Homework**
+- [ ] **Programming Assignments**
+- [ ] Office hour - Thursday
+- [ ] Office hour - Sunday
+- [ ] Office hour - Saturday
+- [ ] **Quizzes**
+- [ ] **Discussion: Reply 1**
+- [ ] **Discussion: Reply 2** 
+- [ ] **Discussion: Reply 3**
+- [ ] Wrap up: Review all above scoring section in bold. 
+
+## Check-in 
 
 - 10-15 hours per week. Idearly 25 hours: 2 hours per weekday, 8 hours per weekend. 
 - Coding everyday
 - Take days off to focus on study if needed (before Lab, middle, final)
 
-# Points
+## Survivor tips
+
+
+
+## Points
 
 - Homework Assignments: Weekly. Focus on logic.  A reasonable, in-depth, and sincere effort
 
@@ -77,11 +98,12 @@ Tuesday: Due day, wrap up:
 
 - Quizzes: Average of two attempts
 
-- Extra points
-  - 10 - Home work assignment
-  - 10 - Programming Assignments: Extra Enhancements, 2 points cap per lab. 
-  - 4 - Prompt: Questions in lectural. Note down answer and submit as PDF, include your name. List with number, only contain answer. a reasonable and sincere effort
-  - 7 - Quzzies. 
+### Extra points
+
+- 10 - Home work assignment
+- 10 - Programming Assignments: Extra Enhancements, 2 points cap per lab. 
+- 4 - Prompt: Questions in lectural. Note down answer and submit as PDF, include your name. List with number, only contain answer. a reasonable and sincere effort
+- 7 - Quzzies. 
 
 # Notes
 
@@ -89,6 +111,18 @@ Tuesday: Due day, wrap up:
 
 - The quiz-0 come with lots of details. System gives 2 attemps but the second one slightly worse than the first. Well, need more focus and better preparation.  
 - Sept-02, first office hour. Now I know why we have 3 office hours. Maybe I should plan 30 hours per week on this course. 
+
+2021-09-08 W02 Reflect: Turns into the ruthless scoring machine mode. Just focus on the points. LOL
+
+- Secure the baisc points, zyBooks, discussion
+  - Make sure sync the zyBooks, I heard Java group encountered issue on sync. 
+  - Post 3 days with 4 posts per week. High quality posts may include references, quotes, links, or diagrams or images
+- Get points on Homework, Quiz
+  - This course is not well organized. 
+  - Think from the teacher view. Some quizzes does not make sense in the real world but make sense as a course. Focus on the criteria and get the score. 
+  - Separate the knowledge, study, and passing the course. They are different. 
+  - We already get experiment for fun in the week 1.Now its time for score. 
+- Prepare for the lab, start as early as possible. 
 
 # Areas to improve
 
@@ -104,11 +138,12 @@ Tuesday: Due day, wrap up:
 
 # Reference
 
+[Rule of writing pseudocode](https://towardsdatascience.com/pseudocode-101-an-introduction-to-writing-good-pseudocode-1331cb855be7)
+
 Optional Textbooks:
 
 - Augenstein, M. J., Langsam, Y., & Tenenbaum, A. M. (1995). *Data Structures Using C and C++.* Pearson. ISBN-10: 0130369977 OR ISBN-13: 978-0130369970
-- Carrano, F., & Henry, T. (2016). *Data Abstraction & Problem Solving with C++: Walls and Mirrors* (7th ed). Pearson. ISBN-10: 0134463978 OR ISBN-13: 978-0134463971
-  - [Amazon](https://www.amazon.com/Data-Abstraction-Problem-Solving-Mirrors/dp/0134463978/ref=sr_1_1?dchild=1&keywords=Data+Abstraction+%26+Problem+Solving+with+C%2B%2B%3A+Walls+and+Mirrors&qid=1630507196&s=books&sr=1-1)
+- Carrano, F., & Henry, T. (2016). *Data Abstraction & Problem Solving with C++: Walls and Mirrors* (7th ed). Pearson. ISBN-10: 0134463978 OR ISBN-13: 978-0134463971[Amazon Link](https://www.amazon.com/Data-Abstraction-Problem-Solving-Mirrors/dp/0134463978/ref=sr_1_1?dchild=1&keywords=Data+Abstraction+%26+Problem+Solving+with+C%2B%2B%3A+Walls+and+Mirrors&qid=1630507196&s=books&sr=1-1)
 - Augenstein, M. J., & Langsam, Y., & Tenenbaum, A. M. (2003). *Data Structures Using Java*. Prentice Hall. ISBN-10: 0130477214 OR ISBN-13: 978-0130477217
 - Prichard, J. J., & Carrano, F. M. (2010). *Data abstraction and problem solving with java: Walls and Mirrors* (3rd Ed.). Addison Wesley. ISBN-10: 0132122308 ISBN-13: 978-0132122306
 - Miller, B. N., & Ranum, D. L. (2005). *Problem Solving with Algorithms and Data structures Using Python*. Franklin Beedle and Association. ISBN-10: 1590280539 OR ISBN-13: 978-1590280539
