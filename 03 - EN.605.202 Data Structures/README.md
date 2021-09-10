@@ -78,7 +78,19 @@ Tuesday: Due day, wrap up:
 
 ## Survivor tips
 
+- zyBooks. Read the homework but not start it. Lecture. Office Hour on Thruday night. HW. Quizzes (but not the last day)
+  - Don't start HW before the Thursday office hour. The interpretation of the problems will always surprise you. 
+- Use source version control: It will save your project and lab, at least once. 
+- Blackboard might slow, if too many students doing the quiz at the last day. 
+- All module 5 will focus on Labs
+- Check out the programming resources. Helpful. Some code allow some not (due to languages)
+- Repost Module 2 and 3: Posts before the module start might be deleted. 
 
+- Compile Python: 
+  - Folder , relative path. 
+  - Use module. 
+  - Use relative path. 
+  - Input from the command line. 
 
 ## Points
 

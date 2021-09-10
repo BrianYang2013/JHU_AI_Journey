@@ -1,5 +1,11 @@
 # Module 2: Stacks
 
+## Module 2A: Stacks Part 1
+
+Stack: Ordered, LIFO. Deleted when pop. 
+
+
+
 ##  2.1 Stack abstract data type (ADT)
 
 A **stack** is an ADT in which items are only inserted on or removed from the top of a stack. **Lastin-first-out.** 
