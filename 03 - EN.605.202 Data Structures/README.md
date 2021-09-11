@@ -85,7 +85,7 @@ Tuesday: Due day, wrap up:
 - All module 5 will focus on Labs
 - Check out the programming resources. Helpful. Some code allow some not (due to languages)
 - Repost Module 2 and 3: Posts before the module start might be deleted. 
-
+- Everyday you got some surprise. Keep a note and move on. 
 - Compile Python: 
   - Folder , relative path. 
   - Use module. 
@@ -150,7 +150,9 @@ Tuesday: Due day, wrap up:
 
 # Reference
 
-[Rule of writing pseudocode](https://towardsdatascience.com/pseudocode-101-an-introduction-to-writing-good-pseudocode-1331cb855be7)
+- [Rule of writing pseudocode](https://towardsdatascience.com/pseudocode-101-an-introduction-to-writing-good-pseudocode-1331cb855be7)
+
+- [Infix / Postfix converter](https://www.mathblog.dk/tools/infix-postfix-converter/)
 
 Optional Textbooks:
 
