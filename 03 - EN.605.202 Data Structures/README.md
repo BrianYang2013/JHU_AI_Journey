@@ -57,14 +57,14 @@ Tuesday: Due day, wrap up:
 
 - [x] **zyBooks**
 - [x] **Discussion: Post**
-- [ ] Lecture
+- [x] Lecture
+- [ ] **Quizzes**
 - [ ] **Prompts**: How? 
 - [ ] **Homework**
 - [ ] **Programming Assignments**
-- [ ] Office hour - Thursday
+- [x] Office hour - Thursday
 - [ ] Office hour - Sunday
 - [ ] Office hour - Saturday
-- [ ] **Quizzes**
 - [ ] **Discussion: Reply 1**
 - [ ] **Discussion: Reply 2** 
 - [ ] **Discussion: Reply 3**
@@ -81,11 +81,13 @@ Tuesday: Due day, wrap up:
 - zyBooks. Read the homework but not start it. Lecture. Office Hour on Thruday night. HW. Quizzes (but not the last day)
   - Don't start HW before the Thursday office hour. The interpretation of the problems will always surprise you. 
 - Use source version control: It will save your project and lab, at least once. 
-- Blackboard might slow, if too many students doing the quiz at the last day. 
-- All module 5 will focus on Labs
-- Check out the programming resources. Helpful. Some code allow some not (due to languages)
-- Repost Module 2 and 3: Posts before the module start might be deleted. 
-- Everyday you got some surprise. Keep a note and move on. 
+- Quiz: Blackboard might slow, if too many students doing the quiz at the last day. 
+- Lab: All module 5 will focus on Labs
+- Resource: Check out the programming resources. Helpful. Some code allow some not (due to languages)
+- Discuss: Repost Module 2 and 3: Posts before the module start WILL be deleted. It confuse people because Module 2 discussion post stats that it is based on Module 1. 
+- Discussion: If you have to re-post it, add the URL and a disclaimer. To avoid plagiarism
+- Discuss: 4 posts over three days per week. 
+- General: Everyday you got some surprise. Keep a note and move on. 
 - Compile Python: 
   - Folder , relative path. 
   - Use module. 
@@ -152,6 +154,8 @@ Tuesday: Due day, wrap up:
 
 - [Rule of writing pseudocode](https://towardsdatascience.com/pseudocode-101-an-introduction-to-writing-good-pseudocode-1331cb855be7)
 
+- [Infix to Postfix Converter with Steps](https://www.free-online-calculator-use.com/infix-to-postfix-converter.html#)
+- [Infix to Prefix Converter with Steps](https://www.free-online-calculator-use.com/infix-to-prefix-converter.html)
 - [Infix / Postfix converter](https://www.mathblog.dk/tools/infix-postfix-converter/)
 
 Optional Textbooks:

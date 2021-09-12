@@ -44,7 +44,7 @@ Sunday: Coding. Pre-read next chapter.
 # Tips
 
 - Points for understanding. So write down the detail, show the notation. 
-- Start from the definition, follow the formula. 
+- Start from the definition, follow the formula. Sometimes the distribution is not as you assume, it might be complex. 
 
 # Notes
 

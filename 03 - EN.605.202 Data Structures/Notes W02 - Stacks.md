@@ -2,9 +2,52 @@
 
 ## Module 2A: Stacks Part 1
 
-Stack: Ordered, LIFO. Deleted when pop. 
+Stack: 
 
+- Ordered, LIFO. Deleted when pop. 
+- Homework: Push and Pop are standard opereation, Is_Empty is not. 
+- Lectures: Push, Pop, Is_Empty, constructor are standard opereation. Peek and ClearStack are optional. 
 
+infix, prefix, postfix
+
+- **Ordre of the number won't change.** 
+- $ will be used for exponential, instead of functin or ^, **
+- Postfix
+  - Left to right: General rule for same precedence.
+  - Exception: Process right to left. 
+    - 2 \$ 3\$2 = 2 \$ (3 \$2) = 2^9 = 512. Not (2\$3)\$2 =8^2=64
+    - $A \$_1B\$_2C = ABC\$_2\$_1$
+- Postfix sequence: B op A. Older items on stack are further to the left. 
+- Prefix: Read from right. A op B. Older items on stack are further to the right. 
+- Infix to postfix rule: 
+  - Parentheses require special handling. Still within precedence rules
+  - Pseducode:
+    - Operand, output. 
+    - Operator, compare with stack top. higher push in, lower or equal pop/push in. 
+    - End: pop. 
+    - Treat ( ) conceptually as separate problem
+
+- Inflix to prefix rule
+  - Process from right to left
+  - Pseducode
+    - Operand, output. 
+    - Operator, compare with stack top. higher push in, lower or equal pop (add to left)/push in. 
+    - End: pop. 
+    - Treat ( ) conceptually as separate problem
+
+Stack Implementation
+
+- Overflow (insert into a full stack) and Underflow (delete from an empty stack)
+- Array: 
+  - Pro: Random access
+  - Cons: Limited size(static). Requires homogeneous, 
+  - Need a Top pointer and Array for data
+- Linked Array
+  - Pro: No size limits (dynamic)
+  - Cons: Sequence access(only care top, not a big problem). Require homogeneous
+  - Need Top pointer. 
+
+Deep copy
 
 ##  2.1 Stack abstract data type (ADT)
 
