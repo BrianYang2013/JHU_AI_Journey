@@ -58,17 +58,17 @@ Tuesday: Due day, wrap up:
 - [x] **zyBooks**
 - [x] **Discussion: Post**
 - [x] Lecture
-- [ ] **Quizzes**
-- [ ] **Prompts**: How? 
+- [x] **Quizzes**
 - [ ] **Homework**
 - [ ] **Programming Assignments**
 - [x] Office hour - Thursday
 - [ ] Office hour - Sunday
 - [ ] Office hour - Saturday
-- [ ] **Discussion: Reply 1**
-- [ ] **Discussion: Reply 2** 
+- [x] **Discussion: Reply 1**
+- [x] **Discussion: Reply 2** 
 - [ ] **Discussion: Reply 3**
 - [ ] Wrap up: Review all above scoring section in bold. 
+- [ ] Download zyBooks for future reference. 
 
 ## Check-in 
 
@@ -137,6 +137,7 @@ Tuesday: Due day, wrap up:
   - Separate the knowledge, study, and passing the course. They are different. 
   - We already get experiment for fun in the week 1.Now its time for score. 
 - Prepare for the lab, start as early as possible. 
+- All activities get recorded. Scott knows that I start honor pledge 2 weeks before the course. 
 
 # Areas to improve
 

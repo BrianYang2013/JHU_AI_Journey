@@ -12,28 +12,50 @@ infix, prefix, postfix
 
 - **Ordre of the number won't change.** 
 - $ will be used for exponential, instead of functin or ^, **
-- Postfix
-  - Left to right: General rule for same precedence.
-  - Exception: Process right to left. 
-    - 2 \$ 3\$2 = 2 \$ (3 \$2) = 2^9 = 512. Not (2\$3)\$2 =8^2=64
-    - $A \$_1B\$_2C = ABC\$_2\$_1$
-- Postfix sequence: B op A. Older items on stack are further to the left. 
-- Prefix: Read from right. A op B. Older items on stack are further to the right. 
+- General rule for same precedence. Exception: $ Process right to left. 
+  - 2 \$ 3\$2 = 2 \$ (3 \$2) = 2^9 = 512. Not (2\$3)\$2 =8^2=64
+  - $A \$_1B\$_2C = ABC\$_2\$_1$
+- **Evaluate** 
+  - Operand push in. Operator, pop 2 and evaluate. 
+  - Postfix: Read from Left. B op A. Older items on stack are further to the left. 
+  - Prefix: Read from right. A op B. Older items on stack are further to the right. 
 - Infix to postfix rule: 
+  - Process from **left** to right
   - Parentheses require special handling. Still within precedence rules
   - Pseducode:
     - Operand, output. 
-    - Operator, compare with stack top. higher push in, lower or equal pop/push in. 
+    - Operator, compare with stack top. **higher push in**, lower or equal pop/push in. 
     - End: pop. 
     - Treat ( ) conceptually as separate problem
 
 - Inflix to prefix rule
-  - Process from right to left
+  - Process inflix string from **right** to left
   - Pseducode
-    - Operand, output. 
-    - Operator, compare with stack top. higher push in, lower or equal pop (add to left)/push in. 
+    - Operand, output to the left
+    - Operator, compare with stack top. **higher push in**, lower or equal pop/push lower operand. 
     - End: pop. 
     - Treat ( ) conceptually as separate problem
+
+Quick Reference: 
+
+| **Read**     | **Stack**  | **Action** (infix to prefix, from right to left)     |
+| ------------ | ---------- | ---------------------------------------------------- |
+| **Operand**  |            | Output (from right to left)                          |
+| **Operator** | > Top      | Push. Also for empty                                 |
+| **Operator** | <=Top      | Pop top operator and push in                         |
+| **)**        |            | Push                                                 |
+| **(**        | Pop till ) | Output operator between ( ), with top-down sequence. |
+| **END**      |            | Pop all                                              |
+
+
+
+| Read         | Stack      | Action (infix to postfix, from left to right)               |
+| ------------ | ---------- | ----------------------------------------------------------- |
+| **(**        |            | Push                                                        |
+| **Operand**  |            | Output                                                      |
+| **Operator** | <=Top      | Pop top operator and push in (=: left-to-right associative) |
+| **Operator** | >Top       | Push. Also for empty                                        |
+| **)**        | Pop till ( | Output operator between ( ), with top-down sequence.        |
 
 Stack Implementation
 
