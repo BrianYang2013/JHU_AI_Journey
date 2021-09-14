@@ -75,6 +75,7 @@ Tuesday: Due day, wrap up:
 - 10-15 hours per week. Idearly 25 hours: 2 hours per weekday, 8 hours per weekend. 
 - Coding everyday
 - Take days off to focus on study if needed (before Lab, middle, final)
+- Always add new features to your lab work. 
 
 ## Survivor tips
 
