@@ -26,11 +26,11 @@ Sunday: Coding. Pre-read next chapter.
 - [x] Reading 2
 - [x] Mindmap draft
 - [x] Coding
-- [ ] Lecture
-- [ ] Mindmap finalize and release
-- [ ] Office hour
-- [ ] Practical Exercises
-- [ ] Wrap up practical exercises
+- [x] Lecture
+- [x] Mindmap finalize and release
+- [x] Office hour
+- [x] Practical Exercises
+- [x] Wrap up practical exercises
 - [ ] Wrap up course
 - [ ] Extra - More practice
 
@@ -40,6 +40,11 @@ Sunday: Coding. Pre-read next chapter.
 - 50+ pages per week. 25+ per day. 
 - Take days off to focus on study if needed (before Lab, middle, final)
 - Skim through exercises, width > depth (for a introduction course)
+
+# Tips
+
+- Points for understanding. So write down the detail, show the notation. 
+- Start from the definition, follow the formula. Sometimes the distribution is not as you assume, it might be complex. 
 
 # Notes
 
