@@ -55,17 +55,17 @@ Tuesday: Due day, wrap up:
 
 ## Check List
 
-- [x] **zyBooks**
+- [ ] **zyBooks**
 - [x] **Discussion: Post**
-- [x] Lecture
-- [x] **Quizzes**
+- [ ] Lecture
+- [ ] **Quizzes**
 - [ ] **Homework**
 - [ ] **Programming Assignments**
-- [x] Office hour - Thursday
+- [ ] Office hour - Thursday
 - [ ] Office hour - Sunday
 - [ ] Office hour - Saturday
-- [x] **Discussion: Reply 1**
-- [x] **Discussion: Reply 2** 
+- [ ] **Discussion: Reply 1**
+- [ ] **Discussion: Reply 2** 
 - [ ] **Discussion: Reply 3**
 - [ ] Wrap up: Review all above scoring section in bold. 
 - [ ] Download zyBooks for future reference. 
@@ -75,7 +75,8 @@ Tuesday: Due day, wrap up:
 - 10-15 hours per week. Idearly 25 hours: 2 hours per weekday, 8 hours per weekend. 
 - Coding everyday
 - Take days off to focus on study if needed (before Lab, middle, final)
-- Always add new features to your lab work. 
+- Always add new features to your lab work. Finish all requirement will get 90%, extra will get 100%, new feature get extra 2 points. 
+- Always incude URL, pictures in the post. Always. 
 
 ## Survivor tips
 
@@ -108,9 +109,8 @@ Tuesday: Due day, wrap up:
 
 - Discussion/Participation
   - Discussion: post an original post to each discussion question + reply to at least two of your different classmate's postings. With unique fun titles+ your name
-  - Prompts:
   - Online text interaction: Can work ahead. 
-
+  
 - Quizzes: Average of two attempts
 
 ### Extra points
@@ -132,13 +132,26 @@ Tuesday: Due day, wrap up:
 - Secure the baisc points, zyBooks, discussion
   - Make sure sync the zyBooks, I heard Java group encountered issue on sync. 
   - Post 3 days with 4 posts per week. High quality posts may include references, quotes, links, or diagrams or images
+  
 - Get points on Homework, Quiz
   - This course is not well organized. 
   - Think from the teacher view. Some quizzes does not make sense in the real world but make sense as a course. Focus on the criteria and get the score. 
   - Separate the knowledge, study, and passing the course. They are different. 
   - We already get experiment for fun in the week 1.Now its time for score. 
+  
 - Prepare for the lab, start as early as possible. 
+
 - All activities get recorded. Scott knows that I start honor pledge 2 weeks before the course. 
+
+  
+
+  
+
+2021-09-14 W03 Reflect
+
+- For W02, I think I spent 10 hours per weekend and most of the night, so 30+ hours. 
+- Surprise to see I get full credit from the HW1. After some fun testing which waste a few points, now I am above median on all category now. 
+- Haven't start lab yet, need to catch up. It will due on Module 5 but some early work can start now. 
 
 # Areas to improve
 
