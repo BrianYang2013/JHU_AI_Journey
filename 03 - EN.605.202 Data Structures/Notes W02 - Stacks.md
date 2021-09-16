@@ -90,6 +90,8 @@ Q:
 - An empty stack is indicated by a list head pointer value of (Null. It seems by default will assume it initialized to Null )
 - StackPop returns list's head node. (F. Return the data, not node)
 
+## 2.2 Stacks using linked lists
+
 # Misc
 
 - ++ i is faster than i++ back to the old day, when the variable put into the register. 

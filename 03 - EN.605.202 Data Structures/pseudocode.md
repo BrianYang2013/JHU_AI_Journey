@@ -1,6 +1,6 @@
 
 
-### 1.5.4: Non-optimal, heuristic algorithm to solve the 0-1 knapsack.
+### 1.5 Heuristics
 
 ```
 Knapsack01(knapsack, itemList, itemListSize) {
@@ -15,7 +15,7 @@ Knapsack01(knapsack, itemList, itemListSize) {
 }
 ```
 
-### 1.6.1: Algorithm to determine the top five salespersons using an array.
+### 1.6 Relation between data structures and algorithms
 
 ```
 DisplayTopFiveSalespersons(allSalespersons) {
@@ -51,7 +51,7 @@ DisplayTopFiveSalespersons(allSalespersons) {
 }
 ```
 
-### 1.7.4: FindFirstLessThan algorithm best and worst case.
+### 1.7 Algorithm efficiency
 
 ```
 FindFirstLessThan(list, listSize, value) {
@@ -62,8 +62,6 @@ FindFirstLessThan(list, listSize, value) {
    return value // no lesser value found
 }
 ```
-
-### 1.7.6: FindMax space complexity and auxiliary space complexity.
 
 ```
 FindMax(list, listSize) {
@@ -81,8 +79,6 @@ FindMax(list, listSize) {
 }
 ```
 
-### 1.7.7: Space complexity of GetEvens function.
-
 builds and returns a list of even numbers from the input list.
 
 ```
@@ -98,7 +94,7 @@ GetEvens(list, listSize) {
 }
 ```
 
-### 1.10.2: Runtime complexities
+### 1.10 O notation
 
 $O(1)$, Constant
 
@@ -206,3 +202,64 @@ Fibonacci(N) {
   return Fibonacci(N-1) + Fibonacci(N-2)
 }
 ```
+
+### 3.3 Recursive definitions
+
+```
+Factorial(N) {
+   if (N == 1)
+      return 1
+   else
+      return N * Factorial(N - 1)
+}
+```
+
+```
+CumulativeSum(N) {
+   if (N == 0)
+      return 0
+   else
+      return N + CumulativeSum(N - 1)
+}
+```
+
+```
+ReverseList(list, startIndex, endIndex) {
+   if (startIndex >= endIndex)
+      return
+   else {
+      Swap elements at startIndex and endIndex
+      ReverseList(list, startIndex + 1, endIndex - 1)
+   }
+}
+```
+
+### 3.5 Recursive algorithms
+
+```
+FibonacciNumber(termIndex) {
+   if (termIndex == 0)
+      return 0
+   else if (termIndex == 1)
+      return 1
+   else
+      return FibonacciNumber(termIndex - 1) + FibonacciNumber(termIndex - 2)
+}
+```
+
+```
+BinarySearch(numbers, low, high, key) {
+   if (low > high)
+      return -1
+
+   mid = (low + high) / 2						# / always return float. // might return float like 5//2.  
+   if (numbers[mid] < key) {
+      return BinarySearch(numbers, mid + 1, high, key)
+   }
+   else if (numbers[mid] > key) {
+      return BinarySearch(numbers, low, mid - 1, key)
+   }
+   return mid
+}
+```
+
