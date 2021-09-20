@@ -1,6 +1,38 @@
 # Module 3 - Recursion
 
-## Lecture
+## Course Module
+
+### Office Hour
+
+When do we start? Start with base case, when we stop. Make problem smaller. 
+
+Or think start from bottom and back
+
+
+
+### Lecture
+
+
+
+Breakdown recursive to local variables during development. Easy for debug. 
+
+Issues on recursion:
+
+- Inefficient via redundancy. Solution: Memorization: Store the result in a table for future re-use
+  - Organize
+  - How big
+  - Extra work to maintain and check
+- Recursion is a resource hog. May resolve fewer cases than the iteration version. 
+
+Binary search
+
+Max array 
+
+Kth smallest value problem
+
+- Select pivot. 
+- Partition Array
+- Recursively apply process to one partition. 
 
 ## 3.1 Recursion: Introduction, Functions, Definitions
 
@@ -48,12 +80,24 @@ Interesting idea on mid-1 and mid+1
 
 ### 3.8 Adding output statements for debugging
 
-W03 Recursive findname.py
+A good example: W03 Recursive findname.py
+
+- Add a indicate parameters
+- Add more space to indent parameter for each recursive call. 
+
+Some programmers like to leave the output statements in the code, commenting them out with "#" when not in use. The statements actually serve as a form of comment. 
 
 More advanced techniques for handling debug output exist too, such as the *[logging](http://docs.python.org/3/library/logging.html)* Python standard library
 
+### 3.9 Recursive exploration of all possibilities
+
+All possible reorderings of a word's letters: W03 Recursive Scramble　
+
+All possible subsets of items: W03 Recursive ShoppingBagCombinations
+
+All possible paths between cities: `W03 Recursive TravelPaths` => **Need review!** 
 
 
-3.9 Recursive exploration of all possibilities
+
 3.10 Greedy algorithms - Optional
 3.11 Dynamic programming - Optional

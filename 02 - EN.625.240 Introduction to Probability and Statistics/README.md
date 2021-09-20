@@ -23,14 +23,14 @@ Sunday: Coding. Pre-read next chapter.
 ## Check List
 
 - [x] Reading 1
-- [ ] Reading 2
+- [x] Reading 2
 - [x] Mindmap draft
 - [ ] Coding
-- [ ] Lecture
-- [ ] Mindmap finalize and release
-- [ ] Office hour
-- [ ] Practical Exercises
-- [ ] Wrap up practical exercises
+- [x] Lecture
+- [x] Mindmap finalize and release
+- [x] Office hour
+- [x] Practical Exercises
+- [x] Wrap up practical exercises
 - [ ] Wrap up course
 - [ ] Extra - More practice
 
@@ -51,6 +51,11 @@ Sunday: Coding. Pre-read next chapter.
 2021-08-31 W01 Reflect:
 
 - What is the pro and cons of each measurment? Why we need them? Apply to which scenarios? 
+
+2021-09-19 W03 Reflect:
+
+- I found an interesting problem in the quiz, wasted a lot of time, and successfully annoyed the grader. Log it down and post it as an article. A good probability questions with coincidence solutions. 
+- My second attempt came with some mistakes. I saw a few was my careless, and a few might adjust later. Don't expect a change in the best score, so basically waste 2 hours. Maybe not worth the time, especially since this semester is very demanding. 
 
 # Coding Reference
 
