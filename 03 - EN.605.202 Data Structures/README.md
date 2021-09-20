@@ -28,13 +28,13 @@ Refresh course in FA21 term. It seems very demanding.
 - [x] **zyBooks**
 - [ ] zyBooks Optional
 - [x] **Discussion: Post**
-- [ ] Lectures
+- [x] Lectures
 - [x] Extra credit question
-- [ ] **Quizzes**
+- [x] **Quizzes**
 - [x] **Homework**
 - [ ] **Programming Assignments - Lab 0**
 - [ ] **Programming Assignments - Lab 1**
-- [x] Office hour - Thursday
+- [ ] Office hour - Thursday
 - [ ] Office hour - Sunday
 - [ ]    Office hour - Saturday
 - [x] **Discussion: Reply 1**
@@ -146,15 +146,14 @@ Tuesday: Due day, wrap up:
 
 - All activities get recorded. Scott knows that I start honor pledge 2 weeks before the course. 
 
-  
-
-  
 
 2021-09-14 W03 Reflect
 
 - For W02, I think I spent 10 hours per weekend and most of the night, so 30+ hours. 
 - Surprise to see I get full credit from the HW1. After some fun testing which waste a few points, now I am above median on all category now. 
 - Haven't start lab yet, need to catch up. It will due on Module 5 but some early work can start now. 
+- 9/19, finished everything in W03. Cool, I catch up with the schedule. I need to start lab 0 and lab 1. 
+- From the lecture, I can see our professor really really love recursion. She spent half of the video talking about 2 real recursion languages. So when I was taking the ugly multiply words selection problem, I started with some reasonable results. But I decided to spend my last 5 minutes double-checking the lecture and what she said—a strange choice of the words, but Bingo, no issues. 
 
 # Areas to improve
 

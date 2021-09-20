@@ -8,11 +8,7 @@ When do we start? Start with base case, when we stop. Make problem smaller.
 
 Or think start from bottom and back
 
-
-
 ### Lecture
-
-
 
 Breakdown recursive to local variables during development. Easy for debug. 
 
@@ -33,6 +29,23 @@ Kth smallest value problem
 - Select pivot. 
 - Partition Array
 - Recursively apply process to one partition. 
+
+Motivation
+
+- Simple, elegant, brief solution
+- Best use of programmer effort. 
+- More intuitive
+- Possible "Proof of correctness" available. 
+
+Debug:
+
+- Use boxes to illustrate the reursion instance, which helps planning. 
+- Use indentation
+- Pass by value, not by reference. May optimize it after it works. 
+- Use local variables freely. 
+- Use Memorization. 
+
+Simulating Recursion
 
 ## 3.1 Recursion: Introduction, Functions, Definitions
 
