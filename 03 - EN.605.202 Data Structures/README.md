@@ -36,7 +36,7 @@ Refresh course in FA21 term. It seems very demanding.
 - [ ] **Programming Assignments - Lab 1**
 - [ ] Office hour - Thursday
 - [ ] Office hour - Sunday
-- [ ]    Office hour - Saturday
+- [x]    Office hour - Monday
 - [x] **Discussion: Reply 1**
 - [x] **Discussion: Reply 2** 
 - [x] **Discussion: Reply 3**
