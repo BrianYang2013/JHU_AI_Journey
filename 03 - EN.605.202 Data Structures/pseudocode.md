@@ -263,3 +263,112 @@ BinarySearch(numbers, low, high, key) {
 }
 ```
 
+### 4.2 Queues using linked lists
+
+```
+QueueEnqueue(queue, item) {
+   newNode = Allocate new linked list node
+   newNode⇢next = null
+   newNode⇢data = item
+
+   // Insert node as list tail (end of queue)
+   ListAppend(queue, newNode)
+}
+
+QueueDequeue(queue) {
+   headData = queue⇢head⇢data
+   ListRemoveAfter(queue, null)
+   return headData
+}
+```
+
+### 4.5 Array-based lists
+
+```
+ArrayListAppend(list, newItem) {
+   if (list⇢allocationSize == list⇢length) {
+      ArrayListResize(list, list⇢length * 2)
+   }
+   list⇢array[list⇢length] = newItem
+   list⇢length = list⇢length + 1
+}
+
+ArrayListResize(list, newAllocationSize) {
+   newArray = new array of size newAllocationSize
+   Copy all elements from list⇢array to newArray
+   list⇢array = newArray
+   list⇢allocationSize = newAllocationSize
+}
+```
+
+```
+ArrayListPrepend(list, newItem) {
+   if (list⇢allocationSize == list⇢length) {
+      ArrayListResize(list, list⇢length * 2)
+   }
+   for (i = list⇢length; i > 0; i--) {
+      list⇢array[i] = list⇢array[i - 1]
+   }
+   list⇢array[0] = newItem
+   list⇢length = list⇢length + 1
+}
+
+ArrayListInsertAfter(list, index, newItem) {
+   if (list⇢allocationSize == list⇢length) {
+      ArrayListResize(list, list⇢length * 2)
+   }
+   for (i = list⇢length; i > index + 1; i--) {
+      list⇢array[i] = list⇢array[i - 1]
+   }
+   list⇢array[index + 1] = newItem
+   list⇢length = list⇢length + 1
+}
+```
+
+```
+ArrayListSearch(list, item) {
+   for (i = 0; i < list⇢length; i++) {
+      if (list⇢array[i] == item) {
+         return i
+      }
+   }
+   return -1 // not found
+}
+ 
+ArrayListRemoveAt(list, index) {
+   if (index >= 0 && index < list⇢length) {
+      for (i = index; i < list⇢length - 1; i++) {
+         list⇢array[i] = list⇢array[i + 1]
+      }
+      list⇢length = list⇢length - 1
+   }
+}
+```
+
+### 4.6: Singly-linked lists
+
+```
+ListAppend(list, newNode) {
+   if (list⇢head == null) { // List empty
+      list⇢head = newNode
+      list⇢tail = newNode
+   }
+   else{
+      list⇢tail⇢next = newNode
+      list⇢tail = newNode
+   }
+}
+```
+
+```
+ListPrepend(list, newNode) {
+   if (list⇢head == null) { // list empty
+      list⇢head = newNode
+      list⇢tail = newNode
+   }
+   else {
+      newNode⇢next = list⇢head
+      list⇢head = newNode
+   }
+}
+```
