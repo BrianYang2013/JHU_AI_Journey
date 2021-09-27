@@ -1,5 +1,3 @@
-
-
 ### 1.5 Heuristics
 
 ```
@@ -369,6 +367,180 @@ ListPrepend(list, newNode) {
    else {
       newNode⇢next = list⇢head
       list⇢head = newNode
+   }
+}
+```
+
+```
+ListInsertAfter(list, curNode, newNode) {
+   if (list⇢head == null) { // List empty
+      list⇢head = newNode
+      list⇢tail = newNode
+   }
+   else if (curNode == list⇢tail) { // Insert after tail
+      list⇢tail⇢next = newNode
+      list⇢tail = newNode
+   }
+   else {
+      newNode⇢next = curNode⇢next
+      curNode⇢next = newNode
+   }
+}
+```
+
+```
+ListRemoveAfter(list, curNode) {
+   // Special case, remove head
+   if (curNode is null && list⇢head is not null) {
+      sucNode = list⇢head⇢next
+      list⇢head = sucNode
+
+      if (sucNode is null) { // Removed last item
+         list⇢tail = null
+      }
+   }
+   else if (curNode⇢next is not null) {
+      sucNode = curNode⇢next⇢next
+      curNode⇢next = sucNode
+
+      if (sucNode is null) { // Removed tail
+         list⇢tail = curNode
+      }
+   }
+}
+```
+
+### 4.9 Linked list traversal
+
+```
+ListTraverse(list) {
+   curNode = list⇢head // Start at head
+
+   while (curNode is not null) { 
+      Print curNode's data        
+      curNode = curNode⇢next
+   }
+}
+```
+
+Reverse Traversal: Doubly linked list
+
+```
+ListTraverseReverse(list) {
+   curNode = list⇢tail // Start at tail
+
+   while (curNode is not null) { 
+      Print curNode's data        
+      curNode = curNode⇢prev
+   }
+}
+```
+
+Search, return node (not data!)
+
+```
+ListSearch(list, key) {
+   curNode = list⇢head
+   while (curNode is not null) {
+      if (curNode⇢data == key) {
+         return curNode
+      }
+      curNode = curNode⇢next
+   }
+   return null
+}
+```
+
+Recursion
+
+```
+ListTraverse(list) {
+   ListTraverseRecursive(list⇢head)
+}
+
+ListTraverseRecursive(node) {
+   if (node is not null) {
+      Visit node
+      ListTraverseRecursive(node⇢next)
+   }
+}
+```
+
+ListSearch and ListSearchRecursive functions
+
+```
+ListSearch(list, key) {
+   return ListSearchRecursive(key, list⇢head)
+}
+
+ListSearchRecursive(key, node) {
+   if (node is not null) {
+      if (node⇢data == key) {
+         return node
+      }
+      return ListSearchRecursive(key, node⇢next)
+   }
+   return null
+}
+```
+
+
+
+```
+ListTraverseReverse(list) {
+   ListTraverseReverseRecursive(list⇢head)
+}
+
+ListTraverseReverseRecursive(node) {
+   if (node is not null) {
+      ListTraverseReverseRecursive(node⇢next)
+      Visit node
+   }
+}
+```
+
+Linked lists: Recursion
+
+```
+ListTraverse(list) {
+   ListTraverseRecursive(list⇢head)
+}
+
+ListTraverseRecursive(node) {
+   if (node is not null) {
+      Visit node
+      ListTraverseRecursive(node⇢next)
+   }
+}
+```
+
+```
+ListSearch(list, key) {
+   return ListSearchRecursive(key, list⇢head)
+}
+
+ListSearchRecursive(key, node) {
+   if (node is not null) {
+      if (node⇢data == key) {
+         return node
+      }
+      return ListSearchRecursive(key, node⇢next)
+   }
+   return null
+}
+```
+
+ the recursive call is made first, the list is traversed in reverse order.
+
+```
+ListTraverseReverse(list) {
+   ListTraverseReverseRecursive(list⇢head)
+}
+
+ListTraverseReverseRecursive(node) {
+   if (node is not null) {
+      ListTraverseReverseRecursive(node⇢next)
+      Visit node
    }
 }
 ```

@@ -24,14 +24,14 @@ Sunday: Coding. Pre-read next chapter.
 
 - [x] Reading 1
 - [x] Reading 2
-- [ ] Mindmap draft
+- [x] Mindmap draft
 - [x] Coding
-- [ ] Lecture
-- [ ] Mindmap finalize and release
+- [x] Lecture
+- [x] Mindmap finalize and release
 - [x] Office hour
-- [ ] Practical Exercises
-- [ ] Wrap up practical exercises
-- [ ] Wrap up course
+- [x] Practical Exercises
+- [x] Wrap up practical exercises
+- [x] Wrap up course
 - [ ] Extra - More practice
 
 # Check-in

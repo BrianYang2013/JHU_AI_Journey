@@ -9,6 +9,11 @@ Example 4.21:
 
 ### 4.4.2 The Gamma Function
 
+Gamma function
+
+- gamma function of 1/2 = $\sqrt{\pi}$
+- gamma function of 1 = 1
+
 Example 4.23
 
 - gamma distribution alpha=2 beta=1 P(3<=X<=5)
