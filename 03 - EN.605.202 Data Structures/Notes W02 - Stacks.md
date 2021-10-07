@@ -73,7 +73,7 @@ Deep copy
 
 ##  2.1 Stack abstract data type (ADT)
 
-A **stack** is an ADT in which items are only inserted on or removed from the top of a stack. **Lastin-first-out.** 
+A **stack** is an ADT in which items are only inserted on or removed from the top of a stack. **Last-in-first-out.** 
 
 Table 2.1.1: Common stack ADT operations.
 

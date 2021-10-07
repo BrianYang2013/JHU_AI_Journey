@@ -544,3 +544,54 @@ ListTraverseReverseRecursive(node) {
    }
 }
 ```
+
+### 5.1 Doubly-linked lists
+
+```
+ListAppend(list, newNode) {
+   if (list⇢head == null) { // List empty
+      list⇢head = newNode
+      list⇢tail = newNode
+   }
+   else {
+      list⇢tail⇢next = newNode
+      newNode⇢prev = list⇢tail
+      list⇢tail = newNode
+   }
+}
+```
+
+```
+ListPrepend(list, newNode) {
+   if (list⇢head == null) { // List empty
+      list⇢head = newNode
+      list⇢tail = newNode
+   }
+   else {
+      newNode⇢next = list⇢head
+      list⇢head⇢prev = newNode
+      list⇢head = newNode
+   }
+}
+```
+
+```
+ListInsertAfter(list, curNode, newNode) {
+   if (list⇢head == null) { // List empty
+      list⇢head = newNode
+      list⇢tail = newNode
+   }
+   else if (curNode == list⇢tail) { // Insert after tail
+      list⇢tail⇢next = newNode
+      newNode⇢prev = list⇢tail
+      list⇢tail = newNode
+   }
+   else {
+      sucNode = curNode⇢next
+      newNode⇢next = sucNode
+      newNode⇢prev = curNode
+      curNode⇢next = newNode
+      sucNode⇢prev = newNode
+   }
+}
+```
