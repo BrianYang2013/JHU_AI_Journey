@@ -18,20 +18,21 @@ Friday: Extra materials. Exercise. **Finalize Practical Exercises**. Collaborati
 
 Saturday: Wrap up exercise.  Coding. 
 
-Sunday: Coding. Pre-read next chapter. 
+Sunday: Coding. Pre-read next chapter. ``
 
 ## Check List
 
-- [x] Reading 1
-- [x] Reading 2
-- [x] Mindmap draft
-- [x] Coding
-- [x] Lecture
-- [x] Mindmap finalize and release
-- [x] Office hour
-- [x] Practical Exercises
-- [x] Wrap up practical exercises
-- [x] Wrap up course
+- [ ] Check Course Module: What to read, what to focus this week
+- [ ] Reading 1
+- [ ] Reading 2
+- [ ] Mindmap draft
+- [ ] Coding
+- [ ] Lecture
+- [ ] Mindmap finalize and release
+- [ ] Office hour
+- [ ] Practical Exercises
+- [ ] Wrap up practical exercises
+- [ ] Wrap up course
 - [ ] Extra - More practice
 
 # Check-in
@@ -45,6 +46,9 @@ Sunday: Coding. Pre-read next chapter.
 
 - Points for understanding. So write down the detail, show the notation. 
 - Start from the definition, follow the formula. Sometimes the distribution is not as you assume, it might be complex. 
+- While using the mathematic tools, validate the result. In some cases it might not process well. 
+- Friday flowers, bagel, coffee (rather than beer)
+- Netflix: Picture a scientist.
 
 # Notes
 
@@ -62,4 +66,4 @@ Sunday: Coding. Pre-read next chapter.
 - [Document: pandas.DataFrame.describe](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.describe.html)
 - [Python Turtorial - Slice data](https://www.liaoxuefeng.com/wiki/1016959663602400/1017269965565856) 
 - [Matplot - hist](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.hist.html)
-- [Seaborn](https://seaborn.pydata.org)
+- [Seaborn](https://seaborn.pydata.org)`
