@@ -186,3 +186,21 @@ Optional Textbooks:
   - [Amazon, 2nd version](https://www.amazon.com/Problem-Solving-Algorithms-Structures-Python/dp/1590282574/ref=sr_1_1?dchild=1&keywords=Miller%2C+Problem+Solving+with+Algorithms+and+Data+structures+Using+Python&qid=1630471925&sr=8-1)
   - [Online Resource from runestone(Miller)](https://runestone.academy/runestone/books/published/pythonds/index.html)
   - [Another translated CN version](https://github.com/facert/python-data-structure-cn)
+
+
+
+Principle: Optimize during the compile time, rather than runtime. 
+
+- Register allocation
+  - Expression tree
+  - Local
+  - Loop
+  - Global: Graph coloring, linear scan, Graph fusion, over SSA, PBQP, puzzle solving, Model transformer semantics. 
+  - Interprocedural
+- Constant propagation
+- Constant folding
+- Dead code elimination
+- Common subexpression elimination
+- Software pipelining
+- strength reduction
+- 
