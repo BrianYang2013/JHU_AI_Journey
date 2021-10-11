@@ -14,6 +14,7 @@ Start from 2021 summer
   * If you want to introduce DS/ML/AI to your job, pick up the packages such as [Scikit-learn](https://scikit-learn.org/stable/#), [Xgboost](https://xgboost.readthedocs.io/en/latest/), or search a repo in Github.
   * If you are aiming to re-produce SOTA, go Github, conferences (such as ACL, ICML, NIPS, AAAI, IJCAI, ICCV, CVPR, KDD...), or Arxiv
   * If you want to take one course, you can find a LOT of free resources available online. Check [Resources](https://github.com/BrianYang2013/JHU_AI_Journey#resources)
+  * Think of taking a certificate, such as in Standford or Berkely. You got chance to study with the full time students on the SOTA. 
 * Misc: US degree, finance, time, risk and opportunity cost.
 * Read this one: [Why AI is Harder Than We Think](https://arxiv.org/pdf/2104.12871.pdf)
 

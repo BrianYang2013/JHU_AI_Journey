@@ -201,6 +201,25 @@ Fibonacci(N) {
 }
 ```
 
+### 2.2 Stacks using linked lists
+
+```
+StackPush(stack, item) {
+   newNode = Allocate new linked list node
+   newNode⇢next = null
+   newNode⇢data = item
+
+   // Insert as list head (top of stack)
+   ListPrepend(stack, newNode)
+}
+
+StackPop(stack) {
+   headData = stack⇢head⇢data
+   ListRemoveAfter(stack, null)
+   return headData
+}
+```
+
 ### 3.3 Recursive definitions
 
 ```
@@ -593,5 +612,323 @@ ListInsertAfter(list, curNode, newNode) {
       curNode⇢next = newNode
       sucNode⇢prev = newNode
    }
+}
+```
+
+```
+ListRemove(list, curNode) {
+   sucNode = curNode⇢next
+   predNode = curNode⇢prev
+
+   if (sucNode is not null) {
+      sucNode⇢prev = predNode
+   }
+
+   if (predNode is not null) {
+      predNode⇢next = sucNode
+   }
+
+   if (curNode == list⇢head) { // Removed head
+      list⇢head = sucNode
+   }
+
+   if (curNode == list⇢tail) { // Removed tail
+      list⇢tail = predNode
+   }
+}
+```
+
+#### Singly-linked list with dummy node
+
+```
+ListAppend(list, newNode) {
+   list⇢tail⇢next = newNode
+   list⇢tail = newNode
+}
+
+
+ListPrepend(list, newNode) {
+   newNode⇢next = list⇢head⇢next
+   list⇢head⇢next = newNode
+   if (list⇢head == list⇢tail) { // empty list
+      list⇢tail = newNode;
+   }
+}
+
+
+ListInsertAfter(list, curNode, newNode) {
+   if (curNode == list⇢tail) { // Insert after tail
+      list⇢tail⇢next = newNode
+      list⇢tail = newNode
+   }
+   else { 
+      newNode⇢next = curNode⇢next
+      curNode⇢next = newNode
+   }
+}
+
+
+ListRemoveAfter(list, curNode) {
+   if (curNode is not null and curNode⇢next is not null) {
+      sucNode = curNode⇢next⇢next
+      curNode⇢next = sucNode
+     
+      if (sucNode is null) {
+         // Removed tail
+         list⇢tail = curNode
+      }
+   }
+}
+```
+
+#### Doubly-linked list with dummy node
+
+```
+ListAppend(list, newNode) {
+   list⇢tail⇢next = newNode
+   newNode⇢prev = list⇢tail
+   list⇢tail = newNode
+}
+
+
+ListPrepend(list, newNode) {
+   firstNode = list⇢head⇢next
+
+   // Set the next and prev pointers for newNode
+   newNode⇢next = list⇢head⇢next
+   newNode⇢prev = list⇢head
+
+   // Set the dummy node's next pointer
+   list⇢head⇢next = newNode
+
+   // Set prev on former first node
+   if (firstNode is not null) {
+      firstNode⇢prev = newNode
+   }
+}
+
+
+ListInsertAfter(list, curNode, newNode) {
+   if (curNode == list⇢tail) { // Insert after tail
+      list⇢tail⇢next = newNode
+      newNode⇢prev = list⇢tail
+      list⇢tail = newNode
+   }
+   else {
+      sucNode = curNode⇢next
+      newNode⇢next = sucNode
+      newNode⇢prev = curNode
+      curNode⇢next = newNode
+      sucNode⇢prev = newNode
+   }
+}
+
+
+ListRemove(list, curNode) {
+   if (curNode == list⇢head) {
+      // Dummy node cannot be removed
+      return
+   }
+
+   sucNode = curNode⇢next 
+   predNode = curNode⇢prev 
+  
+   if (sucNode is not null) {
+      sucNode⇢prev = predNode   
+   }
+  
+   // Predecessor node is always non-null
+   predNode⇢next = sucNode
+  
+   if (curNode == list⇢tail) { // Removed tail
+      list⇢tail = predNode
+   }
+}
+
+ListInsertAfter(list, curNode, newNode) {
+   if (curNode == list⇢tail) {
+      // Can't insert after dummy tail
+      return
+   }
+   
+   sucNode = curNode⇢next
+   newNode⇢next = sucNode
+   newNode⇢prev = curNode
+   curNode⇢next = newNode
+   sucNode⇢prev = newNode
+}
+
+ListRemove(list, curNode) {
+   if (curNode == list⇢head || curNode == list⇢tail) {
+      // Dummy nodes cannot be removed
+      return
+   }
+
+   sucNode = curNode⇢next 
+   predNode = curNode⇢prev 
+  
+   // Successor node is never null
+   sucNode⇢prev = predNode
+  
+   // Predecessor node is never null
+   predNode⇢next = sucNode
+}
+```
+
+#### Doubly-linked list with 2 dummy nodes.
+
+```
+ListAppend(list, newNode) {
+   newNode⇢prev = list⇢tail⇢prev
+   newNode⇢next = list⇢tail
+   list⇢tail⇢prev⇢next = newNode
+   list⇢tail⇢prev = newNode
+}
+
+ListPrepend(list, newNode) {
+   firstNode = list⇢head⇢next
+   newNode⇢next = list⇢head⇢next
+   newNode⇢prev = list⇢head
+   list⇢head⇢next = newNode
+   firstNode⇢prev = newNode
+}
+
+ListInsertAfter(list, curNode, newNode) {
+   if (curNode == list⇢tail) {
+      // Can't insert after dummy tail
+      return
+   }
+   
+   sucNode = curNode⇢next
+   newNode⇢next = sucNode
+   newNode⇢prev = curNode
+   curNode⇢next = newNode
+   sucNode⇢prev = newNode
+}
+
+ListRemove(list, curNode) {
+   if (curNode == list⇢head || curNode == list⇢tail) {
+      // Dummy nodes cannot be removed
+      return
+   }
+
+   sucNode = curNode⇢next 
+   predNode = curNode⇢prev 
+  
+   // Successor node is never null
+   sucNode⇢prev = predNode
+  
+   // Predecessor node is never null
+   predNode⇢next = sucNode
+}
+```
+
+### 5.5 Circular lists
+
+```
+CircularListTraverse(head) {
+   if (head is not null) {
+      current = head
+      do {
+         visit current
+         current = current⇢next
+      } while (current != head)
+   }
+}
+```
+
+```
+CircularListTraverseReverse(tail) {
+   if (tail is not null) {
+      current = tail
+      do {
+         visit current
+         current = current⇢previous
+      } while (current != tail)
+   }
+}
+```
+
+### Optional 5.7 Set abstract data type
+
+```
+SetRemove(set, key) {
+   element = Find element in set with key
+   if (element != null) {
+      Remove element from set
+   }
+}
+```
+
+```
+SetUnion(set1, set2) {
+   result = Create new, empty set
+   for each (element in set1) {
+      Add element to result
+   }
+   for each (element in set2) {
+      Add element to result
+   }
+   return result
+}
+
+SetIntersection(set1, set2) {
+   result = Create new, empty set
+   for each (element in set1) {
+      if (SetSearch(set2, element⇢key) != null) {
+         Add element to result
+      }
+   }
+   return result
+}
+
+SetDifference(set1, set2) {
+   result = Create new, empty set
+   for each (element in set1) {
+      if (SetSearch(set2, element⇢key) == null) {
+         Add element to result
+      }
+   }
+   return result
+}
+```
+
+```
+SetFilter(set, predicate) {
+   result = Create a new, empty set
+   for each (element in set) {
+      if (predicate(element) == true)
+         Add element to result
+   }
+   return result
+}
+
+SetMap(set, mapFunction) {
+   result = Create new, empty set
+   for each (element in set) {
+      newElement = mapFunction(element)
+      Add newElement to result
+   }
+   return result
+}
+```
+
+```
+EvenPredicate(element) {
+   if (element is even)
+      return true
+   return false
+}
+
+Above90Predicate(element) {
+   return (element > 90)
+}
+
+OnesDigit(element) {
+   return element % 10
+}
+
+StringifyElement(element) {
+   return (Convert element to string)
 }
 ```
