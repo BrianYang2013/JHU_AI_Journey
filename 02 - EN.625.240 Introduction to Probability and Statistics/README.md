@@ -61,6 +61,10 @@ Sunday: Coding. Pre-read next chapter. ``
 - I found an interesting problem in the quiz, wasted a lot of time, and successfully annoyed the grader. Log it down and post it as an article. A good probability questions with coincidence solutions. 
 - My second attempt came with some mistakes. I saw a few was my careless, and a few might adjust later. Don't expect a change in the best score, so basically waste 2 hours. Maybe not worth the time, especially since this semester is very demanding. 
 
+# STAT reference
+
+- [Harvard STAT100 CheatSheet](http://people.fas.harvard.edu/~mparzen/stat100/Stat%20100%20Final%20Cheat%20Sheets%20-%20Google%20Docs%20(2).pdf)
+
 # Coding Reference
 
 - [Document: pandas.DataFrame.describe](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.describe.html)

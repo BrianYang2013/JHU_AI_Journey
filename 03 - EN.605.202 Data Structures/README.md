@@ -177,6 +177,8 @@ Tuesday: Due day, wrap up:
 - [Infix to Prefix Converter with Steps](https://www.free-online-calculator-use.com/infix-to-prefix-converter.html)
 - [Infix / Postfix converter](https://www.mathblog.dk/tools/infix-postfix-converter/)
 - [Test term in English](https://zhuanlan.zhihu.com/p/139064883)
+- [Visual Data structure](https://visualgo.net/en)
+- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 Optional Textbooks:
 
