@@ -220,6 +220,10 @@ StackPop(stack) {
 }
 ```
 
+<img src="Img/2.2-01.png" alt="drawing" style="height:200px;"/>				<img src="Img/2.2-02.png" alt="drawing" style="height:200px;"/>	
+
+
+
 ### 3.3 Recursive definitions
 
 ```
