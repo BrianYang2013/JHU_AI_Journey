@@ -25,24 +25,24 @@ Refresh course in FA21 term. It seems very demanding.
 
 ## Check List
 
-- [x] **zyBooks**
-- [x] zyBooks Optional
-- [x] **Discussion: Post**
-- [x] Lectures
+- [ ] **zyBooks**
+- [ ] zyBooks Optional
+- [ ] **Discussion: Post**
+- [ ] Lectures
 - [ ] Extra credit question
-- [x] **Quizzes**
-- [x] **Homework**
+- [ ] **Quizzes**
+- [ ] **Homework**
 - [x] Programming Assignments - Lab 0
 - [x] Programming Assignments - Lab 1
-- [ ] **Programming Assignments - Lab 2**
+- [ ] **Programming Assignments - Lab 2**: [Prefix/Postix Maniputation - Examples](https://filebox.ece.vt.edu/~ECE2574/meeting/11-recursionapp1/slides.pdf)
 - [ ] **Programming Assignments - Lab 3**
 - [ ] **Programming Assignments - Lab 4**
-- [x] **Office hour - Thursday**
-- [x] **Office hour - Sunday**
+- [ ] **Office hour - Thursday**
+- [ ] **Office hour - Sunday**
 - [ ]    **Office hour - Monday**
-- [x] **Discussion: Reply 1**
-- [x] **Discussion: Reply 2** 
-- [x] **Discussion: Reply 3**
+- [ ] **Discussion: Reply 1**
+- [ ] **Discussion: Reply 2** 
+- [ ] **Discussion: Reply 3**
 - [ ] Wrap up: Review all above scoring section in bold. 
 - [ ] Download zyBooks for future reference. 
 
@@ -173,14 +173,24 @@ Tuesday: Due day, wrap up:
 # Reference
 
 - [Rule of writing pseudocode](https://towardsdatascience.com/pseudocode-101-an-introduction-to-writing-good-pseudocode-1331cb855be7)
-- [Infix to Postfix Converter with Steps](https://www.free-online-calculator-use.com/infix-to-postfix-converter.html#)
-- [Infix to Prefix Converter with Steps](https://www.free-online-calculator-use.com/infix-to-prefix-converter.html)
-- [Infix / Postfix converter](https://www.mathblog.dk/tools/infix-postfix-converter/)
+- [Array Calculations](http://byteology.weebly.com/blog/array-and-its-address-calculation)
+- [Big O Cheat Sheet](http://bigocheatsheet.com/)
+- [Notes on Time and Space Complexity](http://www.leda-tutorial.org/en/official/ch02s02s03.html)
+- [Calculating Space Complexity](https://books.google.com/books?id=JPkBDj1C53YC&pg=PA31&lpg=PA31&dq=calculating+space+complexity&source=bl&ots=qBWjcasgHb&sig=qKfTPKJhJ__4W2_g7zo_KBntHF4&hl=en&sa=X&ved=0ahUKEwjsl9GVs7PSAhWU2YMKHSuGAJw4HhDoAQgnMAM#v=onepage&q=calculating space complexity&f=false)
+- [Time (and Space) Complexity of Various Sorting Algorithms](http://scanftree.com/Data_Structure/time-complexity-and-space-complexity-comparison-of-sorting-algorithms)
+- [Complexity Analysis](https://www.cs.utexas.edu/users/djimenez/utsa/cs1723/lecture2.html)
 - [Test term in English](https://zhuanlan.zhihu.com/p/139064883)
 - [Visual Data structure](https://visualgo.net/en)
 - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
-Optional Textbooks:
+### Infix, Postfix, Prefix
+
+- [Prefix/Postix Maniputation - Examples](https://filebox.ece.vt.edu/~ECE2574/meeting/11-recursionapp1/slides.pdf)
+- [Infix to Postfix Converter with Steps](https://www.free-online-calculator-use.com/infix-to-postfix-converter.html#)
+- [Infix to Prefix Converter with Steps](https://www.free-online-calculator-use.com/infix-to-prefix-converter.html)
+- [Infix / Postfix converter](https://www.mathblog.dk/tools/infix-postfix-converter/)
+
+### Optional Textbooks:
 
 - Augenstein, M. J., Langsam, Y., & Tenenbaum, A. M. (1995). *Data Structures Using C and C++.* Pearson. ISBN-10: 0130369977 OR ISBN-13: 978-0130369970
 - Carrano, F., & Henry, T. (2016). *Data Abstraction & Problem Solving with C++: Walls and Mirrors* (7th ed). Pearson. ISBN-10: 0134463978 OR ISBN-13: 978-0134463971[Amazon Link](https://www.amazon.com/Data-Abstraction-Problem-Solving-Mirrors/dp/0134463978/ref=sr_1_1?dchild=1&keywords=Data+Abstraction+%26+Problem+Solving+with+C%2B%2B%3A+Walls+and+Mirrors&qid=1630507196&s=books&sr=1-1)

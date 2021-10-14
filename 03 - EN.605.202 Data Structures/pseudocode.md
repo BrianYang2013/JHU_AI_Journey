@@ -220,7 +220,7 @@ StackPop(stack) {
 }
 ```
 
-<img src="Img/2.2-01.png" alt="drawing" style="height:200px;"/>				<img src="Img/2.2-02.png" alt="drawing" style="height:200px;"/>	
+<img src="Img/02.2-01.png" alt="drawing" style="height:150px;"/>				<img src="Img/02.2-02.png" alt="drawing" style="height:150px;"/>	
 
 
 
@@ -303,6 +303,8 @@ QueueDequeue(queue) {
 }
 ```
 
+<img src="Img/04.2-01.png" alt="drawing" style="height:150px;"/>
+
 ### 4.5 Array-based lists
 
 ```
@@ -380,6 +382,10 @@ ListAppend(list, newNode) {
    }
 }
 ```
+
+<img src="Img/04.6.3-01.png" alt="drawing" style="height:150px;"/>
+
+
 
 ```
 ListPrepend(list, newNode) {
@@ -584,6 +590,8 @@ ListAppend(list, newNode) {
 }
 ```
 
+<img src="Img/05.1.2-01.png" alt="drawing" style="height:150px;"/>
+
 ```
 ListPrepend(list, newNode) {
    if (list⇢head == null) { // List empty
@@ -641,6 +649,10 @@ ListRemove(list, curNode) {
    }
 }
 ```
+
+### 5.4 Linked list dummy nodes
+
+<img src="Img/05.4-01.png" alt="drawing" style="height:600px;"/>
 
 #### Singly-linked list with dummy node
 
@@ -781,6 +793,8 @@ ListRemove(list, curNode) {
 
 #### Doubly-linked list with 2 dummy nodes.
 
+<img src="Img/05.4-02.png" alt="drawing" style="height:150px;"/>
+
 ```
 ListAppend(list, newNode) {
    newNode⇢prev = list⇢tail⇢prev
@@ -828,6 +842,8 @@ ListRemove(list, curNode) {
 ```
 
 ### 5.5 Circular lists
+
+<img src="Img/05.5-01.png" alt="drawing" style="height:150px;"/>
 
 ```
 CircularListTraverse(head) {

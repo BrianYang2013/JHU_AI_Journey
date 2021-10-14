@@ -23,15 +23,15 @@ Sunday: Coding. Pre-read next chapter. ``
 ## Check List
 
 - [x] Check Course Module: What to read, what to focus this week
-- [x] Reading 1
-- [x] Reading 2
-- [x] Mindmap draft
+- [ ] Reading 1
+- [ ] Reading 2
+- [ ] Mindmap draft
 - [ ] Coding
-- [x] Lecture
-- [x] Mindmap finalize and release
-- [x] Office hour
-- [x] Practical Exercises
-- [x] Wrap up practical exercises
+- [ ] Lecture
+- [ ] Mindmap finalize and release
+- [ ] Office hour
+- [ ] Practical Exercises
+- [ ] Wrap up practical exercises
 - [ ] Wrap up course
 - [ ] Extra - More practice
 
@@ -61,7 +61,12 @@ Sunday: Coding. Pre-read next chapter. ``
 - I found an interesting problem in the quiz, wasted a lot of time, and successfully annoyed the grader. Log it down and post it as an article. A good probability questions with coincidence solutions. 
 - My second attempt came with some mistakes. I saw a few was my careless, and a few might adjust later. Don't expect a change in the best score, so basically waste 2 hours. Maybe not worth the time, especially since this semester is very demanding. 
 
-# STAT reference
+2021-10-14 Mid Reflect
+
+- Harvard cheatsheet is a good summary. 
+- Not sensitive to the notation. Use the right math notation during PE practice, from W7-14. 
+
+# STAT Reference
 
 - [Harvard STAT100 CheatSheet](http://people.fas.harvard.edu/~mparzen/stat100/Stat%20100%20Final%20Cheat%20Sheets%20-%20Google%20Docs%20(2).pdf)
 
