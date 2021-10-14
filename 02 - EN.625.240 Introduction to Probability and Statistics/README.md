@@ -59,12 +59,12 @@ Sunday: Coding. Pre-read next chapter. ``
 2021-09-19 W03 Reflect:
 
 - I found an interesting problem in the quiz, wasted a lot of time, and successfully annoyed the grader. Log it down and post it as an article. A good probability questions with coincidence solutions. 
-- My second attempt came with some mistakes. I saw a few was my careless, and a few might adjust later. Don't expect a change in the best score, so basically waste 2 hours. Maybe not worth the time, especially since this semester is very demanding. 
+- My second attempt came with some mistakes.A few because of my careless, and a few I should adjust later. Don't expect a improvement in the best score, so basically waste 2 hours. Maybe not worth the time, especially since this semester is very demanding. Allocate the time in a smart way. 
 
 2021-10-14 Mid Reflect
 
 - Harvard cheatsheet is a good summary. 
-- Not sensitive to the notation. Use the right math notation during PE practice, from W7-14. 
+- Not sensitive to the notation. Practice the math notation during W7-W14 PE practice. Write it down and check. 
 
 # STAT Reference
 
