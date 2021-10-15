@@ -64,7 +64,31 @@ Sunday: Coding. Pre-read next chapter. ``
 2021-10-14 Mid Reflect
 
 - Harvard cheatsheet is a good summary. 
+
 - Not sensitive to the notation. Practice the math notation during W7-W14 PE practice. Write it down and check. 
+
+  - Population: Greek character, gods know them
+    - : population size
+    - : mean
+    - 
+  - Sample: lower case
+    - : sample size
+    - : mean
+    - $s$: Sample standard deviation
+    - $s^2$: sample variance
+
+  |                     | Population |  Sample   |        Random Variable X         | Estimation |
+  | ------------------- | :--------: | :-------: | :------------------------------: | ---------- |
+  | Size                |    $N$     |    $n$    |                                  |            |
+  | Mean                |   $\mu$    | $\bar{x}$ |          $\mu_x$, $\mu$          |            |
+  |                     |            |           |                                  |            |
+  | Variance            | $\sigma^2$ |   $s^2$   | $V(X)$, $\sigma_x^2$, $\sigma^2$ |            |
+  | Standard derivation |  $\sigma$  |    $s$    |                                  |            |
+  |                     |            |           |      Expected value $E(X)$       |            |
+  |                     |            |           |                                  |            |
+  |                     |            |           |                                  |            |
+  |                     |            |           |                                  |            |
+  |                     |            |           |                                  |            |
 
 # STAT Reference
 
