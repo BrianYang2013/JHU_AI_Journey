@@ -43,8 +43,9 @@ Refresh course in FA21 term. It seems very demanding.
 - [ ] **Discussion: Reply 1**
 - [ ] **Discussion: Reply 2** 
 - [ ] **Discussion: Reply 3**
+- [ ] Extra read and video
 - [ ] Wrap up: Review all above scoring section in bold. 
-- [ ] Download zyBooks for future reference. 
+- [x] Download zyBooks for future reference. 
 
 ## Check-in 
 

@@ -23,13 +23,13 @@ Sunday: Coding. Pre-read next chapter. ``
 ## Check List
 
 - [x] Check Course Module: What to read, what to focus this week
-- [ ] Reading 1
-- [ ] Reading 2
-- [ ] Mindmap draft
+- [x] Reading 1
+- [x] Reading 2
+- [x] Mindmap draft
 - [ ] Coding
-- [ ] Lecture
-- [ ] Mindmap finalize and release
-- [ ] Office hour
+- [x] Lecture
+- [x] Mindmap finalize and release
+- [x] Office hour
 - [ ] Practical Exercises
 - [ ] Wrap up practical exercises
 - [ ] Wrap up course
@@ -64,31 +64,11 @@ Sunday: Coding. Pre-read next chapter. ``
 2021-10-14 Mid Reflect
 
 - Harvard cheatsheet is a good summary. 
-
 - Not sensitive to the notation. Practice the math notation during W7-W14 PE practice. Write it down and check. 
-
   - Population: Greek character, gods know them
-    - : population size
-    - : mean
-    - 
   - Sample: lower case
-    - : sample size
-    - : mean
-    - $s$: Sample standard deviation
-    - $s^2$: sample variance
 
-  |                     | Population |  Sample   |        Random Variable X         | Estimation |
-  | ------------------- | :--------: | :-------: | :------------------------------: | ---------- |
-  | Size                |    $N$     |    $n$    |                                  |            |
-  | Mean                |   $\mu$    | $\bar{x}$ |          $\mu_x$, $\mu$          |            |
-  |                     |            |           |                                  |            |
-  | Variance            | $\sigma^2$ |   $s^2$   | $V(X)$, $\sigma_x^2$, $\sigma^2$ |            |
-  | Standard derivation |  $\sigma$  |    $s$    |                                  |            |
-  |                     |            |           |      Expected value $E(X)$       |            |
-  |                     |            |           |                                  |            |
-  |                     |            |           |                                  |            |
-  |                     |            |           |                                  |            |
-  |                     |            |           |                                  |            |
+- Add the link of notation here. 
 
 # STAT Reference
 
