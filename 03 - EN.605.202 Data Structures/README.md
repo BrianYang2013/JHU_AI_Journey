@@ -25,9 +25,9 @@ Refresh course in FA21 term. It seems very demanding.
 
 ## Check List
 
-- [ ] **zyBooks**
+- [x] **zyBooks**
 - [ ] zyBooks Optional
-- [ ] **Discussion: Post**
+- [x] **Discussion: Post**
 - [ ] Lectures
 - [ ] Extra credit question
 - [ ] **Quizzes**
@@ -37,10 +37,10 @@ Refresh course in FA21 term. It seems very demanding.
 - [ ] **Programming Assignments - Lab 2**: [Prefix/Postix Maniputation - Examples](https://filebox.ece.vt.edu/~ECE2574/meeting/11-recursionapp1/slides.pdf)
 - [ ] **Programming Assignments - Lab 3**
 - [ ] **Programming Assignments - Lab 4**
-- [ ] **Office hour - Thursday**
+- [x] **Office hour - Thursday**
 - [ ] **Office hour - Sunday**
 - [ ]    **Office hour - Monday**
-- [ ] **Discussion: Reply 1**
+- [x] **Discussion: Reply 1**
 - [ ] **Discussion: Reply 2** 
 - [ ] **Discussion: Reply 3**
 - [ ] Extra read and video
@@ -203,7 +203,11 @@ Tuesday: Due day, wrap up:
   - [Online Resource from runestone(Miller)](https://runestone.academy/runestone/books/published/pythonds/index.html)
   - [Another translated CN version](https://github.com/facert/python-data-structure-cn)
 
-
+- Discrete Mathematics
+  - Discrete Mathematics by Ross & Wright
+  - Discrete Mathematics by R. Johnsonbaugh
+  - Discrete Mathematics and Applications by S. Epp
+  - Schaum’s Outline Series in Discrete Mathematics
 
 Principle: Optimize during the compile time, rather than runtime. 
 
