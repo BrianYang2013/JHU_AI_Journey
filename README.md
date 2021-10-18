@@ -25,6 +25,7 @@ Start from 2021 summer
   * Math - Awareness. Lay the foundation. Most (95%) of what you learned in school won't be used in career. What we learn in school is not knowledge, but the exercise of how to learn, and the ability to think. For example, we should be able to pick up new math topics at a reasonable timeframe (3 months for a typical graduate level course)  
   * Coding - Re-visit data structure and algorithms, leetcode, familiar with various packages. => Make it work, resolve the problem. 
   * Academic Training - Discover and pick up the knowledge, be aware of where good taste and standards are, and restructure my knowledge system to support my future improvement.
+  * Think about long term. Write, Create and share
 * General goals - collected from Internet and friends, keep growing. Please share your thoughts
   * Program - Finish it
   * Program - Finish with the shortest possible timeframe

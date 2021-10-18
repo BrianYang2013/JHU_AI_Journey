@@ -7,8 +7,27 @@
 Basic Graph Theory
 
 - Binary trees: A special case of graphs. Modelling tool. 
+- G = (V, E), an order pair. 
+- Order: A -> B: B is adjacent to A, but not reverse. 
+- **Simple path**, without repeated vertices or edges.
+- A cycle or closed path begins and ends at the same vertex.
+- The **degree** of a vertex is the number of incident edges. A connection to vertex itself counts 2 (both in and out)
+- Degree are same for all vertex: regular graph
+- In-degre and out-degree。 Source: in-degrre =0 AND out-degree >0; Sink: out-degree = 0. 
 
+Binary Trees
 
+- V = E + 1. Acyclic. 
+- Use degree and adjacent vertex to check whether 2 trees are same. 
+- m-ary tree
+  - Regular: All nodes have 0 or m children. 
+  - Complete: Regular + all leaves at the same level
+  - A complete binary tree of height k: leaves: $2^k$, nodes: $2^{k+1}-1$
+
+- Heap
+  - Strickly almost complete tree: missing values only allowed at right end of "bottom" level.
+  - Max heap: No child is larger than their parent. (equal is ok)
+  - For priority queues
 
 ## ZyBooks
 
