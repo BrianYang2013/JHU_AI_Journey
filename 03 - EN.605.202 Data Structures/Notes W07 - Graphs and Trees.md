@@ -4,7 +4,7 @@
 
 ### Lecture
 
-Basic Graph Theory
+#### Basic Graph Theory
 
 - Binary trees: A special case of graphs. Modelling tool. 
 - G = (V, E), an order pair. 
@@ -15,13 +15,13 @@ Basic Graph Theory
 - Degree are same for all vertex: regular graph
 - In-degre and out-degree。 Source: in-degrre =0 AND out-degree >0; Sink: out-degree = 0. 
 
-Binary Trees
+#### Binary Trees
 
 - V = E + 1. Acyclic. 
 - Use degree and adjacent vertex to check whether 2 trees are same. 
 - m-ary tree
-  - Regular: All nodes have 0 or m children. 
-  - Complete: Regular + all leaves at the same level
+  - **Regular**: All nodes have 0 or m children. 
+  - **Complete**: Regular + all leaves at the same level
   - A complete binary tree of height k: leaves: $2^k$, nodes: $2^{k+1}-1$
 
 - Heap

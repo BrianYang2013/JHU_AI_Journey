@@ -31,7 +31,7 @@ Refresh course in FA21 term. It seems very demanding.
 - [x] Lectures
 - [ ] Extra credit question
 - [x] **Quizzes**
-- [ ] **Homework**
+- [x] **Homework**
 - [x] Programming Assignments - Lab 0
 - [x] Programming Assignments - Lab 1
 - [ ] **Programming Assignments - Lab 2**: [Prefix/Postix Maniputation - Examples](https://filebox.ece.vt.edu/~ECE2574/meeting/11-recursionapp1/slides.pdf)
@@ -39,10 +39,10 @@ Refresh course in FA21 term. It seems very demanding.
 - [ ] **Programming Assignments - Lab 4**
 - [x] **Office hour - Thursday**
 - [x] **Office hour - Sunday**
-- [ ]    **Office hour - Monday**
+- [x]    **Office hour - Monday**
 - [x] **Discussion: Reply 1**
-- [ ] **Discussion: Reply 2** 
-- [ ] **Discussion: Reply 3**
+- [x] **Discussion: Reply 2** 
+- [x] **Discussion: Reply 3**
 - [ ] Extra read and video
 - [ ] Wrap up: Review all above scoring section in bold. 
 - [x] Download zyBooks for future reference. 
