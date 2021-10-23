@@ -34,7 +34,7 @@ Refresh course in FA21 term. It seems very demanding.
 - [x] **Homework**
 - [x] Programming Assignments - Lab 0
 - [x] Programming Assignments - Lab 1
-- [ ] **Programming Assignments - Lab 2**: [Prefix/Postix Maniputation - Examples](https://filebox.ece.vt.edu/~ECE2574/meeting/11-recursionapp1/slides.pdf)
+- [ ] **Programming Assignments - Lab 2**
 - [ ] **Programming Assignments - Lab 3**
 - [ ] **Programming Assignments - Lab 4**
 - [x] **Office hour - Thursday**
@@ -170,6 +170,10 @@ Tuesday: Due day, wrap up:
   - If we do need to cover all of them, there should be a check list to help setup the routine and remind us. 
   - The learning curve might want to improve. For example, the homework comes with limited background and it is not clear to most of the students. 
   - zyBooks, I picked python and found lots of Java or c type pseudo code. 
+
+# IntelliJ IDEA Shortcut
+
+- command + K: Clear terminal
 
 # Reference
 
