@@ -68,11 +68,12 @@ Sunday: Coding. Pre-read next chapter. ``
   - Population: Greek character, gods know them
   - Sample: lower case
 - Add the link of notation here. 
+- Add Midterm formula and notation
 
 2021-10-25 Hypothesis Testing
 
 - Important topic! Create template for test procedure
-- Z test / T test / P-value
+- Z test / T test / P-value. Beta, estimate n. 
 - [Interesting article from Regina Nuzzo](https://www.nature.com/articles/506150a)
 
 # STAT Reference
