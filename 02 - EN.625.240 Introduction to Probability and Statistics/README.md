@@ -67,8 +67,13 @@ Sunday: Coding. Pre-read next chapter. ``
 - Not sensitive to the notation. Practice the math notation during W7-W14 PE practice. Write it down and check. 
   - Population: Greek character, gods know them
   - Sample: lower case
-
 - Add the link of notation here. 
+
+2021-10-25 Hypothesis Testing
+
+- Important topic! Create template for test procedure
+- Z test / T test / P-value
+- [Interesting article from Regina Nuzzo](https://www.nature.com/articles/506150a)
 
 # STAT Reference
 
