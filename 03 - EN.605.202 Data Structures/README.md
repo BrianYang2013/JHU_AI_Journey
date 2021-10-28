@@ -27,7 +27,7 @@ Refresh course in FA21 term. It seems very demanding.
 
 - [ ] **zyBooks**
 - [ ] zyBooks Optional
-- [ ] **Discussion: Post**
+- [x] **Discussion: Post**
 - [ ] Lectures
 - [ ] Extra credit question
 - [ ] **Quizzes**

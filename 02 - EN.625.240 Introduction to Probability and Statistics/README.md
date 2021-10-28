@@ -75,6 +75,7 @@ Sunday: Coding. Pre-read next chapter. ``
 - Important topic! Create template for test procedure
 - Z test / T test / P-value. Beta, estimate n. 
 - [Interesting article from Regina Nuzzo](https://www.nature.com/articles/506150a)
+- Mid term: 99. add unit to the mu (even the temp result? ), and round up for final result (not accept one digital decimal) 
 
 # STAT Reference
 
