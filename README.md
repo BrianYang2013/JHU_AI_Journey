@@ -125,7 +125,12 @@ Languages
 * Course - NYU, [DS-GA 1008: Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)
 * Papers - [Classic papers for beginner](https://github.com/qiulinzhang/TopPaper)
 
+### Articles
+
+- [Pathways](https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/)
+
 ### Tools:
+
 * [GitHub Desktop](https://desktop.github.com/) - Maintain this repo
   * Markdown + Latex + Export PDF: 
 * iPad: iPad 2020 + pencil (or iPad Pro 11 + pencil 2. iPad Pro 12.9 too heavy, 27 inch monitor is better). Good for reading PDF textbooks. It is astonishing to know that the textbook available publicly in PDF(Thanks Author!) but listed \$900+ on Amazon as new,  \$600+ (acceptable) or \$200 (good) as second hand. If license is not a issue (assume), then obviously there is something wrong in the US academic publication system.
