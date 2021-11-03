@@ -4,7 +4,56 @@
 
 ### Lecture
 
-- 
+Sorting: Trade off
+
+#### Binary Trees
+
+- Recursive binary trees. Root, Left subtree (LST), right subtree(RST)
+- Many tree algorithms are recursive. 
+- Traversal: 6 in all, prefer LST before RST so we have three: 
+  - Preorder: Root, LST, RST
+  - Inorder: LST, Root, RST
+  - Postoder: LST, RST, Root
+
+##### Threaded Trees:
+
+- The right child pointer of the leaf is always empty. So use it direct to the inorder successor. (add a bool to indicate the right child pointer is a thread or a real child)
+- Tree can be right-threaded for preorder and postorder. 
+- Or left threaded or even both. 
+
+##### Binry Op-trees
+
+- Operands as the leaves and operators as internal nodes. 
+
+##### Binary Search Trees
+
+#### Huffman Encoding
+
+- Ciphers: Letters frequence and word pattern. 
+- Huffman encoding: 
+  - binary code. 0, and 1
+  - Avoids frequency patterns
+  - Avoid word patterns
+- Build a Huffman encoding
+  - Start with the least frequent
+  - Set tie breaker: for example, simple on left, combined on the right. Same frequence leaves: alphabet. 
+
+### Sorting
+
+- External (load in batch, sort and merge) & Internal (can bring into memory at once)
+
+- Points to consider: Size, Order, distribution, reuse of existing code, Programmer time, frequency of sorting, How data used, Efficiency of sorts available, Space
+
+- Type: 
+
+  - Exchange: Bubble, QuickSort
+    - QuickSort, Pivot: Random (first, middle), median of first-last-middle, mean of all values in file (MeanSort)
+  - Selection: Straight, Binary Tree Sort, Simple BT Sort, HeapSort, Quadratic Selection Sort
+  - Insertion: Simple Insertion Sort, Shell Sort, Address Calculation Sort
+  - Merge:Straight Merge, Natural Merge 
+  - Radix
+
+  
 
 ## ZyBooks
 
@@ -70,7 +119,7 @@ Given a key, a BST **remove** operation removes the first-found matching node, r
 
 - *Remove a leaf node:* If X has a parent (so X is not the root), the parent's left or right child (whichever points to X) is assigned with null. Else, if X was the root, the root pointer is assigned with null, and the BST is now empty.
 - *Remove an internal node with single child:* If X has a parent (so X is not the root), the parent's left or right child (whichever points to X) is assigned with X's single child. Else, if X was the root, the root pointer is assigned with X's single child. 
-- *Remove an internal node with two children:* This case is the hardest. First, the algorithm locates X's successor (the leftmost child of X's right subtree), and copies the successor to X. Then, the algorithm recursively removes the successor from the right subtree.
+- *Remove an internal node with two children:* This case is the hardest. First, the algorithm locates X's successor (the leftmost child of X's right subtree), and copies the successor to X. Then, the algorithm recursively removes the successor from the right subtree. (Successor = Inorder successor. )
 
 ### 7.10 BST inorder traversal
 
@@ -111,3 +160,19 @@ The **pivot** can be any value within the array being sorted, commonly the value
 Elements in [begining, highindex] are <= pivot. (highindex, end] are >= pivot
 
 Once partitioned, each partition needs to be sorted. Quicksort is typically implemented as a recursive algorithm using calls to quicksort to sort the low and high partitions. This recursive sorting process continues until a partition has one or zero elements, and thus is already sorted.
+
+<img src="Img/07.16-1.png" alt="drawing" style="height:600px;"/>
+
+### Quicksort runtime
+
+The quicksort algorithm's runtime is typically $O(N log N)$. Quicksort has several partitioning levels, the first level dividing the input into 2 parts, the second into 4 parts, the third into 8 parts, etc. At each level, the algorithm does at most N comparisons moving the lowIndex and highIndex indices. If the pivot yields two equal-sized parts, then there will be $log N$ levels, requiring the $N * log N$ comparisons.
+
+Best case: $Log_2n$ level 
+
+### Worst case runtime
+
+For typical unsorted data, such equal partitioning occurs. However, partitioning may yield unequally sized parts in some cases. If the pivot selected for partitioning is the smallest or largest element, one partition will have just 1 element, and the other partition will have all other elements. If this unequal partitioning happens at every level, there will be N - 1 levels, yielding N + N-1 + N-2 + ... + 2 + 1 = (N+1)⋅(N/2), which is $O(N2)$. So the worst case runtime for the quicksort algorithm is O(N2). Fortunately, this worst case runtime rarely occurs.
+
+In the worst case, it will call $1 + 2*(n-1)$ or $2n-1$ times of Quicksort() function. 
+
+Worst case: $n-1$ level 

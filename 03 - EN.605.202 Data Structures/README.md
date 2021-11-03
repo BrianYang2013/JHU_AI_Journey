@@ -37,11 +37,11 @@ Refresh course in FA21 term. It seems very demanding.
 - [x] Programming Assignments - Lab 2
 - [ ] **Programming Assignments - Lab 3**
 - [ ] **Programming Assignments - Lab 4**
-- [x] **Office hour - Thursday**
+- [ ] **Office hour - Thursday**
 - [ ] **Office hour - Sunday**
 - [ ]    **Office hour - Monday**
-- [x] **Discussion: Reply 1**
-- [x] **Discussion: Reply 2** 
+- [ ] **Discussion: Reply 1**
+- [ ] **Discussion: Reply 2** 
 - [ ] **Discussion: Reply 3**
 - [ ] Extra read and video
 - [ ] Wrap up: Review all above scoring section in bold. 
@@ -188,7 +188,6 @@ Tuesday: Due day, wrap up:
 - [Visual Data structure](https://visualgo.net/en)
 - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - [CodingGame](https://www.codingame.com/start)
-- 
 
 ### Infix, Postfix, Prefix
 
