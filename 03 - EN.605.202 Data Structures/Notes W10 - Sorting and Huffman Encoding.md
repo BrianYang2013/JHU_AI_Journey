@@ -4,7 +4,72 @@
 
 ### Lecture
 
+Straight (simple) Selection sort
 
+- Compare with bubble sort (same O(n^2) complexity)
+  - Bubble: Compare and swap every time
+  - Selection sort: find the smallest (biggest) one and swap to the right position. 
+- Binary Trees Search: Sort of selection sort. Create tree, create the sorted list by doing the inorder transversal
+- HeapSort: Another typical selection sort. **Typically not as good as quicksort.** 
+- Quadratic Selection Sort: Need extra space. Separate into k sections, find the biggest of each, put into temporary space in order. Find the biggest from the temporary space, and fill that spot by the second largest of the correspondence sections. Complexity: (k + n/k )*n, prefer $k = \sqrt{n}$, it turn out $2n^{3/2}$ Or $O(n^{3/2})$
+
+Simple Insertion Sort
+
+- Shell Sort: Multiply pass. 
+  - K: 2^i - 1, from i = $log_2n$ till i = 1 (k = 1)
+  - Knuth: h(1) = 1, h(n) = 3 h(n-1)+ 1. So we get 1, 4, 13, 40, 121, 364, 1093 ... until you pass the n. remove the 2 biggest number and reverse this sequence, for the k value set. for example, 16 we should use 1 and 4 (40 is the one bigger than n=16, remove 13 and 40)
+  - Prime number sequence which close to Knuth: 1, 5, 13, 41, 119 ... not easy to generate this series. 
+  - In place sort, do not need extra space.
+
+Address Calculation Sort
+
+- Bucket Sort
+
+Straight 2-way Merge 
+
+- Merge always need extra space. 
+
+- Straight merge: merge 2 of 1 into 2, 4, 8, ... merge all. 
+- Natrual Merge: find the items in order as much as possible. Separate them. 
+  - Uses replacement selection
+  - Merging part is still the same
+  - Exploits order in data
+
+Sorting without comparision: Counting sort
+
+- Fixed range of value from 0 to k
+- mark value in the aux array
+- count item before it
+- O(n), and stable. 
+
+## Searching
+
+Terminology
+
+- Record
+- File (of size n)
+- Key
+
+Consideration
+
+- Size
+- Distribution
+- Reuse of existing code
+- Programmer time
+- Frequency of searching
+- Number of search types
+- Exploit the file organization
+- Not in file  
+- or remove duplicates. 
+
+Strategy: 
+
+- Sequential: O(n/2) on average
+- Binary: O(logn) on average
+- Interploation: O(loglogn), to O(n). 
+- Indexed sequential: Extra space, Optimize sequential search. O((k^2+n)/2k), prefer $k = sqrt(n)$ and increase if n is really big. 
+- Search trees
+- Maintain sorted order when doing inserts or deletes. 
 
 ## ZyBooks
 
