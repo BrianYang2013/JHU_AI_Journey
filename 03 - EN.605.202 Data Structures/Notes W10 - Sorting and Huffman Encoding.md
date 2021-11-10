@@ -2,6 +2,50 @@
 
 ## Course Module
 
+### Summary
+
+Stable: same elements will keep the original positions. 
+
+QuickSort: 
+
+- Divide and conque. Prefer Recursive. Find a pivot, separate into left and right. till 1 data. Top down. 
+- Time: 
+  - Best case: If divide into 2 equal 2 part, then we go $O(nlogn)$. 
+  - Worst case: Order data, then hard to get equal partition. then we go $O(n^2)$
+  - Overall: Most ase $O(nlogn)$. In extreme case we will get $O(n^2)$
+- Space: O(1), in-place algorithm
+- Not stable (Same value will not garantee the seqquence). 
+
+Merge: 
+
+- Divide and conque. Prefer Recursive. Break down to 8, 4, 2, 1 then sort and merge back. Botton up. 
+- Time: Best / Worst / Overall: Very **stable**, always $O(nlogn)$. But with higher constant factor. 
+- Space:  $O(n)$
+- NOT in-place algorithm. 
+- Stable. Same value will keep the original seqquence
+
+
+
+in-place algorithm: The input is usually overwritten by the output as the algorithm executes. Less than $O(logn)$space or pointers. Bubble, Selection, Insert, Heap, Shell
+
+
+
+Stable: radix, bubble, simple insert, merge
+
+Not stable: Heap, quicksort, shell, straight(simple) selection
+
+## Cheatsheet
+
+<img src="Img/IMG_4705.JPG" alt="drawing" style="height:900px;"/>
+
+<img src="Img/IMG_4706.JPG" alt="drawing" style="height:900px;"/>
+
+<img src="Img/IMG_4707.JPG" alt="drawing" style="height:500px;"/>
+
+<img src="Img/IMG_4708.JPG" alt="drawing" style="height:500px;"/>
+
+
+
 ### Lecture
 
 Straight (simple) Selection sort
