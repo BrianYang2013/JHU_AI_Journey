@@ -171,30 +171,60 @@ Tuesday: Due day, wrap up:
   - The learning curve might want to improve. For example, the homework comes with limited background and it is not clear to most of the students. 
   - zyBooks, I picked python and found lots of Java or c type pseudo code. 
 
+## Naming Convension
+
+Reference: 
+
+- https://www.jianshu.com/p/a793c0d960fe
+
+- https://www.python.org/dev/peps/pep-0008/#naming-conventions
+
+Module, package: a_b.py
+
+Class: ThisIsAClass. Pascal style. 
+
+Variable:
+
+- Global: NUMBER. Upper. 
+- Local: this_is_a_var. Lower
+- Instance variable: _price.
+- Private variable: __private_var
+
+Function: get_name(), lower
+
+
+
 # IntelliJ IDEA Shortcut
 
 - command + K: Clear terminal
 
 # Reference
 
-- [Rule of writing pseudocode](https://towardsdatascience.com/pseudocode-101-an-introduction-to-writing-good-pseudocode-1331cb855be7)
-- [Array Calculations](http://byteology.weebly.com/blog/array-and-its-address-calculation)
+### CheatSheet
+
 - [Big O Cheat Sheet](http://bigocheatsheet.com/)
-- [Notes on Time and Space Complexity](http://www.leda-tutorial.org/en/official/ch02s02s03.html)
-- [Calculating Space Complexity](https://books.google.com/books?id=JPkBDj1C53YC&pg=PA31&lpg=PA31&dq=calculating+space+complexity&source=bl&ots=qBWjcasgHb&sig=qKfTPKJhJ__4W2_g7zo_KBntHF4&hl=en&sa=X&ved=0ahUKEwjsl9GVs7PSAhWU2YMKHSuGAJw4HhDoAQgnMAM#v=onepage&q=calculating space complexity&f=false)
+
 - [Time (and Space) Complexity of Various Sorting Algorithms](http://scanftree.com/Data_Structure/time-complexity-and-space-complexity-comparison-of-sorting-algorithms)
-- [Complexity Analysis](https://www.cs.utexas.edu/users/djimenez/utsa/cs1723/lecture2.html)
-- [Test term in English](https://zhuanlan.zhihu.com/p/139064883)
 - [Visual Data structure](https://visualgo.net/en)
 - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
-- [CodingGame](https://www.codingame.com/start)
 
-### Infix, Postfix, Prefix
+### Home work reference
 
+- [Rule of writing pseudocode](https://towardsdatascience.com/pseudocode-101-an-introduction-to-writing-good-pseudocode-1331cb855be7)
+
+- [Array Calculations](http://byteology.weebly.com/blog/array-and-its-address-calculation)
 - [Prefix/Postix Maniputation - Examples](https://filebox.ece.vt.edu/~ECE2574/meeting/11-recursionapp1/slides.pdf)
 - [Infix to Postfix Converter with Steps](https://www.free-online-calculator-use.com/infix-to-postfix-converter.html#)
 - [Infix to Prefix Converter with Steps](https://www.free-online-calculator-use.com/infix-to-prefix-converter.html)
 - [Infix / Postfix converter](https://www.mathblog.dk/tools/infix-postfix-converter/)
+
+### Misc
+
+- [Notes on Time and Space Complexity](http://www.leda-tutorial.org/en/official/ch02s02s03.html)
+- [Complexity Analysis](https://www.cs.utexas.edu/users/djimenez/utsa/cs1723/lecture2.html)
+- [Calculating Space Complexity](https://books.google.com/books?id=JPkBDj1C53YC&pg=PA31&lpg=PA31&dq=calculating+space+complexity&source=bl&ots=qBWjcasgHb&sig=qKfTPKJhJ__4W2_g7zo_KBntHF4&hl=en&sa=X&ved=0ahUKEwjsl9GVs7PSAhWU2YMKHSuGAJw4HhDoAQgnMAM#v=onepage&q=calculating space complexity&f=false)
+- [Test term in English](https://zhuanlan.zhihu.com/p/139064883)
+- [CodingGame](https://www.codingame.com/start)
 
 ### Optional Textbooks:
 
