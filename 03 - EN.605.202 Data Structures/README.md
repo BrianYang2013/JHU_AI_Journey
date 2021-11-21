@@ -25,24 +25,24 @@ Refresh course in FA21 term. It seems very demanding.
 
 ## Check List
 
-- [x] **zyBooks**
+- [ ] **zyBooks**
 - [ ] zyBooks Optional
 - [x] **Discussion: Post**
-- [x] Lectures
+- [ ] Lectures
 - [ ] Extra credit question
-- [x] **Quizzes**: Wait a few points back 
-- [x] **Homework**
+- [ ] **Quizzes**: Wait a few points back 
+- [ ] **Homework**
 - [x] Programming Assignments - Lab 0
 - [x] Programming Assignments - Lab 1: Wait a few points back 
 - [x] Programming Assignments - Lab 2: Wait a few points back 
-- [ ] **Programming Assignments - Lab 3**
+- [x] Programming Assignments - Lab 3
 - [ ] **Programming Assignments - Lab 4**
-- [ ] **Office hour - Thursday**
+- [x] **Office hour - Thursday**
 - [ ] **Office hour - Sunday**
 - [ ]    **Office hour - Monday**
-- [x] **Discussion: Reply 1**
-- [x] **Discussion: Reply 2** 
-- [x] **Discussion: Reply 3**
+- [ ] **Discussion: Reply 1**
+- [ ] **Discussion: Reply 2** 
+- [ ] **Discussion: Reply 3**
 - [ ] Extra read and video
 - [ ] Wrap up: Review all above scoring section in bold. 
 - [x] Download zyBooks for future reference. 
@@ -225,6 +225,7 @@ Function: get_name(), lower
 - [Calculating Space Complexity](https://books.google.com/books?id=JPkBDj1C53YC&pg=PA31&lpg=PA31&dq=calculating+space+complexity&source=bl&ots=qBWjcasgHb&sig=qKfTPKJhJ__4W2_g7zo_KBntHF4&hl=en&sa=X&ved=0ahUKEwjsl9GVs7PSAhWU2YMKHSuGAJw4HhDoAQgnMAM#v=onepage&q=calculating space complexity&f=false)
 - [Test term in English](https://zhuanlan.zhihu.com/p/139064883)
 - [CodingGame](https://www.codingame.com/start)
+- [ASCII font art](http://patorjk.com/software/taag/#p=display&h=2&f=ANSI%20Shadow&t=Yes%20!)
 
 ### Optional Textbooks:
 

@@ -28,9 +28,9 @@ Sunday: Coding. Pre-read next chapter. ``
 - [x] Mindmap draft
 - [ ] Coding
 - [x] Lecture
-- [x] Mindmap finalize and release
+- [ ] Mindmap finalize and release
 - [x] Office hour
-- [x] Practical Exercises
+- [ ] Practical Exercises
 - [ ] Wrap up practical exercises
 - [ ] Wrap up course
 - [ ] Extra - More practice
