@@ -226,6 +226,7 @@ Function: get_name(), lower
 - [Test term in English](https://zhuanlan.zhihu.com/p/139064883)
 - [CodingGame](https://www.codingame.com/start)
 - [ASCII font art](http://patorjk.com/software/taag/#p=display&h=2&f=ANSI%20Shadow&t=Yes%20!)
+- [Scorpion](https://www.solitairebliss.com/scorpion)
 
 ### Optional Textbooks:
 
