@@ -41,8 +41,8 @@ Refresh course in FA21 term. It seems very demanding.
 - [ ] **Office hour - Sunday**
 - [ ]    **Office hour - Monday**
 - [x] **Discussion: Reply 1**
-- [ ] **Discussion: Reply 2** 
-- [ ] **Discussion: Reply 3**
+- [x] **Discussion: Reply 2** 
+- [x] **Discussion: Reply 3**
 - [ ] Extra read and video
 - [ ] Wrap up: Review all above scoring section in bold. 
 - [x] Download zyBooks for future reference. 
