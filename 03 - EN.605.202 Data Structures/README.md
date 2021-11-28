@@ -203,20 +203,20 @@ Function: get_name(), lower
 ### CheatSheet
 
 - [Big O Cheat Sheet](http://bigocheatsheet.com/)
-
 - [Time (and Space) Complexity of Various Sorting Algorithms](http://scanftree.com/Data_Structure/time-complexity-and-space-complexity-comparison-of-sorting-algorithms)
 - [Visual Data structure](https://visualgo.net/en)
+- [AVL tree simulator](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html)
 - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ### Home work reference
 
 - [Rule of writing pseudocode](https://towardsdatascience.com/pseudocode-101-an-introduction-to-writing-good-pseudocode-1331cb855be7)
-
 - [Array Calculations](http://byteology.weebly.com/blog/array-and-its-address-calculation)
 - [Prefix/Postix Maniputation - Examples](https://filebox.ece.vt.edu/~ECE2574/meeting/11-recursionapp1/slides.pdf)
 - [Infix to Postfix Converter with Steps](https://www.free-online-calculator-use.com/infix-to-postfix-converter.html#)
 - [Infix to Prefix Converter with Steps](https://www.free-online-calculator-use.com/infix-to-prefix-converter.html)
 - [Infix / Postfix converter](https://www.mathblog.dk/tools/infix-postfix-converter/)
+- [B-Trees](https://www.cs.cornell.edu/courses/cs3110/2012sp/recitations/rec25-B-trees/rec25.html#:~:text=A%20B%2Dtree%20of%20order,(typically)%20less%20than%20m.)
 
 ### Misc
 

@@ -2,11 +2,72 @@
 
 ## Course Module
 
+### Summary
 
+Linear Search - Average $N/2$, or $O(N)$
+
+Binary search - $⌊log2N⌋+1$
+
+B trees:
+
+- All keys in a B-tree must be distinct.
+- **All leaf nodes must be at the same level.**
+- An internal node with N keys must have N+1 children. 
+- Keys in a node are stored in sorted order from smallest to largest.
+- Each key in a B-tree internal node has one left subtree and one right subtree. All left subtree keys are < that key, and all right subtree keys are > that key.
+- A B-Tree is defined by the term *minimum degree* ‘t’. The value of t depends upon disk block size.
+- Every node except root must contain at least t-1 keys. The root may contain minimum 1 key.
+- All nodes (including root) may contain at most 2*t – 1 keys.
+- Number of children of a node is equal to the number of keys in it plus 1.
+- B-Tree grows and shrinks from the root which is unlike Binary Search Tree. Binary Search Trees grow downward and also shrink from downward.
+- Assume too big for memory. Better for disk. Node size equal to the disk block size. 
+
+2-3-4 Tree
+
+- Search
+- **Split** the full node (3 keys) during insertion traversal. Preemptive split to make sure parent node has room for middle value from the child. 
+- Rotation: After remove we might need rotation. 
+- Fusion: May need fusion before rotation to make sure we hae sibling with 2 or more keys. Root, non-root fusion. 
+- Merge: After removal. 
+- Assume everything in memory
+
+AVL: 
+
+- Balance factor: left height - right height. 
+- Rotation: LL (R), LR(LR), RR(L), RL(RL)
+- Assume everything in memory
 
 ### Lecture
 
-- 
+Searching Strategies using Sorted data
+
+- Sequential search
+- Binary search
+- Interpoloation search
+- Indexed sequential search
+- Search trees
+- Must Sorted while insearting or deleting. => Cost 
+
+Search tree
+
+- In order traversal will give sorted list. 
+- Search efficiency is the height of the tree
+- Balanced?
+
+Deletion
+
+- 0 child
+- 1 child: promote child
+- 2 children: promote In order successor. 
+
+AVL: Hieght balanced trees. 
+
+B-Trees:m-ary tree, root has 2 more more children. **All leaves are at the same level**. with min number of children ceil(M/2) Node with 
+
+- Red-Black
+- Splay
+- 2-3 
+- 2-3-4
 
 ## ZyBooks
 
@@ -187,9 +248,75 @@ maintaining a minimum height tree requires extensive tree rearrangements. In con
 
 ### 9.9 AVL rotations
 
+<img src="Img/09.09-1.png" alt="drawing" style="height:200px;"/>
+
+#### Algorithms supporting AVL trees
+
+The `AVLTreeUpdateHeight` algorithm updates a node's height value by taking the maximum of the child subtree heights and adding 1. 
+
+The `AVLTreeSetChild` algorithm sets a node as the parent's left or right child, updates the child's parent pointer, and updates the parent node's height. 
+
+The `AVLTreeReplaceChild` algorithm replaces one of a node's existing child pointers with a new value, utilizing `AVLTreeSetChild` to perform the replacement.
+
+The `AVLTreeGetBalance` algorithm computes a node's balance factor by subtracting the right subtree height from the left subtree height.
+
+9.9.7: Right rotation algorithm.
+
+<img src="Img/09.09-2.png" alt="drawing" style="height:200px;"/>
+
+<img src="Img/09.09-3.png" alt="drawing" style="height:200px;"/>
+
+<img src="Img/09.09-4.png" alt="drawing" style="height:200px;"/>
+
+#### AVL tree balancing
+
+When an AVL tree node has a balance factor of 2 or -2, which **only occurs after an insertion or removal**, the node must be rebalanced via rotations. The `AVLTreeRebalance` algorithm updates the height value at a node, computes the balance factor, and rotates if the balance factor is 2 or -2.
+
 ### 9.10 AVL insertions
 
+Rotation
+
+<img src="Img/09.10-1.png" alt="drawing" style="height:200px;"/>
+
+Double Rotation
+
+<img src="Img/09.10-2.png" alt="drawing" style="height:200px;"/>
+
+4 modes
+
+<img src="Img/09.10-3.png" alt="drawing" style="height:400px;"/>
+
+And rotations for 4 modes
+
+<img src="Img/09.10-4.png" alt="drawing" style="height:400px;"/>
+
+An AVL tree insertion involves **searching** for the insert location, **inserting** the new node, **updating** balance factors, and **rebalancing**.
+
+2 examples: Phone book
+
+<img src="Img/09.10-5.png" alt="drawing" style="height:400px;"/>
+
+<img src="Img/09.10-6.png" alt="drawing" style="height:150px;"/>
+
+AVL tree has X levels, the first X-1 levels might not be full. 
+
+AVL tree doesn't guarantee minimum height, as levels are not guaranteed to be kept full. The worst case will be 1.5x min height, So it is still $O(logn)$but not floor$(logn)$ (which is for the min height)
+
+The node passed to AVLTreeInsert must be a leaf node.
+
+#### AVL insertion algorithm complexity
+
+The AVL insertion algorithm traverses the tree from the root to a leaf node to find the insertion point, then traverses back up to the root to rebalance. One node is visited per level, and at most 2 rotations are needed for a single node. Each rotation is an O(1) operation. Therefore, the runtime complexity of insertion is O(log N).
+
+Because a fixed number of temporary pointers are needed for the AVL insertion algorithm, including any rotations, the space complexity is O(1).
+
 ### 9.11 AVL removals
+
+#### Removing nodes in AVL trees
+
+Given a key, an AVL tree **remove** operation removes the first-found matching node, restructuring the tree to preserve all AVL tree requirements. Removal begins by removing the node using the standard BST removal algorithm. After removing a node, all ancestors of the removed node, from the nodes' parent up to the root, are rebalanced. A node is rebalanced by first computing the node's balance factor, then performing rotations if the balance factor is 2 or -2.
+
+
 
 ### 9.12 Red-black tree: A balanced tree
 
