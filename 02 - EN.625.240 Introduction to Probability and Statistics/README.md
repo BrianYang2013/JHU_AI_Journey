@@ -22,17 +22,17 @@ Sunday: Coding. Pre-read next chapter. ``
 
 ## Check List
 
-- [x] Check Course Module: What to read, what to focus this week
-- [x] Reading 1
-- [x] Reading 2
-- [x] Mindmap draft
+- [ ] Check Course Module: What to read, what to focus this week
+- [ ] Reading 1
+- [ ] Reading 2
+- [ ] Mindmap draft
 - [ ] Coding
-- [x] Lecture
+- [ ] Lecture
 - [ ] Mindmap finalize and release
-- [x] Office hour
-- [x] Practical Exercises
-- [x] Wrap up practical exercises
-- [x] Wrap up course
+- [ ] Office hour
+- [ ] Practical Exercises
+- [ ] Wrap up practical exercises
+- [ ] Wrap up course
 - [ ] Extra - More practice
 
 # Check-in

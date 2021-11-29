@@ -25,12 +25,12 @@ Refresh course in FA21 term. It seems very demanding.
 
 ## Check List
 
-- [ ] **zyBooks**
+- [x] **zyBooks**
 - [ ] zyBooks Optional
 - [x] **Discussion: Post**
-- [ ] Lectures
+- [x] Lectures
 - [ ] Extra credit question
-- [ ] **Quizzes**: Wait a few points back 
+- [x] **Quizzes**: Wait a few points back 
 - [ ] **Homework**
 - [x] Programming Assignments - Lab 0
 - [x] Programming Assignments - Lab 1: Wait a few points back 
