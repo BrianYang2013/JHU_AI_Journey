@@ -30,16 +30,16 @@ Refresh course in FA21 term. It seems very demanding.
 - [x] **Discussion: Post**
 - [x] Lectures
 - [ ] Extra credit question
-- [x] **Quizzes**: Wait a few points back 
-- [ ] **Homework**
+- [x] **Quizzes**: 
+- [x] **Homework**
 - [x] Programming Assignments - Lab 0
 - [x] Programming Assignments - Lab 1: Wait a few points back 
 - [x] Programming Assignments - Lab 2: Wait a few points back 
 - [x] Programming Assignments - Lab 3
-- [ ] **Programming Assignments - Lab 4**
+- [ ] **Programming Assignments - Lab 4**: In progress
 - [x] **Office hour - Thursday**
-- [ ] **Office hour - Sunday**
-- [ ]    **Office hour - Monday**
+- [x] **Office hour - Sunday**
+- [x]    **Office hour - Monday**
 - [x] **Discussion: Reply 1**
 - [x] **Discussion: Reply 2** 
 - [x] **Discussion: Reply 3**
