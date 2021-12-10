@@ -37,11 +37,11 @@ Refresh course in FA21 term. It seems very demanding.
 - [x] Programming Assignments - Lab 2:  
 - [x] Programming Assignments - Lab 3: 
 - [x] Programming Assignments - Lab 4: 
-- [ ] **Office hour - Thursday**
+- [x] **Office hour - Thursday**
 - [ ] **Office hour - Sunday**
 - [ ]    **Office hour - Monday**
-- [ ] **Discussion: Reply 1**
-- [ ] **Discussion: Reply 2** 
+- [x] **Discussion: Reply 1**
+- [x] **Discussion: Reply 2** 
 - [ ] **Discussion: Reply 3**
 - [ ] Extra read and video
 - [ ] Wrap up: Review all above scoring section in bold. 
