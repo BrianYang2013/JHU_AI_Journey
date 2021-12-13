@@ -1,4 +1,4 @@
-# Module 102 - Searching
+# Module 12 - Searching
 
 ## Course Module
 

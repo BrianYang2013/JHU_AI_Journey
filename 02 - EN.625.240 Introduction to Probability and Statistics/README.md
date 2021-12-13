@@ -77,6 +77,12 @@ Sunday: Coding. Pre-read next chapter. ``
 - [Interesting article from Regina Nuzzo](https://www.nature.com/articles/506150a)
 - Mid term: 99. add unit to the mu (even the temp result? ), and round up for final result (not accept one digital decimal) 
 
+2021-12-11 Wrap up
+
+- Although I might not perform well on the final, but I do my best. Need focus on data structure and wrap up that one also. 
+- Chapter 13 and 14 mindmap ignored. Because they are mainly on the Excel Data Analysis. 
+- Taking 1 course per term is better. You have more time to read the extra materials, and better understand the ideas behind it. I think this textbook covered more contents than this course expected, and I get a little bit lost in the second half part. 
+
 # STAT Reference
 
 - [Harvard STAT100 CheatSheet](http://people.fas.harvard.edu/~mparzen/stat100/Stat%20100%20Final%20Cheat%20Sheets%20-%20Google%20Docs%20(2).pdf)
