@@ -25,10 +25,10 @@ Refresh course in FA21 term. It seems very demanding.
 
 ## Check List
 
-- [ ] **zyBooks**
+- [x] **zyBooks**
 - [ ] zyBooks Optional
 - [x] **Discussion: Post**
-- [ ] Lectures
+- [x] Lectures
 - [ ] Extra credit question
 - [ ] **Quizzes**: 
 - [ ] **Homework**
@@ -38,8 +38,8 @@ Refresh course in FA21 term. It seems very demanding.
 - [x] Programming Assignments - Lab 3: 
 - [x] Programming Assignments - Lab 4: 
 - [x] **Office hour - Thursday**
-- [ ] **Office hour - Sunday**
-- [ ]    **Office hour - Monday**
+- [x] **Office hour - Sunday**
+- [x]    **Office hour - Monday**
 - [x] **Discussion: Reply 1**
 - [x] **Discussion: Reply 2** 
 - [x] **Discussion: Reply 3**

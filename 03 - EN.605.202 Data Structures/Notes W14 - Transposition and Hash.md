@@ -9,7 +9,17 @@ Hash will consider
 - Hash function covers most of the buckets / Hash table? Even/Odd, percentage. 
 - How many collisions? 
 
-### Lecture
+Consider Empty-after-removal (continue) and empty-since-start(stop)
+
+- Linear probing
+- Quadratic probing
+
+### Lecture 
+
+- Hashing tends to waste space. 
+- As utilization increases, so do collisions
+- $>$65% cause problem. Or 80% per Scott A
+- 
 
 ## ZyBooks
 
@@ -53,11 +63,55 @@ Daniel J. Bernstein created a popular version of a multiplicative string hash fu
 
 <img src="Img/10.03-1.png" alt="drawing" style="height:500px;"/>
 
-10.4 Linear probing
-10.5 Quadratic probing
-10.6 Double hashing
-10.7 Direct hashing
-10.8 Hashing Algorithms: Cryptography, Password Hashing
-10.9 Bucket sort
+### 10.4 Linear probing
+
+A hash table with **linear probing** handles a collision by starting at the key's mapped bucket, and then linearly searches subsequent buckets until an empty bucket is found.
+
+Actually, linear probing distinguishes two types of empty buckets. An **empty-since-start** bucket has been empty since the hash table was created. An **empty-after-removal** bucket had an item removed that caused the bucket to now be empty. The distinction will be important during searches, since searching only stops for empty-since-start, not for empty-after-removal.
+
+### 10.5 Quadratic probing
+
+A hash table with **quadratic probing** handles a collision by starting at the key's mapped bucket, and then quadratically searches subsequent buckets until an empty bucket is found. If an item's mapped bucket is H, the formula$ (H+c1∗i+c2∗i2)mod(tablesize) $is used to determine the item's index in the hash table. c1 and c2 are programmer-defined constants for quadratic probing. Inserting a key uses the formula, starting with i = 0, to repeatedly search the hash table until an empty bucket is found. Each time an empty bucket is not found, i is incremented by 1. Iterating through sequential i values to obtain the desired table index is called the **probing sequence**.
+
+<img src="Img/10.05-0.png" alt="drawing" style="height:300px;"/>
+
+**Search and removal**: The search algorithm uses the probing sequence until the key being searched for is found or an empty-since-start bucket is found. The removal algorithm searches for the key to remove and, if found, marks the bucket as empty-after-removal.
+
+<img src="Img/10.05-1.png" alt="drawing" style="height:400px;"/>
+
+### 10.6 Double hashing
+
+**Double hashing** is an open-addressing collision resolution technique that uses 2 different hash functions to compute bucket indices. Using hash functions h1 and h2, a key's index in the table is computed with the formula $(h1(key)+i∗h2(key))mod(tablesize)$. Inserting a key uses the formula, starting with i = 0, to repeatedly search hash table buckets until an empty bucket is found. Each time an empty bucket is not found, i is incremented by 1. Iterating through sequential i values to obtain the desired table index is called the **probing sequence**.
+
+<img src="Img/10.06-1.png" alt="drawing" style="height:400px;"/>
+
+### 10.7 Direct hashing
+
+A **direct hash function** uses the item's key as the bucket index. Ex: If the key is 937, the index is 937. A hash table with a direct hash function is called a **direct access table**. Given a key, a direct access table **search** algorithm returns the item at index key if the bucket is not empty, and returns null (indicating item not found) if empty.
+
+A direct access table has the advantage of no collisions: Each key is unique (by definition of a key), and each gets a unique bucket, so no collisions can occur. However, a direct access table has two main limitations. 
+
+1. All keys must be non-negative integers, but for some applications keys may be negative.
+2. The hash table's **size equals the largest key value plus 1**, which may be very large.
+
+### 10.8 Hashing Algorithms: Cryptography, Password Hashing
+
+**Cryptography** is a field of study focused on transmitting data securely. Secure data transmission commonly starts with **encryption**: alteration of data to hide the original meaning. The counterpart to encryption is **decryption**: reconstruction of original data from encrypted data.
+
+Caesar cipher: Shift x right or left
+
+MD5 produces a 128-bit hash value for any input data. The hash value cannot be used to reconstruct the original data, but can be used to help verify that data isn't corrupt and hasn't been altered.
+
+- Two identical MD5 hash values imply a high likelihood that the data is uncorrupted, but not a guarantee. Different hash values, on the other hand, guarantee that the data is corrupted. 
+
+**Cryptographic hashing**
+
+- A **cryptographic hash function** is a hash function designed specifically for cryptography. Such a function is commonly used for encrypting and decrypting data.
+
+- A **password hashing function** is a cryptographic hashing function that produces a hash value for a password. Databases for online services commonly store a user's password hash as opposed to the actual password. When the user attempts a login, the supplied password is hashed, and the hash is compared against the database's hash value. Because the passwords are not stored, if a database with password hashes is breached, attackers may still have a difficult time determining a user's password.
+
+### 10.9 Bucket sort
+
+**Bucket sort** is a numerical sorting algorithm that distributes numbers into buckets, sorts each bucket with an additional sorting algorithm, and then concatenates buckets together to build the sorted result. A **bucket** is a container for numerical values in a specific range. Ex: All numbers in the range 0 to 49 may be stored in a bucket representing this range. Bucket sort is designed for arrays with non-negative numbers.
 
 ### 
