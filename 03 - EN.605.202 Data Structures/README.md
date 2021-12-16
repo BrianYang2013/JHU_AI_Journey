@@ -30,8 +30,8 @@ Refresh course in FA21 term. It seems very demanding.
 - [x] **Discussion: Post**
 - [x] Lectures
 - [ ] Extra credit question
-- [ ] **Quizzes**: 
-- [ ] **Homework**
+- [x] **Quizzes**: 
+- [x] **Homework**
 - [x] Programming Assignments - Lab 0
 - [x] Programming Assignments - Lab 1:
 - [x] Programming Assignments - Lab 2:  
@@ -159,6 +159,12 @@ Tuesday: Due day, wrap up:
 - 9/19, finished everything in W03. Cool, I catch up with the schedule. I need to start lab 0 and lab 1. 
 - From the lecture, I can see our professor really really love recursion. She spent half of the video talking about 2 real recursion languages. So when I was taking the ugly multiply words selection problem, I started with some reasonable results. But I decided to spend my last 5 minutes double-checking the lecture and what she said—a strange choice of the words, but Bingo, no issues. 
 
+2021-12-15 Summary
+
+- Two courses per term are not easy. It is possible, but can not keep a good work and life balance. 
+- I made some silly mistakes, especially in the STAT final and Lab4. Focus on the essential things. 
+- Finishing the course with a good grade does not mean anything. It won't guarantee you thoughtfully understand all materials. But practice will do. Better review all materials every six months. 
+
 # Areas to improve
 
 - Hard to use blackboard. 
@@ -260,4 +266,3 @@ Principle: Optimize during the compile time, rather than runtime.
 - Common subexpression elimination
 - Software pipelining
 - strength reduction
-- 
