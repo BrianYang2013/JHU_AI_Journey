@@ -2,6 +2,8 @@
 Artificial Intelligence, Master of Science @ JHU Whiting School of Engineering.
 Start from 2021 summer
 
+Want to know more about JHU EP? Here is a shared collective document on [JHU EP 101](https://docs.google.com/document/d/1HxCGx-5_n8WWgToqxkptXDeTSDQLgkvuunTKfPwlj_8/edit?usp=sharing)
+
 ## Why this repo
 * Collect information, Plan and reflection on my master journey.
 * Provide a reference, a checking point, a date point to the community.
