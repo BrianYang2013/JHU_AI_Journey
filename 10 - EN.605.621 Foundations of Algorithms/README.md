@@ -31,9 +31,9 @@ About this course
 
 - [ ] PA: Programming Assignments
 
-  
+- [ ] Wednesday: post
 
-- [ ] Discussion: Post
+- [ ] Friday: discussion post
 
 - [ ] Lectures
 
@@ -45,22 +45,10 @@ About this course
 
 - 
 
-## Survive tips
+## Textbook
 
-- 
-
-## Routine - Draft
-
-- 
-
-## Points
-
-- 
-
-
-### Extra points
-
-- 
+- 2, 3; A, 4; 34; C, 5; 6, 7, 8; 9, 12, 14; 
+- 15, 16; 17; 21; 22, 23; 24, 26; 29; 35
 
 # Notes
 
