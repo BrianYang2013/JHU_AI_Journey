@@ -1,6 +1,8 @@
 About this course
 
+# Textbook
 
+- Introduction to Algorithms, 3rd Ed., T. H. Cormen, C. E. Leiserson, R. L. Rivest and C. Stein, McGraw Hill [ISBN 978-0-262-03384-8]
 
 # Approach
 
@@ -24,41 +26,41 @@ About this course
 ## Check List
 
 - [ ] Read
-
 - [ ] HW: Home works
-
 - [ ] CA: Collaborative Assessments
-
 - [ ] PA: Programming Assignments
-
+- [ ] Quiz
 - [ ] Wednesday: post
-
 - [ ] Friday: discussion post
-
-- [ ] Lectures
-
+- [ ] Lectures? 
 - [ ] Office hour - Thursday
 
-  
-
-## Check-in 
-
-- 
-
-## Textbook
-
-- 2, 3; A, 4; 34; C, 5; 6, 7, 8; 9, 12, 14; 
-- 15, 16; 17; 21; 22, 23; 24, 26; 29; 35
 
 # Notes
 
 2022-01-31 W01 Reflect:
 
-- 
+# Reference
 
-# Areas to improve
+## General 
 
-- 
+### General Algorithm Links
+
+1. [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/) developed by NIST. In addition to information about algorithms you can also get information about asymptotic families such as [little-o notation](https://xlinux.nist.gov/dads/HTML/littleOnotation.html)
+2. [Wolfram MathWorld](https://mathworld.wolfram.com/) is an excellent source to look up concepts used in this course. Since it is a curated and reviewed site, you can rely on the material being correct. You might, for example, look up MAXIMUM clique and MAXIMAL clique on this site.
+3. [Abramowitz and Stegun: Handbook of Mathematical Functions](https://www.math.ubc.ca/~cbm/aands/) on-line book and [NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov/)
+4. [The Stony Brook Algorithm Repository](http://www.cs.sunysb.edu/~algorith/), Steven S. Skiena, Department of Computer Science, State University of New York
+5. [Numerical Recipes](http://numerical.recipes/book/book.html) Bookreader
+
+## CheatSheet and Tools
+
+- [Big O Cheat Sheet](http://bigocheatsheet.com/)
+- [Time (and Space) Complexity of Various Sorting Algorithms](http://scanftree.com/Data_Structure/time-complexity-and-space-complexity-comparison-of-sorting-algorithms)
+- [Visual Data structure](https://visualgo.net/en)
+- [AVL tree simulator](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html)
+- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+
+- [B-Trees](https://www.cs.cornell.edu/courses/cs3110/2012sp/recitations/rec25-B-trees/rec25.html#:~:text=A%20B%2Dtree%20of%20order,(typically)%20less%20than%20m.)
 
 ## Naming Convension
 
@@ -81,36 +83,7 @@ Variable:
 
 Function: get_name(), lower
 
-
-
-# IntelliJ IDEA Shortcut
-
-- command + K: Clear terminal
-
-# Reference
-
-### CheatSheet
-
-- [Big O Cheat Sheet](http://bigocheatsheet.com/)
-- [Time (and Space) Complexity of Various Sorting Algorithms](http://scanftree.com/Data_Structure/time-complexity-and-space-complexity-comparison-of-sorting-algorithms)
-- [Visual Data structure](https://visualgo.net/en)
-- [AVL tree simulator](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html)
-- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
-
-### Home work reference
-
-- [B-Trees](https://www.cs.cornell.edu/courses/cs3110/2012sp/recitations/rec25-B-trees/rec25.html#:~:text=A%20B%2Dtree%20of%20order,(typically)%20less%20than%20m.)
-
-### Misc
-
-- [Notes on Time and Space Complexity](http://www.leda-tutorial.org/en/official/ch02s02s03.html)
-- [Complexity Analysis](https://www.cs.utexas.edu/users/djimenez/utsa/cs1723/lecture2.html)
-- [Calculating Space Complexity](https://books.google.com/books?id=JPkBDj1C53YC&pg=PA31&lpg=PA31&dq=calculating+space+complexity&source=bl&ots=qBWjcasgHb&sig=qKfTPKJhJ__4W2_g7zo_KBntHF4&hl=en&sa=X&ved=0ahUKEwjsl9GVs7PSAhWU2YMKHSuGAJw4HhDoAQgnMAM#v=onepage&q=calculating space complexity&f=false)
-- [Test term in English](https://zhuanlan.zhihu.com/p/139064883)
-- [CodingGame](https://www.codingame.com/start)
-- [ASCII font art](http://patorjk.com/software/taag/#p=display&h=2&f=ANSI%20Shadow&t=Yes%20!)
-
-### Reference Books:
+## Reference Books:
 
 - Discrete Mathematics
   - Discrete mathematics and its applications by Rosen, Kenneth H
