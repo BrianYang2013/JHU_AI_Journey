@@ -36,6 +36,10 @@ About this course
 - [ ] Office hour - Thursday
 
 
+## To Do List
+
+- [ ] Check out the library service
+
 # Notes
 
 2022-01-31 W01 Reflect:
@@ -47,10 +51,24 @@ About this course
 ### General Algorithm Links
 
 1. [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/) developed by NIST. In addition to information about algorithms you can also get information about asymptotic families such as [little-o notation](https://xlinux.nist.gov/dads/HTML/littleOnotation.html)
-2. [Wolfram MathWorld](https://mathworld.wolfram.com/) is an excellent source to look up concepts used in this course. Since it is a curated and reviewed site, you can rely on the material being correct. You might, for example, look up MAXIMUM clique and MAXIMAL clique on this site.
-3. [Abramowitz and Stegun: Handbook of Mathematical Functions](https://www.math.ubc.ca/~cbm/aands/) on-line book and [NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov/)
-4. [The Stony Brook Algorithm Repository](http://www.cs.sunysb.edu/~algorith/), Steven S. Skiena, Department of Computer Science, State University of New York
-5. [Numerical Recipes](http://numerical.recipes/book/book.html) Bookreader
+2. [The Stony Brook Algorithm Repository](http://www.cs.sunysb.edu/~algorith/), Steven S. Skiena, Department of Computer Science, State University of New York
+3. [Wolfram MathWorld](https://mathworld.wolfram.com/) is an excellent source to look up concepts used in this course. Since it is a curated and reviewed site, you can rely on the material being correct. You might, for example, look up MAXIMUM clique and MAXIMAL clique on this site.
+4. [Numerical Recipes](http://numerical.recipes/book/book.html) Bookreader
+5. [Abramowitz and Stegun: Handbook of Mathematical Functions](https://www.math.ubc.ca/~cbm/aands/) on-line book and [NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov/)
+
+### General Mathematics & AlgorithmLinks 
+
+1. [arXiv.org e-Print archive](http://arxiv.org/), Cornell University Library Host
+2. [Project Euclid](https://projecteuclid.org/), mathematics and statistics online
+3. [CiteSeerX](https://citeseer.ist.psu.edu/index), scientific literature digital library and search engine
+4. [TBerkeley EECS Electrical Engineering and Computer Science](https://www2.eecs.berkeley.edu/Pubs/TechRpts/) Technical Reports
+5. [Very Large Data Base Endowment Inc.](http://www.vldb.org/), "(VLDB Endowment) is non-profit organisation incorporated in the United States for the sole purpose of promoting and exchanging scholarly work in databases and related fields throughout the world".
+6. [Quanta Magazine](https://www.quantamagazine.org/) "is an editorially independent online publication launched by the Simons Foundation to enhance public understanding of science"
+7. [random.org](http://www.random.org/) random number generator
+
+## Advanced Algorithm Links
+
+Todo
 
 ## CheatSheet and Tools
 
