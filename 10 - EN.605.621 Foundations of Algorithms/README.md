@@ -25,16 +25,17 @@ About this course
 
 ## Check List
 
-- [ ] Read
+- [ ] Read the textbook
+- [ ] Lectures - Video
+- [ ] Lectures - PDF
+- [ ] Wednesday - post
+- [ ] Thursday - Office hour
+- [ ] Friday - discussion post, extra office hour
+- [ ] Mindmap
 - [ ] HW: Home works
 - [ ] CA: Collaborative Assessments
 - [ ] PA: Programming Assignments
 - [ ] Quiz
-- [ ] Wednesday: post
-- [ ] Friday: discussion post
-- [ ] Lectures? 
-- [ ] Office hour - Thursday
-
 
 ## To Do List
 
@@ -69,6 +70,13 @@ About this course
 ## Advanced Algorithm Links
 
 Todo
+
+## Support document
+
+- [ ] Functions and Isomorphism
+- [ ] [Proofs](https://www.people.vcu.edu/~rhammack/BookOfProof/)
+- [ ] Book code and LaTeX
+- [ ] Microsoft Equation Editor Reference Sheets
 
 ## CheatSheet and Tools
 
