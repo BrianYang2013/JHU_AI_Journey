@@ -4,38 +4,79 @@ About this course
 
 - Introduction to Algorithms, 3rd Ed., T. H. Cormen, C. E. Leiserson, R. L. Rivest and C. Stein, McGraw Hill [ISBN 978-0-262-03384-8]
 
-# Approach
+# Topic Flow
 
-- Focus on logic. No library (except IO and math). 
-- Understand the problem and the benefits gained in selecting a particular strategy or tools. Focus on the trade offs. Consider Pro and cons among many different factors, such as: 
-  - Programming environment
-  - Time constraints
-  - Existing code
-  - Personal preferences
-- Consider forming a study group. 
+- Analysis Foundations: 
 
-- Spread your effort out over the week. Coding every day. 
+  - Intro: What are algorithms? What are we analyzing? 
+  - Data Structures: Review, Some new ones
 
-- [Feynman Technique](https://en.wikipedia.org/wiki/Feynman_Technique)
-  - **Concept**: Choose the subject to study
-  - **Explain**: Pretend to explain it to a child
-  - **Fill**: Fill in gaps in understanding exposed in step 2 by returning to the sources
-  - **Simplify**: Simplify the explanation
-- Discussion: Critical thinking
+  - Analysis Tools: Summations, Induction, Recurrences, Probability, Amortization
+  - Hard Problems: Languages, Computability, NP Completeness
+
+- Algorithm type design: 
+
+  - Sorting/Selection: Simple, Efficient, Data structure(again)
+  - Graphs/Networks: Connectivity, Paths, Flows
+  - Optimization: Dynamic programming, Linear programming
+  - Hard problems: Randomization, Approximation
+
+- Topics not in book
+  - Binomial Heaps
+  - All Dimention Trees
+  - Turing machines / Chomsky hierarchy
+  - Polynomial hierarchy
+  - Markov Decision Processes
+  - Linear Programming for games
+  - Stochastic sampling
+  - Stochastic search and evolutionary algorithms
+
+# *Approach*
+
+- *Focus on logic. No library (except IO and math).* 
+- *Understand the problem and the benefits gained in selecting a particular strategy or tools. Focus on the trade offs. Consider Pro and cons among many different factors, such as:* 
+  - *Programming environment*
+  - *Time constraints*
+  - *Existing code*
+  - *Personal preferences*
+- *Consider forming a study group.* 
+
+- *Spread your effort out over the week. Coding every day.* 
+
+- *[Feynman Technique](https://en.wikipedia.org/wiki/Feynman_Technique)*
+  - ***Concept**: Choose the subject to study*
+  - ***Explain**: Pretend to explain it to a child*
+  - ***Fill**: Fill in gaps in understanding exposed in step 2 by returning to the sources*
+  - ***Simplify**: Simplify the explanation*
+- *Discussion: Critical thinking*
 
 ## Check List
 
-- [ ] Read the textbook
-- [ ] Lectures - Video
+- [x] Read the textbook
+- [x] Lectures - Video
 - [ ] Lectures - PDF
-- [ ] Wednesday - post
-- [ ] Thursday - Office hour
-- [ ] Friday - discussion post, extra office hour
+- [x] D3, Thursday - post
+  - [x] Give a name
+  - [x] Be precise:  CLRS, page nn-mm / URL
+
+- [x] Thursday - Office hour
+- [x] D5, Saturday - discussion post
+  - [x] Reply to EVERYONE's post
+
 - [ ] Mindmap
 - [ ] HW: Home works
 - [ ] CA: Collaborative Assessments
-- [ ] PA: Programming Assignments
+- [ ] PA: Programming Assignments: Start early. 
 - [ ] Quiz
+- [ ] Optional: Friday, Office hour for other sessions. 
+
+## Grading
+
+- HW: 45%
+- PA: 40%
+- Discussion/Collaboration: 15%
+
+
 
 ## To Do List
 
