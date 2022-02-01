@@ -21,9 +21,9 @@ About this course
   - Optimization: Dynamic programming, Linear programming
   - Hard problems: Randomization, Approximation
 
-- Topics not in book
+- Topics not in the textbook
   - Binomial Heaps
-  - All Dimention Trees
+  - All Dimension Trees
   - Turing machines / Chomsky hierarchy
   - Polynomial hierarchy
   - Markov Decision Processes
@@ -52,6 +52,8 @@ About this course
 
 ## Check List
 
+- [x] **Check Grade Center every day**
+
 - [x] Read the textbook
 - [x] Lectures - Video
 - [ ] Lectures - PDF
@@ -67,16 +69,17 @@ About this course
 - [ ] HW: Home works
 - [ ] CA: Collaborative Assessments
 - [ ] PA: Programming Assignments: Start early. 
-- [ ] Quiz
+- [x] Quiz
 - [ ] Optional: Friday, Office hour for other sessions. 
 
 ## Grading
 
+- [x] HW Expectations Quiz
+- [x] Module 1 Discussion
+
 - HW: 45%
 - PA: 40%
 - Discussion/Collaboration: 15%
-
-
 
 ## To Do List
 
