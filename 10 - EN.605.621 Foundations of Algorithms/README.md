@@ -52,30 +52,29 @@ About this course
 
 ## Check List
 
-- [x] **Check Grade Center every day**
+- [ ] **Check Grade Center every day**
+  - [ ] Discussion
+  - [ ] HW: Home works  -  due this week
+  - [ ] CA: Collaborative Assessments - due this week
+  - [ ] PA: Programming Assignments: Start early. 
 
-- [x] Read the textbook
-- [x] Lectures - Video
-- [ ] Lectures - PDF
-- [x] D3, Thursday - post
-  - [x] Give a name
-  - [x] Be precise:  CLRS, page nn-mm / URL
-
-- [x] Thursday - Office hour
-- [x] D5, Saturday - discussion post
-  - [x] Reply to EVERYONE's post
-
+- [ ] Textbook
+- [ ] Lectures - Video
+- [ ] Lectures - PDF, Materials
+- [ ] D3, Thursday - post
+  - [ ] Give a name
+  - [ ] Be precise:  CLRS, page nn-mm / URL
+- [ ] Thursday - Office hour
+- [ ] D5, Saturday - discussion post
+  - [ ] Reply to EVERYONE's post
 - [ ] Mindmap
-- [ ] HW: Home works
-- [ ] CA: Collaborative Assessments
-- [ ] PA: Programming Assignments: Start early. 
-- [x] Quiz
+- [ ] Quiz
 - [ ] Optional: Friday, Office hour for other sessions. 
 
 ## Grading
 
-- [x] HW Expectations Quiz
-- [x] Module 1 Discussion
+- [ ] HW Expectations Quiz
+- [ ] Module 1 Discussion
 
 - HW: 45%
 - PA: 40%
@@ -124,13 +123,13 @@ Todo
 
 ## CheatSheet and Tools
 
-- [Big O Cheat Sheet](http://bigocheatsheet.com/)
-- [Time (and Space) Complexity of Various Sorting Algorithms](http://scanftree.com/Data_Structure/time-complexity-and-space-complexity-comparison-of-sorting-algorithms)
-- [Visual Data structure](https://visualgo.net/en)
-- [AVL tree simulator](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html)
-- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
-
-- [B-Trees](https://www.cs.cornell.edu/courses/cs3110/2012sp/recitations/rec25-B-trees/rec25.html#:~:text=A%20B%2Dtree%20of%20order,(typically)%20less%20than%20m.)
+- Reference: Summary of Asymptotic Notations
+- *[Big O Cheat Sheet](http://bigocheatsheet.com/)*
+- *[Time (and Space) Complexity of Various Sorting Algorithms](http://scanftree.com/Data_Structure/time-complexity-and-space-complexity-comparison-of-sorting-algorithms)*
+- *[Visual Data structure](https://visualgo.net/en)*
+- *[AVL tree simulator](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html)*
+- *[Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)*
+- *[B-Trees](https://www.cs.cornell.edu/courses/cs3110/2012sp/recitations/rec25-B-trees/rec25.html#:~:text=A%20B%2Dtree%20of%20order,(typically)%20less%20than%20m.)*
 
 ## Naming Convension
 
