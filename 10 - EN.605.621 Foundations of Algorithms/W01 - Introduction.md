@@ -46,7 +46,7 @@ Asymptotic Notation in Equations
 - Left side: **No matter how** the anomymous functions are chosen on the **left** side, **there is a way** to choose the anonymous functions on the **right** hand to make the equation valid. 
 - Formula: when asymptotic notation appears in a formula, we interpret it as standing for some anonymous function that we do not care to name
 
-Tight bounds: $\Theta$
+**Asymptotically tight bounds**: $\Theta$
 
 Comparison of functions
 
