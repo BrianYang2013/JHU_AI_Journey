@@ -14,7 +14,7 @@ About this course
   - Analysis Tools: Summations, Induction, Recurrences, Probability, Amortization
   - Hard Problems: Languages, Computability, NP Completeness
 
-- Algorithm type design: 
+- Algorithm types design: 
 
   - Sorting/Selection: Simple, Efficient, Data structure(again)
   - Graphs/Networks: Connectivity, Paths, Flows
@@ -73,8 +73,9 @@ About this course
 
 ## Grading
 
-- [ ] HW Expectations Quiz
-- [ ] Module 1 Discussion
+- [ ] Discussion
+- [ ] Discussion - Reply
+- [ ] PA
 
 - HW: 45%
 - PA: 40%
