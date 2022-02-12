@@ -66,3 +66,14 @@ Master Theorem:
 - Maintenance
 - Termination
 
+## T(n) Examples
+
+- $T(n) = 3T(n/4)+cn^2$,   $T(n)=\Theta(n^2)$
+- Change the variables
+  - $T(n)=2T(\sqrt n)+ \lg n$, $T(n)=O(\lg n \lg \lg n)$
+- Master method
+  - $T(n) = 9T(n/3) + n$,   $T(n)=\Theta(n^2)$
+  - $T(n) = T(2n/3) + 1$,   $T(n)=\Theta(\lg n)$
+  - $T(n) = 3T(n/4) + n \lg n$,   $T(n)=\Theta(n \lg n)$
+  - 
+

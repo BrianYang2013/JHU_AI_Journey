@@ -73,8 +73,9 @@ About this course
 
 ## Grading
 
-- [ ] Discussion
-- [ ] Discussion - Reply
+- [x] Discussion
+- [x] Discussion - Reply
+- [x] Extra Credit Problem
 - [ ] PA
 
 - HW: 45%
@@ -133,6 +134,11 @@ Todo
 - *[B-Trees](https://www.cs.cornell.edu/courses/cs3110/2012sp/recitations/rec25-B-trees/rec25.html#:~:text=A%20B%2Dtree%20of%20order,(typically)%20less%20than%20m.)*
 
 ## Naming Convension
+
+Style:
+
+- [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+- [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 
 Reference: 
 
