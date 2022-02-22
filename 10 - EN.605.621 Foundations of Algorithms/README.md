@@ -52,12 +52,6 @@ About this course
 
 ## Check List
 
-- [ ] **Check Grade Center every day**
-  - [ ] Discussion
-  - [ ] HW: Home works  -  due this week
-  - [ ] CA: Collaborative Assessments - due this week
-  - [ ] PA: Programming Assignments: Start early. 
-
 - [ ] Textbook
 - [ ] Lectures - Video
 - [ ] Lectures - PDF, Materials
@@ -73,10 +67,23 @@ About this course
 
 ## Grading
 
-- [x] Discussion
-- [x] Discussion - Reply
-- [x] Extra Credit Problem
-- [ ] PA
+**Check Grade Center every day**
+
+- [ ] Discussion
+
+- [ ] Discussion - Reply
+
+- [ ] HW3: -  due NEXT week
+
+- [ ] PA2: Due W7. Start early. 
+
+- [ ] Not this week: 
+
+  - [ ] CA: Collaborative Assessments
+
+  - [ ] Extra Credit Problem
+
+Grading Weight: 
 
 - HW: 45%
 - PA: 40%
