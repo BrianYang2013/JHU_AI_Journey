@@ -48,12 +48,12 @@ Probabilistic Analysis
 
 Indicator Rrandom Variables
 
-Online hiering problem: Only hire one candidate
+Online hiring problem: Only hire one candidate
 
 - Hiring strategy: select some $k<n$ indicating that we will reject the first $k$ applicants regardless of their score. Hire the $n^{th}$ if no better found
 - Analysis:
   - The best candidate find on $i$
-  - The algorithm must not pick any candiates in the range $[k+1, i-1]$
+  - The algorithm must not pick any candidates in the range $[k+1, i-1]$
   - <img src="Img/w05-03.png" align='left' alt="drawing" style="height:100px;"/>
   - <img src="Img/w05-04.png" align='left' alt="drawing" style="height:300px;"/>
 
@@ -61,9 +61,9 @@ Online hiering problem: Only hire one candidate
 
 ## Algorithm Type
 
-The goal of any algorithm is to solve some computational problem correctly and efficiently.
+The goal of any algorithm is to solve some computational problems correctly and efficiently.
 
-Deterministric Algorithms: a particular input/output pair is always the same.
+Deterministic Algorithms: a particular input/output pair is always the same.
 
 Randomized algorithms can be deterministic, or nondeterministic.  The primary difference: the input includes a source for random numbers.
 
@@ -87,4 +87,4 @@ Properties of Markov Chains
 - Irreducibility
 - Aperiodicity
 
-- Erogodicity
+- Ergodicity
