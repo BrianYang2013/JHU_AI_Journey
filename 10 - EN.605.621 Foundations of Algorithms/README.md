@@ -1,8 +1,9 @@
-About this course
+# About this course
 
-# Textbook
+## Textbook
 
 - Introduction to Algorithms, 3rd Ed., T. H. Cormen, C. E. Leiserson, R. L. Rivest and C. Stein, McGraw Hill [ISBN 978-0-262-03384-8]
+- 4th: Released on April 2022
 
 # Topic Flow
 
@@ -31,24 +32,20 @@ About this course
   - Stochastic sampling
   - Stochastic search and evolutionary algorithms
 
-# *Approach*
+# Tips
 
-- *Focus on logic. No library (except IO and math).* 
-- *Understand the problem and the benefits gained in selecting a particular strategy or tools. Focus on the trade offs. Consider Pro and cons among many different factors, such as:* 
-  - *Programming environment*
-  - *Time constraints*
-  - *Existing code*
-  - *Personal preferences*
-- *Consider forming a study group.* 
-
-- *Spread your effort out over the week. Coding every day.* 
-
-- *[Feynman Technique](https://en.wikipedia.org/wiki/Feynman_Technique)*
-  - ***Concept**: Choose the subject to study*
-  - ***Explain**: Pretend to explain it to a child*
-  - ***Fill**: Fill in gaps in understanding exposed in step 2 by returning to the sources*
-  - ***Simplify**: Simplify the explanation*
-- *Discussion: Critical thinking*
+- Focus on logic. No library (except IO and math). 
+- Understand the problem and the benefits gained in selecting a particular strategy or tools. Focus on the trade offs. Consider Pro and cons among many different factors, such as: 
+  - Programming environment
+  - Time constraints
+  - Existing code
+  - Personal preferences
+- [Feynman Technique](https://en.wikipedia.org/wiki/Feynman_Technique)
+  - **Concept**: Choose the subject to study
+  - **Explain**: Pretend to explain it to a child
+  - **Fill**: Fill in gaps in understanding exposed in step 2 by returning to the sources
+  - **Simplify**: Simplify the explanation
+- Discussion: Critical thinking
 
 ## Check List
 
@@ -63,24 +60,20 @@ About this course
   - [ ] Reply to EVERYONE's post
 - [ ] Mindmap
 - [ ] Quiz
+- [ ] Programming Assignment
 - [ ] Optional: Friday, Office hour for other sessions. 
 
-## Grading
+## Grading - Check List
 
 **Check Grade Center every day**
 
 - [ ] Discussion
-
 - [ ] Discussion - Reply
-
-- [ ] HW3: -  due NEXT week
-
 - [ ] PA2: Due W7. Start early. 
-
 - [ ] Not this week: 
 
+  - [ ] HW: 
   - [ ] CA: Collaborative Assessments
-
   - [ ] Extra Credit Problem
 
 Grading Weight: 
@@ -92,6 +85,20 @@ Grading Weight:
 ## To Do List
 
 - [ ] Check out the library service
+
+# Technique
+
+Master theorem
+
+Substitution
+
+Proof
+
+- Deduction
+- Induction： Loop invariant
+- Contradiction
+
+Amortization Analysis 
 
 # Notes
 
@@ -122,13 +129,6 @@ Grading Weight:
 ## Advanced Algorithm Links
 
 Todo
-
-## Support document
-
-- [ ] Functions and Isomorphism
-- [ ] [Proofs](https://www.people.vcu.edu/~rhammack/BookOfProof/)
-- [ ] Book code and LaTeX
-- [ ] Microsoft Equation Editor Reference Sheets
 
 ## CheatSheet and Tools
 
