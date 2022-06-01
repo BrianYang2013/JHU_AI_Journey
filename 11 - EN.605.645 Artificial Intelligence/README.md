@@ -4,7 +4,7 @@
 
 - Russell, S. & Norvig, P. (2020). ArtiCcial intelligence: A modern approach (4th ed.) Pearson. ISBN-10: 013461097 ISBN-13: 978-0134610997
 
-# Topic Flow
+# Course Topics
 
 - State Space Search
 - Local Search/Evolutionary Optimization
@@ -17,7 +17,8 @@
 - Bayesian Networks
 - Planning
 - Reinforcement Learning
-- Regression & Artificial Neural Networks
+- Regression and SVM
+- Artificial Neural Networks
 
 
 
@@ -38,12 +39,12 @@
 
 ## Check List
 
-- [ ] Textbook
-- [ ] Lectures - Videos, extra reading materials
-- [ ] Self-Check
+- [ ] Review Self-Check, PA
+- [ ] Watch Lectures - Videos, extra reading materials
+- [ ] Read Textbook
+- [ ] Post
 - [ ] Programming
 - [ ] Assessments
-- [ ] Office Hours
 - [ ] Mindmap
 
 ## Grading
@@ -51,21 +52,31 @@
 **Check Grade Center every day**
 
 - [ ] Everyday: respond to email
-- [ ] Everyday: Announcements, Posts, etc.
-- [ ] Thursday: Self-Check, Submission (PDF) due. 
-- [ ] Thursday: Group Discussion
-  - [ ] Thursday: Post self-check questions in discussion group. Respond to ALL questions. 
-  - [ ] Review at least two other self-checks and post comments. Start with fewest responses so far. 
-
+- [ ] Everyday: Check Canvas on Announcements, Posts, etc.
+- [ ] Wednesday: Office Hours
+- [ ] Thursday: **Submit** Self-Check in PDF, **Post** self-check questions in discussion group. Respond to ALL questions. 
+- [ ] Friday: Group Discussion, Review at least two other self-checks and post comments. Start with fewest responses so far. 
 - [ ] Sundays: PA: Submit notebook: <JHED ID>.ipynb
-- [ ] 10 questions Assessment every week. Timed, Randomized. Can not go back. 
+- [ ] Sunday: Assessment, 10 questions every week (this module and previous?). Timed, Randomized. Can not go back. 
 
 **Grades:** 
 
-- Self-checks: 11 of 14
-- Programming Assignments: 11 of 14
-- Assessments: 11 of 14
+- Self-checks: 13/14, SU 12/12
+- Programming Assignments: 12/ 14, SU 10/12
+- Assessments: 12/14, SU 10/13
 - Class Participation: A
+
+**Programming Assignments**
+
+- Professor will: answer all questions, prior to submission, about the algorithm
+- Grade criteria:
+  - Conform to the course programming requirements
+  - Provide the requested output correctly
+- A: 9-10
+
+Assessments
+
+- A: 13-15
 
 # Notes
 
