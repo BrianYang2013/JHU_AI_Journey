@@ -102,7 +102,9 @@ Amortization Analysis
 
 # Notes
 
-2022-01-31 W01 Reflect:
+Bellman-Ford, Dijkstra, with python implementation: https://zhuanlan.zhihu.com/p/494557184
+
+Data structure and algorithm (in C, but with good visual examples): http://data.biancheng.net
 
 # Reference
 
