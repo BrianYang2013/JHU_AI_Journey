@@ -34,7 +34,7 @@
 - [x] Wednesday: Office Hours
 - [x] Thursday night: **Submit** Self-Check in PDF in Canvas, (complete or incomplete)
 - [x] Early Friday: **Post** self-check questions in discussion group.  
-- [ ] Middle Sunday: Group self check comments (discuss conceptually). Review at least two other self-checks and post comments. Start with fewest responses so far. Respond to ALL questions(?).
+- [x] Middle Sunday: Group self check comments (discuss conceptually). Review at least two other self-checks and post comments. Start with fewest responses so far. Respond to ALL questions(?).
 - [ ] Sunday: Assessment, 10 questions this week, 5 random from previous. 45mins, Randomized. Can not go back. => Do it as early as you can. The programming not help assessment, but assessment might help programming. 
 - [ ] Sundays: PA: Submit notebook: <JHED ID>.ipynb
 - [x] Mindmap
