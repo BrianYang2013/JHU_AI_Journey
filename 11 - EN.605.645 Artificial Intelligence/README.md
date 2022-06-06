@@ -7,7 +7,18 @@
 # Course Topics
 
 - State Space Search
+  - Recognize appropriate problems and formulate them as state space search problems.
+  - Explain the operation of Depth First Search (DFS) and Breadth First Search (BFS) including their performance characteristics.
+  - Identify the role that action costs play in state space search and explain how Uniform-Cost Search (UCS), Greedy Search and A* Search take advantage of them.
+  - Explain and formulate admissible cost heuristics.
+  - Implement a computer program that can solve a state space search problem using DFS, BFS, UCS, Greedy Search and A* Search.
+
 - Local Search/Evolutionary Optimization
+  - Compare and contrast the State-Space and Local Search approaches and describe appropriate uses for each.
+  - Apply hill-climbing and simulated annealing algorithms.
+  - Describe different kinds of evolutionary computation, their commonalities and differences.
+  - Implement hill-climbing and genetic algorithm to solve a local search problem.
+
 - Example Based Learning & Model Evaluation
 - Hybrid AI/Real World AI
 - Adversarial Search
