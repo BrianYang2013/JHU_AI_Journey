@@ -12,14 +12,21 @@
   - Identify the role that action costs play in state space search and explain how Uniform-Cost Search (UCS), Greedy Search and A* Search take advantage of them.
   - Explain and formulate admissible cost heuristics.
   - Implement a computer program that can solve a state space search problem using DFS, BFS, UCS, Greedy Search and A* Search.
-
 - Local Search/Evolutionary Optimization
   - Compare and contrast the State-Space and Local Search approaches and describe appropriate uses for each.
   - Apply hill-climbing and simulated annealing algorithms.
   - Describe different kinds of evolutionary computation, their commonalities and differences.
   - Implement hill-climbing and genetic algorithm to solve a local search problem.
+- Pattern Recognition / Example Based Learning & Model Evaluation
+  - Explain the kNN (k-Nearest Neighbor) algorithm, use cases and extensions.
+  - Implement the kNN algorithm.
+  - Describe the difference between kNN and Case-Based Reasoning.
+  - Describe how kNN can be used to implement a Recommender.
+  - Explain and calculate accuracy, precision and recall and describe why precision and recall may be better than accuracy.
+  - Explain and conduct cross-validation on real datasets.
+  - Explain the bias/variance trade off and how it relates to features and data quantity.
+  - Generate and interpret learning curves.
 
-- Example Based Learning & Model Evaluation
 - Hybrid AI/Real World AI
 - Adversarial Search
 - Constraint Satisfaction Problems
@@ -38,17 +45,18 @@
 - [ ] Everyday: Check Team and "Like" every post from professor, as acknowledge that we have read it
 - [ ] Monday: Module Open: 
   - [x] Review Self-Check (do the algorithm by hand), PA (implementation)
-  - [x] Watch Lectures (Videos), extra reading materials. 
-  - [ ] Read Textbook
+  - [ ] Watch Lectures (Videos), extra reading materials. 
+  - [ ] Read Textbook: Only the relevant part. 
 
 
 - [x] Wednesday: Office Hours
 - [x] Thursday night: **Submit** Self-Check in PDF in Canvas, (complete or incomplete)
-- [ ] Early Friday: **Post** self-check questions in discussion group.  
-- [ ] Middle Sunday: Group self check comments (discuss conceptually). Review at least two other self-checks and post comments. Start with fewest responses so far. Respond to ALL questions(?).
-- [ ] Sunday: Assessment, 10 questions this week, 5 random from previous. 45mins, Randomized. Can not go back. => Do it as early as you can. The programming not help assessment, but assessment might help programming. 
-- [ ] Sundays: PA: Submit notebook: <JHED ID>.ipynb
-- [ ] Mindmap
+- [x] Early Friday: **Post** self-check questions in discussion group.  
+- [x] Middle Sunday: Group self check **comments** (discuss conceptually). Review at least two other self-checks and post comments. Start with fewest responses so far. Respond to ALL questions(?).
+- [ ] Sunday: **Assessment**, 10 questions this week, 5 random from previous. 45mins, Randomized. Can not go back. => Do it as early as you can. The programming not help assessment, but assessment might help programming. 
+- [ ] Sundays: **PA**: Submit notebook: <JHED ID>.ipynb
+- [x] Mindmap
+- [x] Special: Overview -> Lecture -> Model evaluation. Look for course notes for the output. 
 
 ## **Programming Assignments**
 
@@ -92,6 +100,11 @@
 
 
 # Tips
+
+- Coding
+  - Use Dictionary to manages the parameters
+  - 20 lines per function
+  - Unit test. 
 
 - Focus on logic. No library (except IO and math). 
 - Understand the problem and the benefits gained in selecting a particular strategy or tools. Focus on the trade offs. Consider Pro and cons among many different factors, such as: 
