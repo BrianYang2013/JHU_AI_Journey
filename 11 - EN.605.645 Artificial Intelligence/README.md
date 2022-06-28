@@ -26,9 +26,18 @@
   - Explain and conduct cross-validation on real datasets.
   - Explain the bias/variance trade off and how it relates to features and data quantity.
   - Generate and interpret learning curves.
-
 - Hybrid AI/Real World AI
+  - Explain the Hybrid AI model and place subsequent algorithms in their proper place.
+  - Understand the issues surrounding putting AI models in production and design solutions to solve those issues.
+  - Implement an application exposing an AI algorithm.
+
 - Adversarial Search
+  - Identify search problems that are games and understand the terms used in game theory.
+  - Apply minimax and alpha-beta pruning to an extensive form game.
+  - Explain the role of heuristics in adversarial search.
+  - Describe how chance can be incorporated into the game tree and how the expectimax algorithm works.
+  - Solve normal form games by finding both pure and mixed strategies.
+
 - Constraint Satisfaction Problems
 - Logic
 - Decision Trees
