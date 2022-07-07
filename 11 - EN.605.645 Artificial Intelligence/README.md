@@ -7,17 +7,22 @@
 # Course Topics
 
 - State Space Search
+  
   - Recognize appropriate problems and formulate them as state space search problems.
   - Explain the operation of Depth First Search (DFS) and Breadth First Search (BFS) including their performance characteristics.
   - Identify the role that action costs play in state space search and explain how Uniform-Cost Search (UCS), Greedy Search and A* Search take advantage of them.
   - Explain and formulate admissible cost heuristics.
   - Implement a computer program that can solve a state space search problem using DFS, BFS, UCS, Greedy Search and A* Search.
+
 - Local Search/Evolutionary Optimization
+  
   - Compare and contrast the State-Space and Local Search approaches and describe appropriate uses for each.
   - Apply hill-climbing and simulated annealing algorithms.
   - Describe different kinds of evolutionary computation, their commonalities and differences.
   - Implement hill-climbing and genetic algorithm to solve a local search problem.
+
 - Pattern Recognition / Example Based Learning & Model Evaluation
+  
   - Explain the kNN (k-Nearest Neighbor) algorithm, use cases and extensions.
   - Implement the kNN algorithm.
   - Describe the difference between kNN and Case-Based Reasoning.
@@ -26,12 +31,15 @@
   - Explain and conduct cross-validation on real datasets.
   - Explain the bias/variance trade off and how it relates to features and data quantity.
   - Generate and interpret learning curves.
+
 - Hybrid AI/Real World AI
+  
   - Explain the Hybrid AI model and place subsequent algorithms in their proper place.
   - Understand the issues surrounding putting AI models in production and design solutions to solve those issues.
   - Implement an application exposing an AI algorithm.
 
 - Adversarial Search
+  
   - Identify search problems that are games and understand the terms used in game theory.
   - Apply minimax and alpha-beta pruning to an extensive form game.
   - Explain the role of heuristics in adversarial search.
@@ -39,12 +47,19 @@
   - Solve normal form games by finding both pure and mixed strategies.
 
 - Constraint Satisfaction Problems
+
 - Logic
+
 - Decision Trees
+
 - Bayesian Networks
+
 - Planning
+
 - Reinforcement Learning
+
 - Regression and SVM
+
 - Artificial Neural Networks
 
 ## Check List
@@ -57,34 +72,40 @@
   - [ ] Watch Lectures (Videos), extra reading materials. 
   - [ ] Read Textbook: Only the relevant part. 
 
-
 - [x] Wednesday: Office Hours
 - [x] Thursday night: **Submit** Self-Check in PDF in Canvas, (complete or incomplete)
-- [x] Early Friday: **Post** self-check questions in discussion group.  
-- [x] Middle Sunday: Group self check **comments** (discuss conceptually). Review at least two other self-checks and post comments. Start with fewest responses so far. Respond to ALL questions(?).
+- [ ] Early Friday: **Post** self-check questions in discussion group.  
+- [ ] Middle Sunday: Group self check **comments** (discuss conceptually). Review at least two other self-checks and post comments. Start with fewest responses so far. Respond to ALL questions(?).
 - [ ] Sunday: **Assessment**, 10 questions this week, 5 random from previous. 45mins, Randomized. Can not go back. => Do it as early as you can. The programming not help assessment, but assessment might help programming. 
 - [ ] Sundays: **PA**: Submit notebook: <JHED ID>.ipynb
-- [x] Mindmap
-- [x] Special: Overview -> Lecture -> Model evaluation. Look for course notes for the output. 
+- [ ] Mindmap
+- [ ] Special: Overview -> Lecture -> Model evaluation. Look for course notes for the output. 
 
 ## **Programming Assignments**
 
 - In functional style: Functional Programming approach constructs programs by building up small easily testable *pure* functions into a domain specific language (DSL) for the problem at hand called by *impure* functions at the edges of the program.
+  
   - Functions are first class values, independent of Classes or Types.
   - Data modeling with generic data structures: lists, sets, dictionaries, tuples instead of Classes.
   - Operations such as iteration are replaced with higher level oft repeated abstractions such as map, filter and reduce.
+
 - Office hour 1
+  
   - Basic python structures. 
   - Functional, take arguments and return arguments. 
   - Documentation: clear, follow template, ID, name, function, description, the theory behind (A* requries a heuristic)
-  - Implemenation: better with annotation, optional. 
+  - Implementation: better with annotation, optional. 
   - 3 unit tests - corner cases ... assert. 
   - **Only the requested output is acceptable.** 
   - Under 20 lines
+
 - Professor will: answer all questions, prior to submission, about the algorithm
+
 - Grade criteria:
+  
   - Conform to the course programming requirements
   - Provide the requested output correctly
+
 - A: 9-10
 
 - 
@@ -106,33 +127,35 @@
 - Take one course at at time. Two courses for full time students. 
 - No late. No external resources. No google. 
 
-
-
 # Tips
 
 - Coding
+  
   - Use Dictionary to manages the parameters
   - 20 lines per function
   - Unit test. 
 
 - Focus on logic. No library (except IO and math). 
+
 - Understand the problem and the benefits gained in selecting a particular strategy or tools. Focus on the trade offs. Consider Pro and cons among many different factors, such as: 
+  
   - Programming environment
   - Time constraints
   - Existing code
   - Personal preferences
+
 - [Feynman Technique](https://en.wikipedia.org/wiki/Feynman_Technique)
+  
   - **Concept**: Choose the subject to study
   - **Explain**: Pretend to explain it to a child
   - **Fill**: Fill in gaps in understanding exposed in step 2 by returning to the sources
   - **Simplify**: Simplify the explanation
+
 - Discussion: Critical thinking
 
 # Reference
 
-## General 
-
-
+## General
 
 ## CheatSheet and Tools
 
@@ -165,4 +188,3 @@ Variable:
 - Private variable: __private_var
 
 Function: get_name(), lower
-
