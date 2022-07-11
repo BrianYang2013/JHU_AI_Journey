@@ -47,6 +47,11 @@
   - Solve normal form games by finding both pure and mixed strategies.
 
 - Constraint Satisfaction Problems
+  
+  - Identify and formulate a constraint satisfaction problem.
+  - Explain and implement backtracking search with forward checking to solve CSPs.
+  - Describe enhancements to backtracking search with forward checking including: Minimum Remaining Values, Degree Heuristic and Least Constraining Value.
+  - Explain and implement Conflict Directed Back-jumping.
 
 - Logic
 
@@ -65,20 +70,31 @@
 ## Check List
 
 - [ ] Everyday: respond to email (give detail information, reduce misunderstanding)
+
 - [ ] Everyday: Check Canvas on Announcements, Posts, etc.
+
 - [ ] Everyday: Check Team and "Like" every post from professor, as acknowledge that we have read it
+
 - [ ] Monday: Module Open: 
-  - [x] Review Self-Check (do the algorithm by hand), PA (implementation)
+  
+  - [ ] Review Self-Check (do the algorithm by hand), PA (implementation)
   - [ ] Watch Lectures (Videos), extra reading materials. 
   - [ ] Read Textbook: Only the relevant part. 
 
-- [x] Wednesday: Office Hours
-- [x] Thursday night: **Submit** Self-Check in PDF in Canvas, (complete or incomplete)
+- [ ] Wednesday: Office Hours
+
+- [ ] Thursday night: **Submit** Self-Check in PDF in Canvas, (complete or incomplete)
+
 - [ ] Early Friday: **Post** self-check questions in discussion group.  
+
 - [ ] Middle Sunday: Group self check **comments** (discuss conceptually). Review at least two other self-checks and post comments. Start with fewest responses so far. Respond to ALL questions(?).
+
 - [ ] Sunday: **Assessment**, 10 questions this week, 5 random from previous. 45mins, Randomized. Can not go back. => Do it as early as you can. The programming not help assessment, but assessment might help programming. 
+
 - [ ] Sundays: **PA**: Submit notebook: <JHED ID>.ipynb
+
 - [ ] Mindmap
+
 - [ ] Special: Overview -> Lecture -> Model evaluation. Look for course notes for the output. 
 
 ## **Programming Assignments**
