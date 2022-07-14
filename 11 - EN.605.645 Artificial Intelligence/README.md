@@ -54,6 +54,14 @@
   - Explain and implement Conflict Directed Back-jumping.
 
 - Logic
+  
+  - Describe the kinds of problems that can be solved with reasoning systems.
+  
+  - Explain and implement the unification algorithms.
+  
+  - Explain the automated reasoning process using both forward and backward chaining.
+  
+  - Apply resolution to a reasoning problem.
 
 - Decision Trees
 
