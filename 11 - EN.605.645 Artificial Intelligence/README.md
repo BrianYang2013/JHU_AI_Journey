@@ -64,6 +64,16 @@
   - Apply resolution to a reasoning problem.
 
 - Decision Trees
+  
+  - Interpret a Decision Tree.
+  
+  - Explain how entropy and information gain are used to learn a Decision Tree from training data.
+  
+  - Explain the problem of overfitting in Decision Trees and describe some solutions.
+  
+  - Implement the basic Decision Tree (ID3) algorithm along with improvements such as normalized information gain and numerical features.
+  
+  - Describe the changes necessary to enable the ID3 algorithm to learn regression trees
 
 - Bayesian Networks
 
@@ -83,23 +93,23 @@
 
 - [ ] Everyday: Check Team and "Like" every post from professor, as acknowledge that we have read it
 
-- [ ] Monday: Module Open: 
+- [x] Monday: Module Open: 
   
-  - [ ] Review Self-Check (do the algorithm by hand), PA (implementation)
-  - [ ] Watch Lectures (Videos), extra reading materials. 
+  - [x] Review Self-Check (do the algorithm by hand), PA (implementation)
+  - [x] Watch Lectures (Videos), extra reading materials. 
   - [ ] Read Textbook: Only the relevant part. 
 
 - [ ] Wednesday: Office Hours
 
-- [ ] Thursday night: **Submit** Self-Check in PDF in Canvas, (complete or incomplete)
+- [x] Thursday night: **Submit** Self-Check in PDF in Canvas, (complete or incomplete)
 
-- [ ] Early Friday: **Post** self-check questions in discussion group.  
+- [x] Early Friday: **Post** self-check questions in discussion group.  
 
-- [ ] Middle Sunday: Group self check **comments** (discuss conceptually). Review at least two other self-checks and post comments. Start with fewest responses so far. Respond to ALL questions(?).
+- [x] Middle Sunday: Group self check **comments** (discuss conceptually). Review at least two other self-checks and post comments. Start with fewest responses so far. Respond to ALL questions(?).
 
 - [ ] Sunday: **Assessment**, 10 questions this week, 5 random from previous. 45mins, Randomized. Can not go back. => Do it as early as you can. The programming not help assessment, but assessment might help programming. 
 
-- [ ] Sundays: **PA**: Submit notebook: <JHED ID>.ipynb
+- [x] Sundays: **PA**: Submit notebook: <JHED ID>.ipynb
 
 - [ ] Mindmap
 
