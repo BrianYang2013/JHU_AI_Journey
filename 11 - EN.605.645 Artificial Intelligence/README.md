@@ -76,6 +76,16 @@
   - Describe the changes necessary to enable the ID3 algorithm to learn regression trees
 
 - Bayesian Networks
+  
+  - Describe the problem of uncertainty and how probability permits us to reason about it.
+  
+  - Explain how a Bayesian Network factors a probability distribution.
+  
+  - Describe the various types of reasoning that can be conducted with a Bayesian Network.
+  
+  - Apply Variable Elimination and Gibbs Sampling to make inferences about a Bayesian Network.
+  
+  - Implement a Naive Bayes Classifier.
 
 - Planning
 
