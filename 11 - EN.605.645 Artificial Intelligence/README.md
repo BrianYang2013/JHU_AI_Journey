@@ -88,12 +88,47 @@
   - Implement a Naive Bayes Classifier.
 
 - Planning
+  
+  - Compare the characteristics of a total and partial order planner.
+  
+  - Apply and implement the STRIPS planning algorithm to a planning problem.
+  
+  - Apply the GraphPlan algorithm to a planning problem.
 
 - Reinforcement Learning
+  
+  - Identify and formulate problems that are good candidates for reinforcement learning.
+  - Explain and implement value iteration.
+  - Explain and implement model-free algorithms such as Q-Learning and SARSA.
+  - Describe the basic idea behind the model-driven reinforcement learning approach.
+  - Reading: Barto & Sutton, *Reinforcement Learning*
+    - Section 4.4, [Value Iteration (Links to an external site.)](http://www.incompleteideas.net/book/ebook/node44.html)
+    - Section 6.5, [Q-Learning (Links to an external site.)](http://www.incompleteideas.net/book/ebook/node65.html)
+    - Section 6.4, [SARSA](http://www.incompleteideas.net/book/ebook/node64.html)
 
 - Regression and SVM
+  
+  - Identify and explain the difference between supervised and unsupervised machine learning.
+  
+  - Explain and implement the gradient descent algorithm for regression.
+  
+  - Explain and implement the gradient descent algorithm for logistic regression.
+  
+  - Explain the SVM approach to the linear discriminant.
+  
+  - Explain the problem linear v. non-linear separability and the role of “The Kernel Trick”.
 
 - Artificial Neural Networks
+  
+  - Explain the perceptron learning algorithm.
+  
+  - Identify the key improvements introduced by the multi-layer perceptron.
+  
+  - Explain the back-propagation algorithm for training a multi-layer perceptron.
+  
+  - Implement a multi-layer perceptron.
+  
+  - Describe some of the key issues in using a multi-layer perceptron for a machine learning task.
 
 ## Check List
 
