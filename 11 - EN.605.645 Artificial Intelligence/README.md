@@ -1,8 +1,8 @@
 # About this course
 
-## Professor
+Professor: Stephyn Butcher
 
-Stephyn Butcher
+TA: Jordan DeBarth
 
 ## Textbook
 
@@ -161,8 +161,6 @@ This week we look at another one of the components of AI that we'll address this
 We'll look at hill climbing, simulated annealing, and evolutionary computation...specifically the genetic algorithm. There are many, many other methods and they are dear to my heart as Particle Swarm Optimization was the subject of my dissertation research. We'll look at another optimization algorithm, gradient descent, later in the semester. It's worth noting that some of the problems we looked at last week can be cast as optimization problems and solved with local search methods. Usually it's the kinds of problems where we don't care about the path, only the solution.
 
 Take a look at the Self Check and Programming Assignment sooner rather than later. This assignment requires you to both create working code and as part of that working code, you'll need to "experiment" with the proper parameters.
-
-
 
 ## Module 3 - Pattern Recognition
 
@@ -363,25 +361,25 @@ This is important: you really, really need to understand how and why everything 
 
 Trace these back and forth. We will go over this in Office Hours (Thursday, 7p ET).
 
-Please be aware that this assignment uses **stochastic** gradient descent, which is slightly different than "regular" or "batch" gradient descient (you won't have done last week's lesson but if you look at the pseudocode it is different). For "convergence" it is ok to pick a large number of iterations (experiment!) rather than use epsilon again. **Be methodical in your programming. Make lots of small functions, thoroughly tested. I cannot emphasize this enough...**
+Please be aware that this assignment uses **stochastic** gradient descent, which is slightly different than "regular" or "batch" gradient descent (you won't have done last week's lesson but if you look at the pseudocode it is different). For "convergence" it is ok to pick a large number of iterations (experiment!) rather than use epsilon again. **Be methodical in your programming. Make lots of small functions, thoroughly tested. I cannot emphasize this enough...**
 
 Have a great week!
 
 ## Check List
 
-- [ ] Everyday: respond to email (give detail information, reduce misunderstanding)
+- [x] Everyday: respond to email (give detail information, reduce misunderstanding)
 
-- [ ] Everyday: Check Canvas on Announcements, Posts, etc.
+- [x] Everyday: Check Canvas on Announcements, Posts, etc.
 
-- [ ] Everyday: Check Team and "Like" every post from professor, as acknowledge that we have read it
+- [x] Everyday: Check Team and "Like" every post from professor, as acknowledge that we have read it
 
 - [x] Monday: Module Open: 
   
   - [x] Review Self-Check (do the algorithm by hand), PA (implementation)
   - [x] Watch Lectures (Videos), extra reading materials. 
-  - [ ] Read Textbook: Only the relevant part. 
+  - [ ] Read Textbook: the relevant part. 
 
-- [ ] Wednesday: Office Hours
+- [x] Wednesday: Office Hours
 
 - [x] Thursday night: **Submit** Self-Check in PDF in Canvas, (complete or incomplete)
 
@@ -389,13 +387,13 @@ Have a great week!
 
 - [x] Middle Sunday: Group self check **comments** (discuss conceptually). Review at least two other self-checks and post comments. Start with fewest responses so far. Respond to ALL questions(?).
 
-- [ ] Sunday: **Assessment**, 10 questions this week, 5 random from previous. 45mins, Randomized. Can not go back. => Do it as early as you can. The programming not help assessment, but assessment might help programming. 
+- [x] Sunday: **Assessment**, 10 questions this week, 5 random from previous. 45mins, Randomized. Can not go back. => Do it as early as you can. The programming not help assessment, but assessment might help programming. 
 
 - [x] Sundays: **PA**: Submit notebook: <JHED ID>.ipynb
 
-- [ ] Mindmap
+- [x] Mindmap
 
-- [ ] Special: Overview -> Lecture -> Model evaluation. Look for course notes for the output. 
+- [x] Special: Overview -> Lecture -> Model evaluation. Look for course notes for the output. 
 
 ## Programming Assignments
 
@@ -447,40 +445,23 @@ Have a great week!
 
 - Discussion: Critical thinking
 
-# Reference
+# Paper and article
 
-## Paper
+3CQs...
 
-## General
+1. Compliment the previous post
+2. make the Comment.
+3. make a Connection
+4. ask a Question.
 
-## CheatSheet and Tools
+[AI could make health care fairer—by helping us believe what patients say](https://www.technologyreview.com/2021/01/22/1016577/ai-fairer-healthcare-patient-outcomes/#:~:text=Artificial%20intelligence-,AI%20could%20make%20health%20care%20fairer%E2%80%94by%20helping%20us%20believe,gaps%20in%20existing%20medical%20knowledge)
 
-- *[Big O Cheat Sheet](http://bigocheatsheet.com/)*
-- *[Time (and Space) Complexity of Various Sorting Algorithms](http://scanftree.com/Data_Structure/time-complexity-and-space-complexity-comparison-of-sorting-algorithms)*
-- *[Visual Data structure](https://visualgo.net/en)*
+[ANDREW NG: UNBIGGEN AI - The AI pioneer says it’s time for smart-sized, “data-centric” solutions to big issues]([Andrew Ng: Unbiggen AI - IEEE Spectrum](https://spectrum.ieee.org/andrew-ng-data-centric-ai))
 
-## Naming Convension
+[ARTIFICIAL INTELLIGENCE IS MISREADING HUMAN EMOTION](https://www.theatlantic.com/technology/archive/2021/04/artificial-intelligence-misreading-human-emotion/618696/)
 
-Style:
+[Explainable Monitoring: Stop flying blind and monitor your AI](https://www.fiddler.ai/blog/explainable-monitoring-stop-flying-blind-and-monitor-your-ai)
 
-- [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
-- [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+[A Gentle Introduction to Concept Drift in Machine Learning](https://machinelearningmastery.com/gentle-introduction-concept-drift-machine-learning/)
 
-Reference: 
-
-- https://www.jianshu.com/p/a793c0d960fe
-
-- https://www.python.org/dev/peps/pep-0008/#naming-conventions
-
-Module, package: a_b.py
-
-Class: ThisIsAClass. Pascal style. 
-
-Variable:
-
-- Global: NUMBER. Upper. 
-- Local: this_is_a_var. Lower
-- Instance variable: _price.
-- Private variable: __private_var
-
-Function: get_name(), lower
+[Too many AI researchers think real-world problems are not relevant](https://www.technologyreview.com/2020/08/18/1007196/ai-research-machine-learning-applications-problems-opinion/)
