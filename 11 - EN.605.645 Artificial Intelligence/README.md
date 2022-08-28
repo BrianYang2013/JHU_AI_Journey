@@ -8,7 +8,7 @@ The course is very well organized and structured. The professor spent tremendous
 
 **TA**:  Jordan DeBarth is excellent. If you have a valid point, he will make a reasonable adjustment. And he always encourages students to do more.
 
-**Professor**: Stephyn Butcher sticks to his rule and hard to convince. I still believe my performance deserves an A, but the professor insists. It seems we have different interpretation on the fact, and I have to let it go. Here is the detail:
+**Professor**: Stephyn Butcher sticks to his rule (which is good) and hard to convince. I believe my performance deserves an A, but the professor insists A-. I have to agree with our disagree and move on. Here is the detail per session:
 
 - Programming A: 9 A+, 1 A, 2 A-
 - Assessment B: 2 A+ (perfect score), 6A, 3B (all 1 point away from A, in my first 3 weeks)
@@ -375,8 +375,6 @@ Trace these back and forth. We will go over this in Office Hours (Thursday, 7p E
 Please be aware that this assignment uses **stochastic** gradient descent, which is slightly different than "regular" or "batch" gradient descent (you won't have done last week's lesson but if you look at the pseudocode it is different). For "convergence" it is ok to pick a large number of iterations (experiment!) rather than use epsilon again. **Be methodical in your programming. Make lots of small functions, thoroughly tested. I cannot emphasize this enough...**
 
 Have a great week!
-
-
 
 ## Final
 
