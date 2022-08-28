@@ -6,9 +6,9 @@ The course is very well organized and structured. The professor spent tremendous
 
 ## Grading
 
-**TA**: Our TA is excellent. If you have a valid point, he will make a reasonable adjustment. And he always encourages students to do more.
+**TA**:  Jordan DeBarth is excellent. If you have a valid point, he will make a reasonable adjustment. And he always encourages students to do more.
 
-**Professor**: Stick to his rule and hard to convince. This is my first A- course in this program, among my previous 3 A+ and 1 A (This is another story). I still believe my performance in this course deserves an A, but the professor insists. It seems I have to let it go. Here is the detail:
+**Professor**: Stephyn Butcher sticks to his rule and hard to convince. I still believe my performance deserves an A, but the professor insists. It seems we have different interpretation on the fact, and I have to let it go. Here is the detail:
 
 - Programming A: 9 A+, 1 A, 2 A-
 - Assessment B: 2 A+ (perfect score), 6A, 3B (all 1 point away from A, in my first 3 weeks)
@@ -376,6 +376,48 @@ Please be aware that this assignment uses **stochastic** gradient descent, which
 
 Have a great week!
 
+
+
+## Final
+
+Congratulations!
+
+The course is over and you've all done very well.  We started out the semester by dipping our toes into each of three buckets in "AI":
+
+* A* Search (reasoning or "GOFAI")
+
+* Genetic Algorithm (optimization)
+
+* k Nearest Neighbor & Model Evaluation (pattern recognition or "ML")
+
+We then talked a bit about "Hybrid AI" and what that might mean in terms of combining the algorithms above into larger systems. We then started to deepen our understanding of each of the main types of algorithms:
+
+* Successive Elimination of Strong/Weakly Dominated Strategies (reasoning)
+
+* CSP backtracking & heuristics (reasoning)
+
+* Unification (reasoning)
+
+* Decision Trees (pattern recognition)
+
+* Naive Bayes Classifier (pattern recognition)
+
+* Forward Planner (reasoning)
+
+* Value Iteration (reasoning/pattern recognition)
+
+* Gradient Descent & Logistic Regression (optimization/pattern recognition)
+
+* Artificial Neural Networks (pattern recognition)
+
+I hope you learned something about the foundations of AI in the process. Former students have reported that they have found that they can talk more knowledgeably with their co-workers about AI and that "the Literature" has become a bit more accessible. I hope you fill find that to be the case. If you want to dig deeper into these topics, on the ML side, there's  Introduction to Machine Learning and the Seminar in Machine Learning and on the Symbolic AI side, there is now the Advanced AI class.
+
+However, if you taking the CS degree, there are quite a few other courses in the "Database Systems and Knowledge Management" Track (I have no idea why it's called that!) that you can take. If you are taking the new AI degree, there will be more classes still.
+
+If you have any interest in applied analytics/statistics, I also teach Data Science at JHU, every semester.
+
+Be well and stay healthy. 
+
 ## Check List
 
 - [x] Everyday: respond to email (give detail information, reduce misunderstanding)
@@ -388,7 +430,7 @@ Have a great week!
   
   - [x] Review Self-Check (do the algorithm by hand), PA (implementation)
   - [x] Watch Lectures (Videos), extra reading materials. 
-  - [ ] Read Textbook: the relevant part. 
+  - [x] Read Textbook: the relevant part. 
 
 - [x] Wednesday: Office Hours
 
