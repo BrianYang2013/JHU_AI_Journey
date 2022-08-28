@@ -1,12 +1,23 @@
 # About this course
 
-Professor: Stephyn Butcher
+## Course
 
-TA: Jordan DeBarth
+The course is very well organized and structured. The professor spent tremendous time recording the fantastic lectures, which were very helpful. A few programming assignments might lack clarity but overall is fine.
+
+## Grading
+
+**TA**: Our TA is excellent. If you have a valid point, he will make a reasonable adjustment. And he always encourages students to do more.
+
+**Professor**: Stick to his rule and hard to convince. This is my first A- course in this program, among my previous 3 A+ and 1 A (This is another story). I still believe my performance in this course deserves an A, but the professor insists. It seems I have to let it go. Here is the detail:
+
+- Programming A: 9 A+, 1 A, 2 A-
+- Assessment B: 2 A+ (perfect score), 6A, 3B (all 1 point away from A, in my first 3 weeks)
+- Self Check P
+- Participation A
 
 ## Textbook
 
-- Russell, S. & Norvig, P. (2020). ArtiCcial intelligence: A modern approach (4th ed.) Pearson. ISBN-10: 013461097 ISBN-13: 978-0134610997
+- Russell, S. & Norvig, P. (2020). Artificial intelligence: A modern approach (4th ed.) Pearson. ISBN-10: 013461097 ISBN-13: 978-0134610997
 
 # Course Topics
 
