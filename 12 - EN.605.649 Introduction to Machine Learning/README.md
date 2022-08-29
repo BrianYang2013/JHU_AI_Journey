@@ -2,8 +2,6 @@
 
 ## Course
 
-## Grading
-
 ## Textbook
 
 Required:
@@ -47,13 +45,29 @@ Module 14 - Temporal Difference Methods in Reinforcement Learning
 
 - [ ] Review Calendar once a week. 
 
-# Programming Assignments
+# Grading
+
+## Grading Policy
+
+- Muddy Post Discussions (6)
+
+- Small Group Discussions (5)
+
+- Short Quizzes (6)
+
+- Programming Projects(5)
+
+## Programming Assignments
+
+- Source code
+
+- Short video - 5 mins, focus on functionality. 
+
+- Report in PDF. 
 
 # Tips
 
 - Take one course at at time. Two courses for full time students.
-
-
 
 # Paper and article
 

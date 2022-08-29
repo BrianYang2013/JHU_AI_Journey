@@ -6,9 +6,9 @@ The course is very well organized and structured. The professor spent tremendous
 
 ## Grading
 
-**TA**:  Jordan DeBarth is excellent. If you have a valid point, he will make a reasonable adjustment. And he always encourages students to do more.
+**TA**: Jordan DeBarth is excellent. If you have a valid point, he will make a reasonable adjustment. And he always encourages students to do more.
 
-**Professor**: Stephyn Butcher sticks to his rule (which is good) and hard to convince. I believe my performance deserves an A, but the professor insists A-. I have to agree with our disagree and move on. Here is the detail per session:
+**Professor**: Stephyn Butcher sticks to his rule and is hard to convince. We both agree that based on the grading rule, my programming will be in the A zone, and my Assessment will be in the B zone. But if we look in detail, we might apply + to them and land the final grade as A. Unfortunately, the professor insists on A-. Detail:
 
 - Programming A: 9 A+, 1 A, 2 A-
 - Assessment B: 2 A+ (perfect score), 6A, 3B (all 1 point away from A, in my first 3 weeks)
