@@ -41,6 +41,8 @@ Module 14 - Temporal Difference Methods in Reinforcement Learning
 
 - [ ] Module 1
 
+- [ ] Review the discussion every day 
+
 - [ ] Review email and announcement, every day. 
 
 - [ ] Review Calendar once a week. 
@@ -49,13 +51,13 @@ Module 14 - Temporal Difference Methods in Reinforcement Learning
 
 ## Grading Policy
 
-- Muddy Post Discussions (6)
+- Muddy Post Discussions (6) 15%: End of module group, Day 3 + Day 5. Last module of module group, D3, D5
 
-- Small Group Discussions (5)
+- Small Group Discussions (5) 15% : 5 post, 3 days, total 8. First week of a module group
 
-- Short Quizzes (6)
+- Short Quizzes (6) 10%: Need to take it twice. Count the last one. (Not first, not average!)
 
-- Programming Projects(5)
+- Programming Projects(5) 60%
 
 ## Programming Assignments
 
@@ -68,6 +70,7 @@ Module 14 - Temporal Difference Methods in Reinforcement Learning
 # Tips
 
 - Take one course at at time. Two courses for full time students.
+- Pay attention to the format! 
 
 # Paper and article
 
