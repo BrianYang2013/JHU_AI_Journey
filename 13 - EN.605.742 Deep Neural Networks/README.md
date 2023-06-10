@@ -76,8 +76,6 @@ Course
 
 # Programming Assignments
 
-
-
 # Tips
 
 - Coding
