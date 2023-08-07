@@ -62,13 +62,13 @@ Hands-On Machine Learning (HOML) with Scikit-Learn, Keras, and TensorFlow: Conce
 
 ## Week 01
 
+## Week 04
 
+[Bagging和Boosting的区别](https://cloud.tencent.com/developer/news/393218)
 
 # Check List
 
 Notes
-
-Mindmap(?)
 
 Office Hours
 
@@ -78,13 +78,38 @@ Course
 
 # Tips
 
+- Feature Engineering
+
+  - EDA: 
+  - imBalance: Sub-sampling, SMOTE. 
+  - Outlier: DBSCAN. Outlier (STD, stats.boxcox)
+  - Feature augmentation. Data augmentation
+  - Feature Selection: Poly + PCA
+  - Feature Importance. 
+
+- Model Selection. 
+
+  - Find the right tool/package for the problem. 
+  - Try different type of models
+
+- Tuning Model
+
+  - Cross validation, CV variance. 
+
+- Ideas. Domain knowledge. 
+
+- Check the gap between prediction and real label, and adjust
+
+  
+
 - Coding
 
-  - Use Dictionary to manages the parameters
+- Use Dictionary to manages the parameters
 
-  - 20 lines per function
+- 20 lines per function
 
-  - Unit test.
+- Unit test.
+
 - Understand the problem and the benefits gained in selecting a particular strategy or tools. Focus on the trade offs. Consider Pro and cons among many different factors, such as: 
 
 - [Feynman Technique](https://en.wikipedia.org/wiki/Feynman_Technique)
@@ -92,6 +117,7 @@ Course
   - **Explain**: Pretend to explain it to a child
   - **Fill**: Fill in gaps in understanding exposed in step 2 by returning to the sources
   - **Simplify**: Simplify the explanation
+
 - Discussion: Critical thinking
 
 # Paper and article
