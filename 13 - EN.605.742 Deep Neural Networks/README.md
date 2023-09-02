@@ -1,8 +1,14 @@
 # About this course
 
+This course is fantastic and definitely worth your time. Here are a few key takeaways:
+
+- Randomness is part of life and part of this course.
+- Remember, effort doesn't always translate to progress; focus on the journey, not just the outcome.
+- Take the opportunity to learn from your peers. 
+
 ## Course
 
-DNN, DL, NLP, CV, ML, NN, TF, CNN, RNN, LSTM, GAN, DRL
+DNN, DL, NLP, CV, ML, NN, TF, CNN, RNN, LSTM, GRU, GAN, DRL
 
 ## General
 
@@ -65,14 +71,6 @@ Hands-On Machine Learning (HOML) with Scikit-Learn, Keras, and TensorFlow: Conce
 ## Week 04
 
 [Bagging和Boosting的区别](https://cloud.tencent.com/developer/news/393218)
-
-# Check List
-
-Notes
-
-Office Hours
-
-Course
 
 # Programming Assignments
 
