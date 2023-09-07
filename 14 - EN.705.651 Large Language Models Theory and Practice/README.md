@@ -51,7 +51,10 @@ JHU Courses
 
 - [SP23 CS 601.471/671 NLP: Self-supervised Models](https://self-supervised.cs.jhu.edu/sp2023/)
 - [FA22 CSCI 601.771: Self-supervised Statistical Models](https://self-supervised.cs.jhu.edu/fa2022/)
-- 
+
+Article:
+
+- [What OpenAI Really Wants](https://www.wired.com/story/what-openai-really-wants/)
 
 ## Papers - Before Transformer
 
@@ -79,4 +82,8 @@ JHU Courses
 
 - [Nougat: Neural Optical Understanding for Academic Documents](https://arxiv.org/pdf/2308.13418v1.pdf)
 - [The ConceptARC Benchmark: Evaluating Understanding and Generalization in the ARC Domain](https://arxiv.org/pdf/2305.07141.pdf)
+- [RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback](https://arxiv.org/abs/2309.00267)
+- [Large language models are not zero-shot communicators](https://openreview.net/forum?id=WgbcOQMNXB)
+- [Pragmatic Implicature Processing in ChatGPT](https://psyarxiv.com/qtbh9/)
+- [Does GPT-3 Grasp Metaphors? Identifying Metaphor Mappings with Generative Language Models](https://aclanthology.org/2023.acl-long.58.pdf)
 
