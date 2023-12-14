@@ -12,7 +12,7 @@
 
 # Course Topics
 
- 1. Introduction: The Structure, Statistics, and Representation of Language
+1. Introduction: The Structure, Statistics, and Representation of Language
 2. Introduction to the Modeling of Language
 3. What Is Attention?
 4. The Transformer: All You Need Is Attention
@@ -114,7 +114,6 @@
   - [Review — FLAN: Finetuned Language Models Are Zero-Shot Learners](https://sh-tsang.medium.com/review-flan-finetuned-language-models-are-zero-shot-learners-1a9249fdd296#:~:text=FLAN%2C%20A%20LLM%20Instruction%20Tuning%20Approach&text=Finetuned%20LAnguage%20Net%20(FLAN)%20is,of%20datasets%20described%20via%20instructions.): Review
   - [Introducing FLAN: More generalizable Language Models with Instruction Fine-Tuning](https://blog.research.google/2021/10/introducing-flan-more-generalizable.html): Original Google Blog
   - [Instruction Tuning for Large Language Models: A Survey](https://arxiv.org/pdf/2308.10792.pdf)
-
 - [Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155.pdf)
   - [Aligning language models to follow instructions](https://openai.com/research/instruction-following): Open AI blog
 - [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691)
@@ -167,7 +166,6 @@
 - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
 - [Block-Recurrent Transformer: LSTM and Transformer Combined](https://towardsdatascience.com/block-recurrent-transformer-lstm-and-transformer-combined-ec3e64af971a)
 - [The Information Pathways Hypothesis: Transformers are Dynamic Self-Ensembles](https://arxiv.org/abs/2306.01705): Stochastically Subsampled self-Attention (SSA) – a general-purpose training strategy for transformers that can reduce both the memory and computational cost of self-attention by 4 to 8 times during training while also serving as a regularization method
-
 - [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
 - [BERT](https://arxiv.org/abs/1810.04805)
 - [Training Language Models to Follow Instructions](https://arxiv.org/abs/2203.02155)
