@@ -120,7 +120,6 @@
   - [Prompt Tuning, Hard Prompts & Soft Prompts](https://cobusgreyling.medium.com/prompt-tuning-hard-prompts-soft-prompts-49740de6c64c#:~:text=Prompt%20tuning%20involves%20using%20a,%2Dengineered%20%E2%80%9Chard%E2%80%9D%20prompts.)
   - [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://aclanthology.org/2021.acl-long.353.pdf)
   - [Understanding Parameter-Efficient LLM Finetuning: Prompt Tuning And Prefix Tuning](https://magazine.sebastianraschka.com/p/understanding-parameter-efficient#:~:text=Prefix%20Versus%20Prompt%20Tuning&text=Prefix%20tuning%20modifies%20more%20layers,in%20fewer%20parameters%20being%20updated.)
-
 - [LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2106.09685.pdf)
 
 #### Reasoning And Other Miscellany
