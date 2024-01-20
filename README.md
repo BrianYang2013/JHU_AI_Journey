@@ -5,24 +5,31 @@ Start from 2021 summer
 Want to know more about JHU EP? Here is a shared collective document on [JHU EP 101](https://docs.google.com/document/d/1HxCGx-5_n8WWgToqxkptXDeTSDQLgkvuunTKfPwlj_8/edit?usp=sharing)
 
 ## Why this repo
-* Collect information, Plan and reflection on my master journey.
-* Provide a reference, a checking point, a date point to the community.
+* Documenting my master's journey, including information collection, planning, and reflection.
+* Offering a reference, checkpoint, or simply a data point to the community.
+* Include only general and publicly available information.
 
 ## Before you pick a program
-* Master or PhD, Engineering or MBA, Full-time or part-time
-* Which area interests you? DS: insights. ML: forecasts. AI: actions. Reference: [What's the difference between data science, machine learning, and artificial intelligence?](http://varianceexplained.org/r/ds-ml-ai/)
+* Think of your needs, effort you want to spend, and available options. 
+  * Master's or PhD
+  * Engineering or MBA
+  * Full-time or part-time
+  * A degree, a certificate, or individual (series) courses.
+
 * Alternative choice
-  * If you want to start in DS/ML/AI, go [Kaggle](https://www.kaggle.com/), [Coursera](https://www.coursera.org/) etc.
-  * If you want to introduce DS/ML/AI to your job, pick up the packages such as [Scikit-learn](https://scikit-learn.org/stable/#), [Xgboost](https://xgboost.readthedocs.io/en/latest/), or search a repo in Github.
-  * If you are aiming to re-produce SOTA, go Github, conferences (such as ACL, ICML, NIPS, AAAI, IJCAI, ICCV, CVPR, KDD...), or Arxiv
-  * If you want to take one course, you can find a LOT of free resources available online. Check [Resources](https://github.com/BrianYang2013/JHU_AI_Journey#resources)
-  * Think of taking a certificate, such as in Standford(SCPD) or Berkely. You got chance to study with the full time students on the SOTA. 
-  * Gatech
+  * **Data Science/Machine Learning/AI Entry**: Begin your journey with [Coursera](https://www.coursera.org/), [Kaggle](https://www.kaggle.com/). 
+  * **Tools**: pick up the packages such as [Scikit-learn](https://scikit-learn.org/stable/#), [Xgboost](https://xgboost.readthedocs.io/en/latest/), or search a repo in Github.
+  * **SOTA Reproduction**: Github, conferences (such as ACL, ICML, NIPS, AAAI, IJCAI, ICCV, CVPR, KDD...), or Arxiv
+  * **Single or a series of courses**: Check [Resources](https://github.com/BrianYang2013/JHU_AI_Journey#resources)
+  * **Certificate Programs**: Think of taking a certificate, such as in Standford(SCPD) or Berkely. You got chance to study with the full time students on the SOTA. 
+  * **Other programs**: Gatech, Berkeley, University of Michigan, UCLA, UCSD ...
+* Which area interests you? DS: insights. ML: forecasts. AI: actions. Reference: [What's the difference between data science, machine learning, and artificial intelligence?](http://varianceexplained.org/r/ds-ml-ai/)
 * Misc: US degree, finance, time, risk and opportunity cost.
 * Read this one: [Why AI is Harder Than We Think](https://arxiv.org/pdf/2104.12871.pdf)
 
 ## Goals
-* AGI(Artificial General Intelligence) is not likely to happen in my generation. But if something interesting comes up, I wish I can understand it.
+* 2021: AGI(Artificial General Intelligence) is not likely to happen in my generation. But if something interesting comes up, I wish I can understand it.
+* 2024: I am still skepticial regarding AGI realization in the next two decades, the recent development in the LLMs (and LMMs) are really interesting. Let's see. 
 * Personal interests
   * Math - Awareness. Lay the foundation. Most (95%) of what you learned in school won't be used in career. What we learn in school is not knowledge, but the exercise of how to learn, and the ability to think. For example, we should be able to pick up new math topics at a reasonable timeframe (3 months for a typical graduate level course)  
   * Coding - Re-visit data structure and algorithms, leetcode, familiar with various packages. => Make it work, resolve the problem. 
@@ -33,9 +40,9 @@ Want to know more about JHU EP? Here is a shared collective document on [JHU EP 
   * Program - Finish with the shortest possible timeframe
   * Program - Finish with quality, such as straight A or honor
   * Academic - Join a research project
-  * Academic - publish a paper
-  * Coding - general coding skills like Leetcode
-  * Coding - Familar with various languages, such as Python, R, C++, Julia ...
+  * Academic - Publish a paper, and more. 
+  * Coding - General coding skills like Leetcode
+  * Coding - Familar with various languages, such as Python, C++, Julia, R ...
   * Coding - Familar with various packages and framework, such as Scikit-learn, Tanserflow, Pytorch ...
   * Engineering - Scale up, such as cloud; HPC
   * Career - Extend your network for new career opportunity
@@ -52,7 +59,7 @@ Want to know more about JHU EP? Here is a shared collective document on [JHU EP 
   * Life long study, with many master degrees
   * Pursue a PhD
 * JHU AI program is relevantly new, more courses will be added to the elective courses list, and more paths will define and provide. Pay attention to the new courses.   
-* EN.625.250
+* Course code. For example: EN.625.250
   * EN: school (Engineering, Medical, etc. )
   * 625: Major (Applied and computational Math 625, CS601 or 605, DS 685 etc. )
   * Next three digit: Course number. The first digit: 
@@ -110,9 +117,9 @@ Languages
 
 ### Source for textbooks
 
-- [Abebooks](https://www.abebooks.com/)
-
 - [Amazon](https://www.amazon.com/)
+
+- [Abebooks](https://www.abebooks.com/)
 
 ### Resources:
 * [MIT Open Courseware](https://ocw.mit.edu/)
