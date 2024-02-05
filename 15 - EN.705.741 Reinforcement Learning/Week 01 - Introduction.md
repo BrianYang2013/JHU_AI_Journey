@@ -22,8 +22,6 @@
 
 
 
-
-
 ## Markov decision processes
 
 Markov Decision Processes (MDPs) are a fundamental concept in the field of reinforcement learning and decision-making. Let's break this down into simpler terms:

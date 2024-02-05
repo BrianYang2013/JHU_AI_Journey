@@ -41,3 +41,6 @@ None.
 - Create written and oral communications understandable by a diverse audience.
 
 # Resources
+
+- [WHAT IS ARTIFICIAL INTELLIGENCE? - John McCarthy](https://www-formal.stanford.edu/jmc/whatisai/whatisai.html)
+

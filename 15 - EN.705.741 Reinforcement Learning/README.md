@@ -40,3 +40,7 @@ ISBN:   9780262039246
 - Follow developments in the reinforcement learning **research literature** and skillfully apply new algorithms as appropriate.
 
 # Resources
+
+- [神经网络在游戏领域的应用：强化学习的实践](https://juejin.cn/post/7319140186389889074)
+- [OpenAI: Universe](https://openai.com/research/universe)
+- 
