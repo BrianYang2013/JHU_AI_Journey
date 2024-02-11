@@ -145,3 +145,12 @@ Discovering new theories can be slow and arduous, as testified by the long times
 
 #### 6.3 Towards more human-like learning and thinking machines
 
+
+
+# Sparks of Artificial General Intelligence - Early experiments with GPT-4
+
+
+
+# Misc
+
+Inductive Bias
