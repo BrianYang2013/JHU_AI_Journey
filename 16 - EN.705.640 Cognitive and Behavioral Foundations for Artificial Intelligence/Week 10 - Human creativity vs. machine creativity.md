@@ -2,7 +2,7 @@
 
 
 
-## Cognitive psychology meets art: exploring creativity, language, and emotion through live musical improvisation in film and theatre
+## 1. Cognitive psychology meets art: exploring creativity, language, and emotion through live musical improvisation in film and theatre
 
 There are two core problem-solving modes: long-term deliberate methodical vs. short-term spontaneous
 
@@ -32,7 +32,9 @@ This call for investigation came right as the cognitive (and computer) revolutio
 
 ### Disucssion and conclusion
 
-## On impact and evaluation in Computational Creativity: A discussion of the Turing Test and an alternative proposal
+
+
+## 2. On impact and evaluation in Computational Creativity: A discussion of the Turing Test and an alternative proposal
 
 We show that the versions proposed thus far lack the important aspect of interaction, without which much of the power of the Turing Test is lost. 
 
