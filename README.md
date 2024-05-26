@@ -27,7 +27,7 @@ Want to know more about JHU EP? Here is a shared collective document on [JHU EP 
 * Misc: US degree, finance, time, risk and opportunity cost.
 * Read this one: [Why AI is Harder Than We Think](https://arxiv.org/pdf/2104.12871.pdf)
 
-## Goals
+## Possible Goals
 * AGI(Artificial General Intelligence) is not likely to happen in my generation. But if something interesting comes up, I wish I can understand it.
   * 2024 Update: I am still skepticial regarding AGI realization in the next two decades, the recent development in the LLMs (and LMMs) are really interesting. Let's see. 
 
@@ -54,7 +54,15 @@ Want to know more about JHU EP? Here is a shared collective document on [JHU EP 
   * Softskills - 
   * Efficiency - Collect tips and tools to improve the efficiency.
 
+# Lesson Learn
+
+- Start early, and secure your time. 
+- If you want to get a better grade, ALWAYS read carefully about the instruction, and stick with the rubic. Very few professor wants to discuss in detail, and most of them do not care how you think and explore. Simply grade by the rule. 
+- A course with a few assignment and lack of instructer attention, might result in surprise of the final grade.  
+- Pick the course interests you, and enjoy it. 
+
 ## Misc @ JHU AI program
+
 * Theoretical or applied approach
 * It is common that US can have multiply Master degree. So it leads to 2 options
   * Life long study, with many master degrees
