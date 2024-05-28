@@ -10,7 +10,7 @@ Software:
 
 - Jupyter Notebook: https://www.dataquest.io/blog/jupyter-notebook-tutorial/
 
-- Docker: https://learning.oreilly.com/scenarios/docker-for-ml/9781098109684/
+- Docker
 
 - Git: https://learning.oreilly.com/videos/complete-git-guide/9781800209855/
 
@@ -34,10 +34,7 @@ Module 14: Deployment Part 2
 # Check List
 
 - [ ] Syllabus
-
 - [ ] Course Outline
-
-- [ ] 
 
 # Grading
 
@@ -54,10 +51,6 @@ Module 14: Deployment Part 2
 - Class Portfolio 10%
 
 ## Programming Assignments
-
-- # Tips
-
-- 
 
 # Paper and article
 
