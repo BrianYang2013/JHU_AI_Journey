@@ -8,49 +8,104 @@ None. Materials include papers and textbooks from O’Reilly online
 
 Software:
 
-- Jupyter Notebook: https://www.dataquest.io/blog/jupyter-notebook-tutorial/
+- Jupyter Notebook: 
+  - [O'Reilly tutorial on Jupyter notebooks](https://www.oreilly.com/member/login/?next=https%3A//learning.oreilly.com/scenarios/docker-for-ml/9781098109684/).
+
+  - https://www.dataquest.io/blog/jupyter-notebook-tutorial/
 
 - Docker
+  - [Interactive Docker tutorial](https://www.oreilly.com/member/login/?next=https%3A//learning.oreilly.com/scenarios/docker-for-ml/9781098109684/) 
+  - [The Docker Masterclass for Beginners](https://learning.oreilly.com/course/the-docker-masterclass/9781835888148/)
 
-- Git: https://learning.oreilly.com/videos/complete-git-guide/9781800209855/
+- Git/Github: 
+  - https://learning.oreilly.com/videos/complete-git-guide/9781800209855/
+
+- Matplotlib, Sklearn, pandas
+
+- Flask
 
 # Course Topics
 
-Module 1: AI Overview and Case Studies
-Module 2: 6D Framework and Design Thinking
-Module 3: Data Engineering - Computer Vision and Time Series
-Module 4: Data Engineering for Unstructured Text
-Module 5: Data Engineering for Categorical Data
-Module 6: Data Storage
-Module 7: Design Supervised Algorithms Part I
-Module 8: Design Supervised Algorithms Part II
-Module 9: Design Unsupervised Machine Learning Algorithms
-Module 10: Reinforcement Learning Algorithms and Neuro-Symbolic Computing
-Module 11: Testing, Metrics, and Bias
-Module 12: Ethics in AI
-Module 13: Deployment Part 1
-Module 14: Deployment Part 2
+- AI Overview & Case Studies
+- ML Life-cycle Framework (6 Major Components)
+- Requirements
+- Data Engineering
+- Feature Engineering
+- Dataset Design
+- Metrics
+- Deployment & Post-Deployment
+- Implementation Real-World Systems:
+  - Object Detection
+  - Visual Search
+  - Multi-Modal Search
+  - Recommendation System
+
+# Course Schedule
+
+- [ ] Module 1	May 27	Introduction to AI Systems, Recommendation System	Discussion 1, Requirements Homework
+- [ ] Module 2	June 3	Data Engineering	Discussion 2, Data Engineering Homework
+- [ ] Module 3	June 10	Feature Engineering & Dataset Design	Discussion 3, Feature Engineering Homework
+- [ ] Module 4	June 17	Metrics & Model Development	Discussion 4, Metrics & Model Selection Homework
+- [ ] Module 5	June 24	Deployment & Post-Deployment	Discussion 5, FRAUD DETECTION SYSTEM CASE STUDY
+- [ ] Module 6	July 1	Object Detection System (Part 1)	Discussion 6, Object Detection Homework (Annotation Conversion, Negative Hard Mining, Data Streaming, etc.)
+- [ ] Module 7	July 8	Object Detection System (Part 2)	Discussion 7, OBJECT DETECTION SYSTEM CASE STUDY
+- [ ] Module 8	July 15	Visual Search Systems (Part 1)	Discussion 8, Visual Search Homework (RandAugment, Nearest Neighbor Search, etc.)
+- [ ] Module 9	July 22	Visual Search Systems (Part 2)	Discussion 9, VISUAL SEARCH SYSTEM CASE STUDY
+- [ ] Module 10	July 29	Multimodal Search Systems (Part 1)	Discussion 10, Multimodal Search (Text Processing, Multimodal Search, etc.)
+- [ ] Module 11	August 5	Multimodal Search Systems (Part 2)	Discussion 11, MULTIMODAL SYSTEM CASE STUDY
+- [ ] Module 12	August 12	Recommendation Systems	Discussion 12, RECOMMENDATION SYSTEM CASE STUDY
 
 # Check List
 
-- [ ] Syllabus
-- [ ] Course Outline
+- [x] Syllabus
+- [x] Course Outline
+- [ ] Review the Lectures in this module (Introduction to AI Systems and Introduction to Requirements Engineering)
+- [ ] Review the Git and GitHub tutorial. Follow the directions in this Module to get access to your provisioned GitHub account
+- [ ] Review the Fraud Detection Case Study
+- [ ] Introduce yourself to your section
+- [ ] Participate in the Discussion
+- [ ] Complete the Assignment
 
 # Grading
 
 ## Grading Policy
 
-- Discussion 15%
+- Discussion Participation  20%
+  - Timeliness
 
-- Assignment 20%
+  - Critical Thinking
 
-- System project 25%
-
-- Research paper 30%
-
-- Class Portfolio 10%
+- Assignment 30%
+- System project 40%
 
 ## Programming Assignments
+
+# Module 1 
+
+Course Objectives
+
+- System Thinking
+- Machine learning life-cycle
+- Technologies + Resources
+- Real-world Systems. 
+
+Motivation
+
+- Maximize value of ML models
+- Improve research skills
+- Implementation over theory
+- Financial incentives
+
+ML systems VS software systems
+
+- Data vs Code, Model vs Algorithm, Iteration and experimentation vs Testing and debugging
+- Probabilistic vs Deterministic, Adaptability vs Fixed logic, 
+- Model evaluation vs Functional Test, Data dependence vs Code dependence. 
+- Model deployment vs Software deployment, Monitoring and continuous vs Maintenance, Learning. 
+
+When to use ML
+
+- Capacity to learn, Patterns are complex, Data exists, Predictability, Similar distribution in production and training data, Tasks are repetitive, Consequence of errors is low, Tasks are scalable. 
 
 # Paper and article
 
@@ -60,6 +115,10 @@ Module 14: Deployment Part 2
 2. make the Comment.
 3. make a Connection
 4. ask a Question.
+
+M1
+
+- Huyen, C. (2022). Designing Machine Learning Systems. Chaper 1
 
 M2
 
@@ -128,3 +187,24 @@ M14
 - [Big Data Analysis: New Algorithms for a New Society](https://link-springer-com.proxy1.library.jhu.edu/book/10.1007/978-3-319-26989-4), An Overview of Concept Drift Applications
 
 - [A survey on concept drift adaptation](https://dl-acm-org.proxy1.library.jhu.edu/doi/10.1145/2523813)
+
+
+
+# Reference
+
+Previous (2022?) Course Topics (14 weeks):
+
+Module 1: AI Overview and Case Studies
+Module 2: 6D Framework and Design Thinking
+Module 3: Data Engineering - Computer Vision and Time Series
+Module 4: Data Engineering for Unstructured Text
+Module 5: Data Engineering for Categorical Data
+Module 6: Data Storage
+Module 7: Design Supervised Algorithms Part I
+Module 8: Design Supervised Algorithms Part II
+Module 9: Design Unsupervised Machine Learning Algorithms
+Module 10: Reinforcement Learning Algorithms and Neuro-Symbolic Computing
+Module 11: Testing, Metrics, and Bias
+Module 12: Ethics in AI
+Module 13: Deployment Part 1
+Module 14: Deployment Part 2
