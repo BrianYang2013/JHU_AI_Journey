@@ -75,8 +75,8 @@ Software:
 
   - Critical Thinking
 
-- Assignment 30%
-- System project 40%
+- Assignment 35%
+- System project 45%
 
 ## Programming Assignments
 
@@ -192,7 +192,7 @@ M14
 
 # Reference
 
-Previous (2022?) Course Topics (14 weeks):
+14 weeks Course Topics (2022 or 2023?):
 
 Module 1: AI Overview and Case Studies
 Module 2: 6D Framework and Design Thinking
