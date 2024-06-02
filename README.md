@@ -60,6 +60,12 @@ Want to know more about JHU EP? Here is a shared collective document on [JHU EP 
 - If you want to get a better grade, ALWAYS read carefully about the instruction, and stick with the rubic. Very few professor wants to discuss in detail, and most of them do not care how you think and explore. Simply grade by the rule. 
 - A course with a few assignment and lack of instructer attention, might result in surprise of the final grade.  
 - Pick the course interests you, and enjoy it. 
+- If a teacher do not have time to reply your email, or even host a office hours, you won't be graded in time. And you are likely to receive a surprise on your final grade. 
+- About ChatGPT in education system: 
+  - The education industry haven't changed over thousands of years. Based on my observations, the key to receive a high grades highly rely on your understanding of the teacher’s grading criteria and show what the teacher wants to see. Show it clearly, check, you get the score. Teachers often do not care if you truly understand the material or about your insights. Excellent teachers are willing to discuss these during office hours, but others may not have the time to talk to you.
+  - In this context, tools like ChatGPT, which very likely to change the entire education system, have not been well integrated into our education system yet. The society focus on the result, not whether you completed your work using paper, a typewriter, or a computer. GPT and Google are just tools. We need to learn how to use them, not simply ban them from the school. If schools cannot build a good system to assess your understanding of knowledge and mastery of tools, it is the school’s problem. You should have a clear goal, understand your abilities, know what the tools can and cannot do, and do **NOT** let the school stop you learning them and unleash your potential. 
+  - Back to the school topic. If school ban it, fine, stick with the rule and let's finish the program. Remember A is created by the school to honor the students who has good performance, it is **NOT** your ultimate goal. 
+
 
 ## Misc @ JHU AI program
 

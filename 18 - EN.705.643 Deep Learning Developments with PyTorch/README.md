@@ -77,6 +77,8 @@
 
 ## Week 01 
 
+Big 3: image classification, objective detection and semantic segmentation.
+
 SGD vs Adam: 
 
 Validation set vs Test set: 
