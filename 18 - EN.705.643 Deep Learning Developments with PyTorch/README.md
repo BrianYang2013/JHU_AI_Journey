@@ -79,7 +79,31 @@
 
 Big 3: image classification, objective detection and semantic segmentation.
 
+[Pytorch Tutorials](https://pytorch.org/tutorials/beginner/basics/intro.html)
+
+- Working with data: Dataset and Data loader: 
+  - decoupled dataset code from model training code for better readability and modularity. 
+  - `Dataset` stores the samples and their corresponding labels, and `DataLoader` wraps an iterable around the `Dataset` to enable easy access to the samples.
+  - Batching, Weighted sampling on imbalanced dataset, Shuffling, multi-processing
+- Creating Models
+  - Initialization will be taken care of. 
+
+- Optimizing the Model Parameters
+  - Loss funtion
+  - Optimizer
+  - Training
+    - The [`optimizer.step()`](vscode-file://vscode-app/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-sandbox/workbench/workbench.html) function update the parameters of the model based on the gradients computed during backpropagation.
+    - The [`optimizer.zero_grad()`](vscode-file://vscode-app/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-sandbox/workbench/workbench.html) function sets the gradients of all model parameters to zero. By default Pytorch will cumulate the gradients. 
+
+  - Test (or actually validation)
+    - The [`with torch.no_grad():`](vscode-file://vscode-app/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-sandbox/workbench/workbench.html) statement is used in PyTorch to disable gradient calculations during evaluating. Save memory and computational power because it is not necessary. 
+
+- Saving and Loading Models
+
 SGD vs Adam: 
+
+- SGD: Tend to go with much smoother solutions
+- [On Empirical Comparisons of Optimizers for Deep Learning](https://arxiv.org/pdf/1910.05446): we find that when carefully tuned, ADAM and other adaptive gradient methods never underperform MOMENTUM or SGD. 
 
 Validation set vs Test set: 
 
@@ -93,4 +117,5 @@ Validation set vs Test set:
 
   - Validation set / Test set: suppose to draw from the same distribution of training set. 
 
-    
+
+

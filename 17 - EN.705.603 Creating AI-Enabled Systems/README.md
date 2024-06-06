@@ -57,14 +57,15 @@ Software:
 
 # Check List
 
-- [x] Syllabus
-- [x] Course Outline
-- [ ] Review the Lectures in this module (Introduction to AI Systems and Introduction to Requirements Engineering)
-- [ ] Review the Git and GitHub tutorial. Follow the directions in this Module to get access to your provisioned GitHub account
-- [ ] Review the Fraud Detection Case Study
-- [ ] Introduce yourself to your section
-- [ ] Participate in the Discussion
-- [ ] Complete the Assignment
+- [x] Set up 1:1
+- [x] Module 2 - Overview and Objectives
+- [ ] Module 2 - Readings
+- [x] Module 2- Lectures: Data Engineering
+- [ ] Module 2 - Pandas Tutorial
+- [ ] Assignment - transactions_0.csv
+- [x] Assignment - Module 2 - Discussion
+- [ ] Assignment - Module 2 - Data Engineering for "SecureBank" Fraud Detection System
+- [ ] Set up next week
 
 # Grading
 
@@ -118,7 +119,35 @@ When to use ML
 
 M1
 
-- Huyen, C. (2022). Designing Machine Learning Systems. Chaper 1
+- Chip Huyen. (2022). Designing Machine Learning Systems. Chapter 2: Introduction to Machine Learning Systems Design
+
+M2
+
+- Chip Huyen. (2022). Designing Machine Learning Systems. Chapter 3: Data Engineering Fundamentals
+- Martin Kleppmann. (2017). Designing Data-Intensive Applications. Chapter 2. Data Models and Query Languages
+
+- 
+
+
+
+# Reference
+
+14 weeks Course Topics (2022 or 2023?):
+
+Module 1: AI Overview and Case Studies
+Module 2: 6D Framework and Design Thinking
+Module 3: Data Engineering - Computer Vision and Time Series
+Module 4: Data Engineering for Unstructured Text
+Module 5: Data Engineering for Categorical Data
+Module 6: Data Storage
+Module 7: Design Supervised Algorithms Part I
+Module 8: Design Supervised Algorithms Part II
+Module 9: Design Unsupervised Machine Learning Algorithms
+Module 10: Reinforcement Learning Algorithms and Neuro-Symbolic Computing
+Module 11: Testing, Metrics, and Bias
+Module 12: Ethics in AI
+Module 13: Deployment Part 1
+Module 14: Deployment Part 2
 
 M2
 
@@ -187,24 +216,3 @@ M14
 - [Big Data Analysis: New Algorithms for a New Society](https://link-springer-com.proxy1.library.jhu.edu/book/10.1007/978-3-319-26989-4), An Overview of Concept Drift Applications
 
 - [A survey on concept drift adaptation](https://dl-acm-org.proxy1.library.jhu.edu/doi/10.1145/2523813)
-
-
-
-# Reference
-
-14 weeks Course Topics (2022 or 2023?):
-
-Module 1: AI Overview and Case Studies
-Module 2: 6D Framework and Design Thinking
-Module 3: Data Engineering - Computer Vision and Time Series
-Module 4: Data Engineering for Unstructured Text
-Module 5: Data Engineering for Categorical Data
-Module 6: Data Storage
-Module 7: Design Supervised Algorithms Part I
-Module 8: Design Supervised Algorithms Part II
-Module 9: Design Unsupervised Machine Learning Algorithms
-Module 10: Reinforcement Learning Algorithms and Neuro-Symbolic Computing
-Module 11: Testing, Metrics, and Bias
-Module 12: Ethics in AI
-Module 13: Deployment Part 1
-Module 14: Deployment Part 2
