@@ -75,8 +75,8 @@ Software:
 
   - Critical Thinking
 
-- Assignment 35%
-- System project 45%
+- Assignment 30%
+- System project 50%
 
 ## Programming Assignments
 
