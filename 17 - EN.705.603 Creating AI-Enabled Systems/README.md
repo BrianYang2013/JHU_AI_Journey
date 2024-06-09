@@ -58,13 +58,12 @@ Software:
 # Check List
 
 - [x] Set up 1:1
-- [x] Module 2 - Overview and Objectives
-- [ ] Module 2 - Readings
-- [x] Module 2- Lectures: Data Engineering
-- [ ] Module 2 - Pandas Tutorial
-- [ ] Assignment - transactions_0.csv
-- [x] Assignment - Module 2 - Discussion
-- [ ] Assignment - Module 2 - Data Engineering for "SecureBank" Fraud Detection System
+- [ ] Module 3 - Overview and Objectives??
+- [ ] Module 3 - Readings??
+- [ ] Module 3 - Lectures??
+- [x] Assignment - transactions_1.parquet
+- [ ] Assignment - Module 3 - Discussion?? 
+- [ ] Assignment - Module 3 - Dataset Design & Feature Engineering for "SecureBank" Fraud Detection System
 - [ ] Set up next week
 
 # Grading
