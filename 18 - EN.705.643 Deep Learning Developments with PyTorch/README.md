@@ -47,8 +47,9 @@
 
 # Check List
 
-- [ ] Syllabus
-- [ ] Course Outline
+- [x] Syllabus
+- [x] Course Outline
+- [x] Assignment 1 Getting Started with PyTorch - June 14  or 16
 
 # Grading
 
