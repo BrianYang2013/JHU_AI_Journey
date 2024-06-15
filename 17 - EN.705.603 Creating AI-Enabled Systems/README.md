@@ -19,10 +19,18 @@ Software:
 
 - Git/Github: 
   - https://learning.oreilly.com/videos/complete-git-guide/9781800209855/
-
+  - https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+  
 - Matplotlib, Sklearn, pandas
 
 - Flask
+
+- [Pandas 101](https://zerotomastery.io/blog/pandas-101-data-manipulation-with-pandas-and-python/)
+
+- [Numpy 101](https://zerotomastery.io/blog/numpy-101-tutorial/)
+
+- [Matplotlib](https://zerotomastery.io/blog/matplotlib-guide-python/)
+
 
 # Course Topics
 
@@ -42,8 +50,8 @@ Software:
 
 # Course Schedule
 
-- [ ] Module 1	May 27	Introduction to AI Systems, Recommendation System	Discussion 1, Requirements Homework
-- [ ] Module 2	June 3	Data Engineering	Discussion 2, Data Engineering Homework
+- [x] Module 1	May 27	Introduction to AI Systems, Recommendation System	Discussion 1, Requirements Homework
+- [x] Module 2	June 3	Data Engineering	Discussion 2, Data Engineering Homework
 - [ ] Module 3	June 10	Feature Engineering & Dataset Design	Discussion 3, Feature Engineering Homework
 - [ ] Module 4	June 17	Metrics & Model Development	Discussion 4, Metrics & Model Selection Homework
 - [ ] Module 5	June 24	Deployment & Post-Deployment	Discussion 5, FRAUD DETECTION SYSTEM CASE STUDY
@@ -58,9 +66,14 @@ Software:
 # Check List
 
 - [x] Set up 1:1
-- [ ] Module 3 - Overview and Objectives??
-- [ ] Module 3 - Readings??
-- [ ] Module 3 - Lectures??
+- [x] Module 3 - Overview and Objectives
+- [x] Module 3 - Readings 1
+- [ ] Module 3 - Readings 2
+- [x] Module 3 - Readings 3
+- [x] Module 3 - Lectures 1
+- [ ] Module 3 - Lectures 2
+- [x] Module 3 - Numpy
+- [x] Module 3 - Matplotlib
 - [x] Assignment - transactions_1.parquet
 - [ ] Assignment - Module 3 - Discussion?? 
 - [ ] Assignment - Module 3 - Dataset Design & Feature Engineering for "SecureBank" Fraud Detection System
@@ -80,7 +93,9 @@ Software:
 
 ## Programming Assignments
 
-# Module 1 
+# Notes
+
+## Module 1
 
 Course Objectives
 
@@ -107,6 +122,131 @@ When to use ML
 
 - Capacity to learn, Patterns are complex, Data exists, Predictability, Similar distribution in production and training data, Tasks are repetitive, Consequence of errors is low, Tasks are scalable. 
 
+
+
+## Modele 3
+
+**Data Quality**
+
+**Data**
+
+Data issue: the label multiplicity problem, the lack of labels problem, the class imbalance problem, and techniques in data augmentation to address the lack of data problem. Data distribution shifts. 
+
+We use the term “training data” instead of “training dataset” because “dataset” denotes a set that is finite and stationary.
+
+Data is full of potential biases. There are biases caused during collecting, sampling, or labeling. Historical data might be embedded with human biases, and ML models, trained on this data, can perpetuate them.
+
+**Sampling**
+
+- Nonprobability Sampling: Convenience sampling (based on availability), Snowball samping (start with a small number and extend), Judgment sampling, Quota sampling, 
+  - Language models are often trained not with data that is representative of all possible texts but with data that can be easily collected
+  - Sentiment analysis: biased toward users who are willing to leave reviews online, and not necessarily representative of people who don’t have access to the internet or people who aren’t willing to put reviews online.
+- Simple Random Sampling
+  - Stratified Sampling
+  - Weighted Sampling: random.choices
+  - Reservoir Sampling: Sampling k elements from n Streaming data, ensure same probability
+    - Put the first k elments into the reservoir. 
+    - For each incoming element, generate a random number  1<=i<=n
+    - If 1<=i<=k: replace the i-th element with the new income element. 
+  - Importance sampling
+
+**Labeling:** Data labeling has gone from being an auxiliary task to being a core function of many ML teams in production.
+
+- Hand Labels: Difficult, expensive, data privacy, slow
+- Label multiplicity: different data sources and annotators have different levels of accuracy. it’s important to first have a clear problem definition. 
+- Data Lineage: keep track of the origin of each of your data samples as well as its labels
+- Natural Labels: Travel time on google map, Stock price prediction, Clicks after recommend. Easier and cheaper to first start on tasks that have natural labels. 
+  - Feedback loop length
+  - Different type of user feedback: What is important. Choosing the eright window length
+
+- Handling the Lack of Labels
+  - Weak supervision: Leverages (often noisy) heuristics to generate labels
+    - Snorkel: Labeling Function: Keyword heuristic, Regular expressions, Database lookup, The outputs of other models ...
+    - Better performance with more data. LFs were being reused across tasks. 
+  - Semi- supervision: Leverages structural assumptions to generate labels
+    - Requires an initial set of labels.
+    - Perturbation-based method: small perturbations to a sample shouldn’t change its label.
+  - Transfer learning: Leverages models pretrained on another task for your new task
+  - Active learning: Labels data samples that are most useful to your model
+    - The hope here is that ML models can achieve greater accuracy with fewer training labels if they can choose which data samples to learn from.  A model (active learner) sends back queries in the form of unlabeled samples to be labeled by annotators (usually humans).
+    - uncertainty measurement
+    - query-by-committee
+- Labeling Strategies: Manual Labeling, Crowdsourcing, Natural Labeling
+- Measuring Label Quality, Inter-annotator Agreement: Cohen’s Kappa
+
+**Class imbalance:** 
+
+- Class imbalance can make learning difficult 
+  - Class imbalance often means there’s insufficient signal for your model to learn to detect the minority classes. 
+  - Class imbalance makes it easier for your model to get stuck in a nonoptimal solution by exploiting a simple heuristic instead of learning anything useful about the underlying pattern of the data.
+  - Class imbalance leads to asymmetric costs of error—the cost of a wrong prediction on a sample of the rare class might be much higher than a wrong prediction on a sample of the majority class.
+- Class imbalance: inherent in the problem, caused by biases during the sampling process, Lbeling errors. 
+- Approaches to handeling class imbalance:
+  - Using the right evaluation metrics: F1, precision, recall. Threshold. 
+  - Data-level methods: Resampling (oversampling, undersampling). Tomek links, SMOTE (synthetic minority oversampling technique), two-phase learning, dynamic sampling. 
+  - Algorithm level methods: Adjust loss function. Cost-sensitive learning, Class-balanced loss, Focal loss
+
+**Data augmentation:** 
+
+- Simple label-preserving transformations
+  - image: cropping, flipping, rotating, inverting (horizontally or vertically), erasing part of the image, and more.
+  - NLP: randomly replace a word with a similar word, assuming wouldn’t change the meaning or the sentiment
+- Perturbation
+  - Neural networks, in general, are sensitive to noise. AWGN (Additive White Gaussian Noise). 
+  - Using deceptive data to trick a neural network into making wrong predictions is called adversarial attacks. 
+- Data Synthesis
+
+
+
+[**Feature Engineering Technique:** ](https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114)
+
+- Imputation - Missing value
+
+  - Drop
+  	```python
+  	threshold = 0.7#Dropping columns with missing value rate higher than threshold
+  	data = data[data.columns[data.isnull().mean() < threshold]]
+  	
+  	#Dropping rows with missing value rate higher than threshold
+  	data = data.loc[data.isnull().mean(axis=1) < threshold]
+  	```
+
+  - Numerical Imputation
+    ```python
+    #Filling all missing values with 0
+    data = data.fillna(0)#Filling missing values with medians of the columns
+    data = data.fillna(data.median())
+    ```
+
+  - Categorical Imputation
+
+		```python
+		**#Max fill function for categorical columns**
+    data['column_name'].fillna(data['column_name'].value_counts().idxmax(), inplace=True)
+    ```
+	
+- Handling Outlier
+
+  - Outlier Detection with Standard Deviation
+
+  - Outlier Detection with Percentiles
+
+  - An Outlier Dilemma: Drop or Cap
+
+- Binning
+
+- Log transform
+
+- OHE
+
+- Grouping
+
+- Feature Split
+
+- Scaling: Normalization, Standardization
+
+- Extracting Date
+
 # Paper and article
 
 3CQs...
@@ -125,7 +265,11 @@ M2
 - Chip Huyen. (2022). Designing Machine Learning Systems. Chapter 3: Data Engineering Fundamentals
 - Martin Kleppmann. (2017). Designing Data-Intensive Applications. Chapter 2. Data Models and Query Languages
 
-- 
+M3
+
+- Chip Huyen. (2022). *Designing Machine Learning Systems*. [Chapter 4: Training DatasetsLinks to an external site.](https://learning.oreilly.com/library/view/designing-machine-learning/9781098107956/ch04.html)
+- Martin Kleppmann. (2017). *Designing Data-Intensive Applications*. [Chapter 5: Feature EngineeringLinks to an external site.](https://learning.oreilly.com/library/view/designing-machine-learning/9781098107956/ch05.html#feature_crossing)
+- Emre Rençberoğlu. (2019). [Fundamental Techniques of Feature Engineering for Machine Learning](https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114) 
 
 
 

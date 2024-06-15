@@ -50,6 +50,8 @@
 - [x] Syllabus
 - [x] Course Outline
 - [x] Assignment 1 Getting Started with PyTorch - June 14  or 16
+- [ ] Recording - Week 2 CNN recording, Discussed questions add to notes
+- [ ] Assignment 2
 
 # Grading
 
