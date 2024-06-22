@@ -132,6 +132,6 @@ R-CNN
 
 Category: No object
 
-bbox regression: why bounding box is through regression? 
+bbox regression through regression? => Precise locate the position. The calculation efficiency.  
 
 [simple-faster-rcnn-pytorch](https://github.com/chenyuntc/simple-faster-rcnn-pytorch)
