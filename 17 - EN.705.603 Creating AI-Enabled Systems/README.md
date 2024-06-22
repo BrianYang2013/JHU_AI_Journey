@@ -31,6 +31,8 @@ Software:
 
 - [Matplotlib](https://zerotomastery.io/blog/matplotlib-guide-python/)
 
+- [Scikit-Learn](https://zerotomastery.io/blog/how-to-use-scikit-learn/)
+
 
 # Course Topics
 
@@ -66,17 +68,13 @@ Software:
 # Check List
 
 - [x] Set up 1:1
-- [x] Module 3 - Overview and Objectives
-- [x] Module 3 - Readings 1
-- [ ] Module 3 - Readings 2
-- [x] Module 3 - Readings 3
-- [x] Module 3 - Lectures 1
-- [ ] Module 3 - Lectures 2
-- [x] Module 3 - Numpy
-- [x] Module 3 - Matplotlib
-- [x] Assignment - transactions_1.parquet
-- [ ] Assignment - Module 3 - Discussion?? 
-- [ ] Assignment - Module 3 - Dataset Design & Feature Engineering for "SecureBank" Fraud Detection System
+- [x] Module 4 - Overview and Objectives
+- [x] Module 4 - Lectures 1
+- [x] Module 4 - Scikit-Learn Tutorial
+- [ ] transaction_2.json
+- [x] Assignment - Module 4 - Discussion
+- [ ] Assignment - Module 4 - Metrics & Model Selection for "SecureBank" Fraud Detection System 
+- [ ] Assignment - Module 5 
 - [ ] Set up next week
 
 # Grading
@@ -95,7 +93,7 @@ Software:
 
 # Notes
 
-## Module 1
+## Module 1 - Introduction
 
 Course Objectives
 
@@ -122,9 +120,9 @@ When to use ML
 
 - Capacity to learn, Patterns are complex, Data exists, Predictability, Similar distribution in production and training data, Tasks are repetitive, Consequence of errors is low, Tasks are scalable. 
 
+## Modele 2 - Data Engineering
 
-
-## Modele 3
+## Modele 3 - FE and Data
 
 **Data Quality**
 
@@ -196,7 +194,20 @@ Data is full of potential biases. There are biases caused during collecting, sam
   - Using deceptive data to trick a neural network into making wrong predictions is called adversarial attacks. 
 - Data Synthesis
 
+**Feature Selection:** 
 
+- Filter Methods
+  - Correlation Coefficient: Select features that are most relevant to the predictive model. Set threshhold. Remove reduendency. 
+  - Low Variance: Remove features with low-variance, which might contain less useful information. 
+  - Chi-Square Test: Evaluates the independence between categorical features and the target variable. 
+- Wrapper Methods: Computational expensive. 
+  - Recursive Feature Elimination (RFE): Starts with ALL features and iteratively removes the least significant features until the desired number of feature is reached. 
+  - Forward Selection: Start with NO features and iteratively adds the most significant feature until the model no longer improves. 
+- Embedded Methods
+  - LASSO: L1
+  - Ridge Regression: L2
+  - Elastic Net: L1+L2
+  - Tree-based method
 
 [**Feature Engineering Technique:** ](https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114)
 
@@ -211,7 +222,7 @@ Data is full of potential biases. There are biases caused during collecting, sam
   	data = data.loc[data.isnull().mean(axis=1) < threshold]
   	```
 
-  - Numerical Imputation
+  - Numerical Imputation. Mean, Median, Mode. Random. Regression. K-nearest
     ```python
     #Filling all missing values with 0
     data = data.fillna(0)#Filling missing values with medians of the columns
@@ -247,6 +258,34 @@ Data is full of potential biases. There are biases caused during collecting, sam
 
 - Extracting Date
 
+- Dimentionality Reduction: PCA, SVD, t-SNE, UMAP
+
+## Modeule 4 - Metrics
+
+Basics of Metrics
+
+- **Metrics:** quantitative measures used to evaluate the performance and effectiveness of a system, its components, or a model
+- Software vs ML systems
+- Offline Metrics (On historical data: Accuracy, Precision, Recall, F1, Sensitivity, Specificity) / Online Metrics (Actual system: Revenue, Click Through Rate)
+- Benchmarking
+
+Validation Strategies
+
+- **Goal of Validation:**ensure that a model generalizes well to unseen data beyond the training set
+- Data Partitioning: Training, Validation, Testing
+- Data Leakage: Temporal Leakage (future data in the training), Spatial Leakage(Overlap train and validate and/or test)
+- Cross validation: K-fold, Stratified k-fold, Leave one out, Rolling cross validation
+
+Advanced Metrics: 
+
+- Composite Metrics: combines multiple evaluation criteria to provide a more nuanced view of model performance
+- Sensitivity Analysis: systematically changing model parameters or input variables to observe and measure the effects on the model's performance
+- Subgroup Analysis: involves measuring the model performance of subgroups based on specific criteria such as class labels or demographic characteristics
+- Specific Capability Testing: Evaluates performance on a curated dataset to specifically test a specification and aims to assess how well a model can handle unique challenges or requirements posed by real-world scenarios beyond standard evaluation metrics
+- Invariant and Metamorphic Testing: evaluates whether the relationships or patterns between inputs and outputs change under predefined transformations
+
+Model Selection
+
 # Paper and article
 
 3CQs...
@@ -265,7 +304,7 @@ M2
 - Chip Huyen. (2022). Designing Machine Learning Systems. Chapter 3: Data Engineering Fundamentals
 - Martin Kleppmann. (2017). Designing Data-Intensive Applications. Chapter 2. Data Models and Query Languages
 
-M3
+M3????
 
 - Chip Huyen. (2022). *Designing Machine Learning Systems*. [Chapter 4: Training DatasetsLinks to an external site.](https://learning.oreilly.com/library/view/designing-machine-learning/9781098107956/ch04.html)
 - Martin Kleppmann. (2017). *Designing Data-Intensive Applications*. [Chapter 5: Feature EngineeringLinks to an external site.](https://learning.oreilly.com/library/view/designing-machine-learning/9781098107956/ch05.html#feature_crossing)

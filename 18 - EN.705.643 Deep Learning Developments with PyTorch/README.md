@@ -122,3 +122,16 @@ Validation set vs Test set:
 
 
 
+## Week 04
+
+Selective Search
+
+R-CNN
+
+[Understanding Region of Interest (RoI Pooling)](https://erdem.pl/2020/02/understanding-region-of-interest-ro-i-pooling)
+
+Category: No object
+
+bbox regression: why bounding box is through regression? 
+
+[simple-faster-rcnn-pytorch](https://github.com/chenyuntc/simple-faster-rcnn-pytorch)
