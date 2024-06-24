@@ -68,13 +68,10 @@ Software:
 # Check List
 
 - [x] Set up 1:1
-- [x] Module 4 - Overview and Objectives
-- [x] Module 4 - Lectures 1
-- [x] Module 4 - Scikit-Learn Tutorial
-- [ ] transaction_2.json
-- [x] Assignment - Module 4 - Discussion
-- [ ] Assignment - Module 4 - Metrics & Model Selection for "SecureBank" Fraud Detection System 
-- [ ] Assignment - Module 5 
+- [ ] Module 5 - Overview and Objectives
+- [ ] Module 5 - Readings 1
+- [ ] Module 5 - Lectures 1
+- [ ] Assignment - Module 5 - "SecureBank" Fault Detection System Case Study 
 - [ ] Set up next week
 
 # Grading
