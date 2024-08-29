@@ -127,7 +127,7 @@ Validation set vs Test set:
 
 Selective Search
 
-R-CNN
+R-CNN, Fast, Faster. 
 
 [Understanding Region of Interest (RoI Pooling)](https://erdem.pl/2020/02/understanding-region-of-interest-ro-i-pooling)
 
@@ -136,3 +136,30 @@ Category: No object
 bbox regression through regression? => Precise locate the position. The calculation efficiency.  
 
 [simple-faster-rcnn-pytorch](https://github.com/chenyuntc/simple-faster-rcnn-pytorch)
+
+## Week 05
+
+Video: Regonize actions, hard to get from a single static picture. Sequence (enter or out of a car)
+
+Special temporal. Average sampling. 
+
+Journey
+
+- Single Frame CNN: popular till 2016. Works well, always try this first. 
+
+- Late Fusion with FC layers, 
+- Late Fusion with pooling: average pooling over space and time: Hard to compare low-level motion between frames
+- Early Fusion: One layer of temporal processing may not be enough
+- 3D CNN: Each layer in the network is a 4D tensor. Use 3D Cone and 3D pooling
+- C3D: VGG of 3D CNNs: 3x3x3 conv is very expensive: AlexNet (0.7 GLFOP), VGG-16(13.6 GFLOP), C3D (39.5 GFLOP)
+
+Measuring Motion: Optical flow
+
+Recurrent Convolutional Network
+
+Inflating 2D networks to 3D (I3D) => Hard to replicate, lots of tricks in training recipe. 
+
+Dataset: 
+
+- Sports-1M, 487 sports. Largest in 2014. 
+- Kinetics Dataset
