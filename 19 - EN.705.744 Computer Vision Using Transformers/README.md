@@ -81,10 +81,17 @@
 
 # Notes
 
-- ## Week 01 
+## Week 01 
 
-  Reference: 
+Reference: 
 
-  - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
-    - [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
-    - [Tensor2Tensor Intro](https://colab.research.google.com/github/tensorflow/tensor2tensor/blob/master/tensor2tensor/notebooks/hello_t2t.ipynb#scrollTo=OJKU36QAfqOC)
+- [Official PyTorch Tutorials](https://pytorch.org/tutorials/)
+
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+  - [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+  - [Tensor2Tensor Intro](https://colab.research.google.com/github/tensorflow/tensor2tensor/blob/master/tensor2tensor/notebooks/hello_t2t.ipynb#scrollTo=OJKU36QAfqOC)
+
+Misc
+
+- [为什么现在的LLM都是Decoder only的架构？](https://www.zhihu.com/question/588325646/answer/3357252612)
+- [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide)
