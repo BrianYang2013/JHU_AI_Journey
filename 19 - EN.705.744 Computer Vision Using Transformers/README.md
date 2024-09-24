@@ -93,5 +93,32 @@ Reference:
 
 Misc
 
-- [为什么现在的LLM都是Decoder only的架构？](https://www.zhihu.com/question/588325646/answer/3357252612)
+- [Zhihu: 为什么现在的LLM都是Decoder only的架构？](https://www.zhihu.com/question/588325646/answer/3357252612)
+- [PaperWeekly - 为什么现在的大语言模型（LLM）都是Decoder-only的架构？](https://mp.weixin.qq.com/s/ZsHX-M9pisUvG9vqfzdzTQ)
+- [PaperWeekly - 让研究人员绞尽脑汁的Transformer位置编码](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247521021&idx=1&sn=237295f1dc737eec233583451f861798)
+- [PaperWeekly - Decoder-only的LLM为什么需要位置编码？](https://mp.weixin.qq.com/s/3sBYrKyEPP93nwigaOAAAA)
 - [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide)
+- [Large Language Models (in 2023)](https://www.youtube.com/watch?v=dbo3kNKPaUA)
+
+## Week 02
+
+ViT
+
+## Week 03
+
+Swin Transformer
+
+- A hierarchical vision Transformer that excels at various computer vision tasks. It employing a **hierarchical architecture** and introduces **Shifted Windows**, a technique for efficient self-attention computation, and demonstrates the architecture's effectiveness in tasks like image classification, object detection, and semantic segmentation. The second addresses challenges in training large vision models, including instability, resolution gaps, and data hunger. 
+- https://notebooklm.google.com/notebook/d8f1c767-cb6b-47b5-aaba-f7a509dbb71f
+
+Pyramid Vision Transformer
+
+
+
+
+
+## Week 04
+
+Rich feature hierarchies for accurate object detection and semantic segmentation
+
+- R-CNN: Regions with CNN features. 
