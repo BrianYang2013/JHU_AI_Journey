@@ -26,6 +26,7 @@ Want to know more about JHU EP? Here is a shared collective document on [JHU EP 
 * Which area interests you? DS: insights. ML: forecasts. AI: actions. Reference: [What's the difference between data science, machine learning, and artificial intelligence?](http://varianceexplained.org/r/ds-ml-ai/)
 * Misc: US degree, finance, time, risk and opportunity cost.
 * Read this one: [Why AI is Harder Than We Think](https://arxiv.org/pdf/2104.12871.pdf)
+* Oct 2025: I found this interesting article. I wish I read it earlier: [Doing well in your courses](https://cs.stanford.edu/people/karpathy/advice.html)
 
 ## Possible Goals
 * AGI(Artificial General Intelligence) is not likely to happen in my generation. But if something interesting comes up, I wish I can understand it.
